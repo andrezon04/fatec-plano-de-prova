@@ -1,0 +1,924 @@
+{
+  "solutions": {
+    "fatec-2024-2-1": {
+      "explanation": "O mapa apresenta movimentos iniciados no continente africano, que se ramificam por diferentes trajetos até a América. Há rotas terrestres pelo estreito de Bering e rotas marítimas. Por isso, a conclusão compatível com as setas é a origem comum acompanhada de percursos diferentes, e não uma única viagem obrigatoriamente marítima."
+    },
+    "fatec-2024-2-2": {
+      "explanation": "México pertence à América Latina e possui seis letras distintas: M, É, X, I, C e O. Seus anagramas são 6! = 720. Panamá tem repetição de A, reduzindo sua contagem; Canadá, Guiana e Jamaica não integram a América Latina definida pelo texto. Assim, México atende simultaneamente ao critério geográfico e ao combinatório."
+    },
+    "fatec-2024-2-3": {
+      "explanation": "A diferença Y − X reúne os elementos que pertencem a Y e não pertencem a X. Pertencer a Y significa que o idioma oficial não é o espanhol; não pertencer a X significa não ser país da América Latina. A alternativa E combina exatamente essas duas condições."
+    },
+    "fatec-2024-2-4": {
+      "explanation": "Capivaras são mamíferos. Pelos, glândulas mamárias e diafragma são características típicas e exclusivas dessa classe entre os grupos animais comparados. O coração dos mamíferos tem quatro cavidades e eles são endotérmicos, portanto as opções que apresentam três cavidades ou ectotermia estão incorretas."
+    },
+    "fatec-2024-2-5": {
+      "explanation": "Fulgêncio Batista governou Cuba por meio de uma ditadura apoiada por interesses estadunidenses. A oposição a esse regime levou ao movimento que culminou na Revolução Cubana de 1959. Os nomes e a trajetória política descritos no enunciado identificam Cuba, não Haiti ou Rússia."
+    },
+    "fatec-2024-2-6": {
+      "explanation": "O navio permanece flutuando pelo empuxo, explicado pelo princípio de Arquimedes. As eclusas elevam ou abaixam o nível da água ao serem preenchidas ou esvaziadas, relacionando-se ao comportamento de vasos comunicantes. A combinação desses conceitos explica a travessia com diferentes níveis."
+    },
+    "fatec-2024-2-7": {
+      "explanation": "O Canal do Panamá cria uma ligação entre Atlântico e Pacífico na América Central. Um navio que viaja entre as costas leste e oeste dos Estados Unidos passa a evitar o longo contorno pelo extremo sul da América. O Cabo Horn fica nesse extremo sul, e não no norte canadense."
+    },
+    "fatec-2024-2-8": {
+      "explanation": "A velocidade de 20 nós corresponde a 20 × 1,9 = 38 km/h. Para percorrer aproximadamente 19 000 km, o tempo seria 19 000/38 = 500 horas. Dividindo por 24, obtêm-se cerca de 20,8 dias. Entre as opções, a aproximação adequada é 20 dias."
+    },
+    "fatec-2024-2-9": {
+      "explanation": "Os países sul-americanos da tabela são Argentina, Brasil, Peru, Suriname, Uruguai e Venezuela. Para 2024, a soma das projeções é −1 + 1,6 + 2,4 + 3 + 3,2 + 4 = 13,2; a média é 13,2/6 = 2,2%. O Peru, com 2,4%, é o país apresentado nas alternativas mais próximo dessa média."
+    },
+    "fatec-2024-2-10": {
+      "explanation": "Os crescimentos anuais incidem sucessivamente sobre o valor já atualizado. Para a Venezuela, aplica-se 3% em 2023 e depois 4% em 2024: 196 × 1,03 × 1,04 = 209,9552 bilhões de dólares. Arredondando para duas casas decimais, a projeção é US$ 209,96 bilhões."
+    },
+    "fatec-2024-2-11": {
+      "explanation": "O Haiti passa de −1,8% para 1,0%, aumento de 2,8 pontos percentuais, superior às diferenças dos demais países listados nas alternativas. Em relação ao módulo da taxa inicial, a mudança corresponde a aproximadamente 155,6%. O Haiti está localizado na América Central, na região do Caribe."
+    },
+    "fatec-2024-2-12": {
+      "explanation": "O texto associa a expressão à monocultura, à dependência econômica e à interferência de empresas estrangeiras nas decisões nacionais. A alternativa B sintetiza essas características em países latino-americanos. Honduras não é asiática, Porter era escritor, e a expressão não é apresentada como denominação de países africanos."
+    },
+    "fatec-2024-2-13": {
+      "explanation": "O texto registra crescimento de 2,2% em 2023, acima dos 1,7% inicialmente projetados, e menciona um otimismo cauteloso entre analistas. Isso sustenta D. A previsão continua abaixo da média mundial de 3,2%, de modo que a alternativa que afirma crescimento acima da média mundial extrapola os dados."
+    },
+    "fatec-2024-2-14": {
+      "explanation": "Despite significa apesar de e introduz uma relação de concessão: há dificuldades, mas ainda assim ocorre um resultado relativamente positivo. No texto, o cenário macroeconômico e geopolítico desafiador contrasta com o desempenho melhor que o inicialmente esperado. Não se trata de relação de causa ou consequência."
+    },
+    "fatec-2024-2-15": {
+      "explanation": "No processo I, o dióxido de carbono presente no ar, no estado gasoso, é armazenado no estado líquido. A passagem de gás para líquido recebe o nome de condensação ou liquefação. Vaporização e ebulição correspondem ao sentido inverso, e fusão envolve a passagem de sólido para líquido."
+    },
+    "fatec-2024-2-16": {
+      "explanation": "A equação balanceada é CO₂ + 3 H₂ → CH₃OH + H₂O. Há um átomo de carbono e dois de oxigênio em cada lado; os seis hidrogênios dos três H₂ distribuem-se em quatro no metanol e dois na água. Portanto, x = 1 e y = 3."
+    },
+    "fatec-2024-2-17": {
+      "explanation": "O esquema representa o reaproveitamento do carbono: CO₂ captado é utilizado para produzir o combustível e pode retornar ao ciclo após a combustão. A neutralidade proposta decorre desse balanço no modelo apresentado, não da ausência de emissão nem da ausência de liberação de energia na queima."
+    },
+    "fatec-2024-2-18": {
+      "explanation": "Uma massa de 114 g de octano corresponde a 1 mol. Pela equação, 1 mol de C₈H₁₈ produz 8 mol de CO₂, isto é, 8 × 44 = 352 g. O combustível sintético emitiria 10% dessa quantidade: 0,10 × 352 = 35,2 g, aproximadamente 35 g."
+    },
+    "fatec-2024-2-19": {
+      "explanation": "Controle biológico consiste em empregar organismos para reduzir populações de espécies prejudiciais. No caso apresentado, fungos fitopatógenos inibem o capim-amargoso e reduzem a formação de sementes. Isso não equivale à aplicação de mais agrotóxicos nem à introdução de genes de resistência na planta daninha."
+    },
+    "fatec-2024-2-20": {
+      "explanation": "Imunoglobulinas são anticorpos, proteínas envolvidas no reconhecimento e na defesa contra antígenos. Sua produção pode ser estimulada por vacinação ou infecção. As demais alternativas trocam funções: hemoglobina transporta gases, enzimas catalisam reações, colágeno tem função estrutural e insulina participa do controle da glicemia."
+    },
+    "fatec-2024-2-21": {
+      "explanation": "O voo leva aproximadamente 9 000/900 = 10 horas. Sem ajustar o fuso, 09h45 + 10 h resultaria em 19h45. O destino está no fuso GMT−4 e a origem em GMT−7; portanto, o destino está três horas adiantado. A chegada local será às 22h45."
+    },
+    "fatec-2024-2-22": {
+      "explanation": "Para transportar 70 pessoas em carros com lotação de cinco, são necessários 70/5 = 14 carros. Eles ocupam 14 × 8 = 112 m². Como cada ônibus ocupa 56 m², essa área corresponde a 112/56 = 2 ônibus. Logo, I = 14 e II = 2."
+    },
+    "fatec-2024-2-23": {
+      "explanation": "O gráfico é linear entre 23,1% em 2000 e 54,1% em 2020. O ano de 2010 fica no ponto médio, com taxa (23,1 + 54,1)/2 = 38,6%. Como 38,6% = 0,386 = 386/1000 = 193/500, a alternativa C expressa o valor corretamente."
+    },
+    "fatec-2024-2-24": {
+      "explanation": "A energia cinética é Ec = m·v²/2. Substituindo m = 200 kg e v = 250 m/s: Ec = 200 × 250²/2 = 100 × 62 500 = 6 250 000 J. Em notação científica, isso é 6,25 × 10⁶ J, aproximado na alternativa D para 6,2 × 10⁶ J."
+    },
+    "fatec-2024-2-25": {
+      "explanation": "A doença de Chagas é uma protozoose causada pelo Trypanosoma cruzi. Sua transmissão vetorial envolve triatomíneos hematófagos contaminados, conhecidos como barbeiros. A doença pode comprometer, entre outros órgãos, coração e sistema digestório. As opções que a classificam como bacteriana, viral, micose ou verminose apresentam o agente errado."
+    },
+    "fatec-2024-2-26": {
+      "explanation": "Galeano critica a recepção passiva de imagens e emoções importadas, além das barreiras econômicas ao acesso aos livros. A referência a contemplar a vida em vez de fazê-la indica alheamento social. O texto relaciona esse afastamento à hegemonia cultural dos meios de massa e ao acesso restrito a outras manifestações culturais."
+    },
+    "fatec-2024-2-27": {
+      "explanation": "A frase aproxima o planeta de um subúrbio de Dallas sem usar um conectivo comparativo literal. Essa identificação figurada é uma metáfora, que expressa a influência cultural estadunidense sobre o mundo. Não há atribuição de comportamento humano a algo não humano nem supressão de termo anteriormente mencionado."
+    },
+    "fatec-2024-2-28": {
+      "explanation": "Cada grânulo é um cilindro com raio de 0,5 mm e altura de 1 mm. Usando π = 3, seu volume é 3 × 0,5² × 1 = 0,75 mm³. Para 6 000 grânulos: 4 500 mm³. Como 1 mm³ = 10⁻⁹ m³, o volume total é 4,5 × 10⁻⁶ m³."
+    },
+    "fatec-2024-2-29": {
+      "explanation": "Na emissão beta negativa, um nêutron transforma-se em próton, elevando o número atômico em uma unidade e conservando o número de massa. Assim, o cobalto-60, de Z = 27, transforma-se em níquel-60, de Z = 28, emitindo β⁻ com massa 0 e carga nuclear −1. A partícula deve aparecer entre os produtos."
+    },
+    "fatec-2024-2-30": {
+      "explanation": "O período de 7 300 dias corresponde a 7 300/365 = 20 anos. São quatro meias-vidas de cinco anos. Resta (1/2)⁴ = 1/16 = 6,25% da atividade inicial. A pergunta pede a redução, portanto 100% − 6,25% = 93,75%."
+    },
+    "fatec-2024-2-31": {
+      "explanation": "As maquiladoras montam ou transformam produtos no México, utilizando frequentemente insumos dos Estados Unidos e reexportando a produção para esse mercado. Entre as vantagens buscadas estão salários menores e proximidade com a fronteira. Não se trata de instalação no sul dos EUA nem de exploração mineral mexicana como regra."
+    },
+    "fatec-2024-2-32": {
+      "explanation": "A seleção natural favorece indivíduos cujas características hereditárias aumentam suas chances de sobrevivência e reprodução em determinado ambiente. As observações de Darwin contribuíram para essa explicação evolutiva. A lei do uso e desuso é associada a Lamarck; técnicas de clonagem e conhecimentos detalhados do genoma surgiram muito depois."
+    },
+    "fatec-2024-2-33": {
+      "explanation": "No equilíbrio 2 NH₃(g) ⇌ N₂(g) + 3 H₂(g), há dois mols gasosos no lado da amônia e quatro no outro lado. Aumentar a pressão favorece o lado de menor quantidade de gás, isto é, o da formação de NH₃. Diminuir a pressão favoreceria os produtos de sua decomposição."
+    },
+    "fatec-2024-2-34": {
+      "explanation": "Na expressão as principais capitais latinas que não se apresentavam como sedes de sua sociedade, o pronome relativo que retoma as principais capitais latinas. Publicou-o retoma o mapa, o qual retoma o movimento artístico e ele se refere ao artista. A alternativa E é a que identifica corretamente seu antecedente."
+    },
+    "fatec-2024-2-35": {
+      "explanation": "O texto descreve artistas incomodados com a cópia de modelos europeus e com a falta de uma expressão cultural própria. Torres-García procurou valorizar motivos uruguaios e sul-americanos. A busca por identidade local, portanto, explica a inspiração na cultura e no espaço da América do Sul."
+    },
+    "fatec-2024-2-36": {
+      "explanation": "O material usa a chamada You’re invited e apresenta data, horário, local, preço e finalidade de um evento beneficente. Essas informações caracterizam um convite para um jantar, realizado no hotel indicado em St. Augustine. As opções que mencionam curso, concerto em ginásio ou evento gratuito não correspondem ao conteúdo."
+    },
+    "fatec-2024-2-37": {
+      "explanation": "A costa ocidental sul-americana está próxima à convergência da placa de Nazca com a placa Sul-americana. A subducção gera acúmulo e liberação de tensões, favorecendo terremotos na região andina. As demais alternativas trocam placas, localizações ou o tipo de movimento tectônico."
+    },
+    "fatec-2024-2-38": {
+      "explanation": "A condição Ceci só vai se Iracema for significa C → I. Pela contrapositiva, se Iracema não for, Ceci não irá: ¬I → ¬C. É exatamente o que afirma D. A condição Peri → Ceci não obriga nenhuma delas a viajar nem permite inverter livremente a implicação."
+    },
+    "fatec-2024-2-39": {
+      "explanation": "Mésons são partículas subatômicas; seu estudo envolve as partículas que constituem a matéria e suas interações. Por isso, a descoberta descrita está relacionada à Física de Partículas. Termodinâmica estuda calor e energia macroscópica; Biofísica e Física Clássica não designam especificamente esse campo de investigação."
+    },
+    "fatec-2024-2-40": {
+      "explanation": "Extração ilegal, exploração de espécies e tráfico removem organismos e degradam seus habitats, dificultando a manutenção das populações e favorecendo extinções. As outras opções tratam ameaças — como desmatamento, aquecimento e contaminação — como se fossem benefícios ou afirmam que espécies introduzidas não alteram o equilíbrio ecológico."
+    },
+    "fatec-2024-2-41": {
+      "explanation": "O texto situa o planejamento entre 1966 e a década de 1970 e a conclusão/início de operação entre 1982 e 1984. Nesse intervalo, Brasil e Paraguai viviam regimes ditatoriais. As outras opções contrariam o enunciado: o projeto era binacional e o curso do rio Paraná foi efetivamente desviado."
+    },
+    "fatec-2024-2-42": {
+      "explanation": "A frequência fundamental de uma corda depende, entre outros fatores, de seu comprimento vibrante e de sua tensão: f = (1/2L)√(T/μ). Alterar a posição dos dedos muda o comprimento que vibra. A caixa de ressonância amplia a emissão sonora; ela não converte automaticamente energia mecânica em elétrica."
+    },
+    "fatec-2024-2-43": {
+      "explanation": "A disputa descrita envolve a Venezuela, que reivindica a região de Essequibo, atualmente situada no território da Guiana. Assim, as lacunas são preenchidas por pela Venezuela e guianense. Suriname e Brasil não são os territórios onde se encontra a região mencionada."
+    },
+    "fatec-2024-2-44": {
+      "explanation": "Sem reposição, a chance é (6/32) × (5/31) = 30/992 ≈ 0,03024, ou 3,024%. Equivalentemente, C(6,2)/C(32,2) = 15/496. Esse valor está entre 2,2% e 3,3%, portanto corresponde à alternativa C do gabarito retificado."
+    },
+    "fatec-2024-2-45": {
+      "explanation": "O nome Libertadores homenageia personagens ligados às independências sul-americanas, como Simón Bolívar e José de San Martín. A referência diz respeito à ruptura dos vínculos coloniais, não ao fim de ditaduras do século XX, a resultados esportivos ou à abolição do tráfico de escravizados."
+    },
+    "fatec-2024-2-46": {
+      "explanation": "O texto apresenta o Metric System também como SI, abreviação de Système International. O Reino Unido adotou o sistema métrico em 1965; antes disso, o sistema imperial havia sido oficializado em 1824. As demais alternativas trocam datas ou invertem as relações entre os sistemas."
+    },
+    "fatec-2024-2-47": {
+      "explanation": "O texto enumera unidades básicas do SI: metro, quilograma, segundo, ampère, kelvin, mol e candela. Seus símbolos incluem m, kg, s, A, K e cd, como afirma C. Ampère mede corrente elétrica especificamente; não representa todas as grandezas elétricas."
+    },
+    "fatec-2024-2-48": {
+      "explanation": "A personagem se identifica como batata inglesa e se assusta ao descobrir ascendência sul-americana, embora a origem andina da batata seja conhecida historicamente. O contraste entre seu nome cultural e a origem do alimento produz o humor e revela o desconhecimento histórico destacado em B."
+    },
+    "fatec-2024-2-49": {
+      "explanation": "O texto diz que a área se encontra junto a um vulcão, que criou solos férteis, mas também pode ter contribuído para destruir aquela sociedade. A resposta preserva a hipótese do texto: um vulcão, e não um meteoro, guerra ou epidemia."
+    },
+    "fatec-2024-2-50": {
+      "explanation": "O achado descreve casas e praças conectadas por uma rede extensa e sofisticada de estradas e canais. Essa organização contraria a ideia de pequenos grupos isolados ou exclusivamente nômades na região. A alternativa E resume a interconexão territorial apresentada no texto."
+    },
+    "fatec-2024-2-51": {
+      "explanation": "As estruturas foram construídas há cerca de 2 500 anos, muito antes da chegada de Colombo, e revelam planejamento de estradas, canais, agricultura e organização urbana. Logo, já existiam no continente sociedades com técnicas complexas. O Vale Upano citado fica no Equador, não no estado brasileiro do Amazonas."
+    },
+    "fatec-2024-2-52": {
+      "explanation": "Pelas regras, um numeral antes de chunca multiplica dez e um numeral depois é somado. Para 39 = 3 × 10 + 9, usam-se quimsa (três), chunca (dez) e iscun (nove), nessa ordem: quimsa chunca iscun."
+    },
+    "fatec-2024-2-53": {
+      "explanation": "O texto associa Bem-Viver à reciprocidade, à vida coletiva e ao respeito à terra, aos espíritos das montanhas e à natureza. Essas práticas sustentam a organização comunitária dos queros. Não há defesa do individualismo nem afirmação de abandono da tradição em favor da vida urbana."
+    },
+    "fatec-2024-2-54": {
+      "explanation": "O missionário descreve as conquistas como injustas, denuncia crueldade nas encomiendas e caracteriza as riquezas enviadas à Espanha como roubadas. Trata-se de uma crítica à violência e à opressão impostas aos povos nativos da América. As alternativas sobre harmonia ou sobre a Ásia contrariam explicitamente o documento."
+    }
+  },
+  "issues": [
+    {
+      "id": "fatec-2024-2-22",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "I = 28; II = 1.",
+          "I = 14; II = 4.",
+          "I = 14; II = 2.",
+          "I = 7; II = 2.",
+          "I = 7; II = 4."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>I = 28; II = 1.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I = 14; II = 4.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I = 14; II = 2.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I = 7; II = 2.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I = 7; II = 4.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-23",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "2000, corresponde à metade daquela aferida no ano de 2010.",
+          "2005, é um número que pertence ao conjunto dos números não positivos.",
+          "2010, equivale ao mesmo número representado pela fração irredutível 193/500.",
+          "2015, quando comparada com aquela medida no ano de 2000, é três vezes maior.",
+          "2020, mostra uma desaceleração no número de matriculados em relação ao ano de 2015."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>2000, corresponde à metade daquela aferida no ano de 2010.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2005, é um número que pertence ao conjunto dos números não positivos.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2010, equivale ao mesmo número representado pela fração irredutível 193/500.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2015, quando comparada com aquela medida no ano de 2000, é três vezes maior.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2020, mostra uma desaceleração no número de matriculados em relação ao ano de 2015.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-24",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "2,8 × 10⁸",
+          "8,6 × 10⁷",
+          "1,4 × 10⁷",
+          "6,2 × 10⁶",
+          "5,0 × 10⁵"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>2,8 × 10⁸</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>8,6 × 10⁷</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>1,4 × 10⁷</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>6,2 × 10⁶</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>5,0 × 10⁵</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-28",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "1,0 × 10⁻⁶",
+          "1,5 × 10⁻⁶",
+          "3,0 × 10⁻⁶",
+          "4,5 × 10⁻⁶",
+          "6,0 × 10⁻⁶"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>1,0 × 10⁻⁶</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>1,5 × 10⁻⁶</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>3,0 × 10⁻⁶</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>4,5 × 10⁻⁶</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>6,0 × 10⁻⁶</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-43",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "I: pela Guiana; II: brasileiro.",
+          "I: pela Guiana; II: surinamês.",
+          "I: pela Venezuela; II: surinamês.",
+          "I: pela Venezuela; II: guianense.",
+          "I: pelo Brasil; II: venezuelano."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>I: pela Guiana; II: brasileiro.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: pela Guiana; II: surinamês.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: pela Venezuela; II: surinamês.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: pela Venezuela; II: guianense.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: pelo Brasil; II: venezuelano.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-29",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "⁶⁰₂₇Co + ⁰₋₁β → ⁶⁰₂₈Ni",
+          "²⁷₆₀Co + ⁴₂β → ²⁸₆₀Ni",
+          "²⁷₆₀Co → ⁰₀β + ²⁸₆₀Ni",
+          "²⁷₆₀Co → ⁰₊₁β + ²⁸₆₀Ni",
+          "⁶⁰₂₇Co → ⁰₋₁β + ⁶⁰₂₈Ni"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>⁶⁰₂₇Co + ⁰₋₁β → ⁶⁰₂₈Ni</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>²⁷₆₀Co + ⁴₂β → ²⁸₆₀Ni</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>²⁷₆₀Co → ⁰₀β + ²⁸₆₀Ni</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>²⁷₆₀Co → ⁰₊₁β + ²⁸₆₀Ni</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>⁶⁰₂₇Co → ⁰₋₁β + ⁶⁰₂₈Ni</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-2",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 02 e 03.\nA expressão América Latina está mais associada a questões econômicas e sociais dos países que a\ncompõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma\nalusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente,\ncompreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil,\nChile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua,\nPanamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América\ndo Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.\nRODRIGUES, L. S. Topônimos latino-americanos: um estudo etimológico. In: Revista de Estudos de Linguagem. Vol. 26, n.o 3. Belo Horizonte:\nUFMG, pp.1031-1055. Adaptado.",
+        "text": "Assinale a alternativa em que é apresentado um país da América Latina cujo nome tem o maior número de\nanagramas.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 02 e 03. A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram. RODRIGUES, L. S. Topônimos latino-americanos: um estudo etimológico. In: Revista de Estudos de Linguagem. Vol. 26, n.o 3. Belo Horizonte: UFMG, pp.1031-1055. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa em que é apresentado um país da América Latina cujo nome tem o maior número de anagramas.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-3",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 02 e 03.\nA expressão América Latina está mais associada a questões econômicas e sociais dos países que a\ncompõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma\nalusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente,\ncompreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil,\nChile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua,\nPanamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América\ndo Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.\nRODRIGUES, L. S. Topônimos latino-americanos: um estudo etimológico. In: Revista de Estudos de Linguagem. Vol. 26, n.o 3. Belo Horizonte:\nUFMG, pp.1031-1055. Adaptado.",
+        "text": "Considere os conjuntos:\n• X = {x | x é um país da América Latina};\n• Y = {y | y é um país cujo idioma oficial não é o espanhol}.\nSe um país pertence ao conjunto C = Y – X, então, geograficamente, esse país",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 02 e 03. A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram. RODRIGUES, L. S. Topônimos latino-americanos: um estudo etimológico. In: Revista de Estudos de Linguagem. Vol. 26, n.o 3. Belo Horizonte: UFMG, pp.1031-1055. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Considere os conjuntos: • X = {x | x é um país da América Latina}; • Y = {y | y é um país cujo idioma oficial não é o espanhol}. Se um país pertence ao conjunto C = Y – X, então, geograficamente, esse país</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-6",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 06 a 08.\nO Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o\ncomércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem\na longa rota de, aproximadamente, 19 000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno\nda ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs\nfazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal,\ndevido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção\nde diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas.\nA França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus\ninteresses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em\nrelação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o\ncanal até 1999, quando a administração foi transferida para o Panamá.\n<http://tinyurl.com/ysw4r7b3> Acesso em: 23.01.2024. Adaptado.",
+        "text": "Segundo o texto, é possível afirmar corretamente que a mencionada obra de engenharia atingiu seu propósito por\nmeio de construções de eclusas e comportas, que se baseiam",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 06 a 08. O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19 000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá. &lt;http://tinyurl.com/ysw4r7b3&gt; Acesso em: 23.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Segundo o texto, é possível afirmar corretamente que a mencionada obra de engenharia atingiu seu propósito por meio de construções de eclusas e comportas, que se baseiam</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-7",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 06 a 08.\nO Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o\ncomércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem\na longa rota de, aproximadamente, 19 000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno\nda ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs\nfazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal,\ndevido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção\nde diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas.\nA França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus\ninteresses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em\nrelação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o\ncanal até 1999, quando a administração foi transferida para o Panamá.\n<http://tinyurl.com/ysw4r7b3> Acesso em: 23.01.2024. Adaptado.",
+        "text": "Com base no texto, é correto afirmar que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 06 a 08. O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19 000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá. &lt;http://tinyurl.com/ysw4r7b3&gt; Acesso em: 23.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Com base no texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-8",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 06 a 08.\nO Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o\ncomércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem\na longa rota de, aproximadamente, 19 000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno\nda ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs\nfazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal,\ndevido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção\nde diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas.\nA França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus\ninteresses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em\nrelação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o\ncanal até 1999, quando a administração foi transferida para o Panamá.\n<http://tinyurl.com/ysw4r7b3> Acesso em: 23.01.2024. Adaptado.",
+        "text": "Antes da construção do canal, um navio cargueiro, que fosse do ponto Atlântico do Canal do Panamá até o ponto\nPacífico desse canal, precisaria passar pelo Cabo Horn, conforme descrito no texto.\nSuponha que esse navio conseguisse percorrer o trecho, citado no parágrafo anterior, navegando, sem paradas\nou intercorrências, a uma velocidade média de cruzeiro de aproximadamente 20 nós.\nAdotando 1 nó como 1,9 km/h, é correto afirmar que o navio faria essa viagem, aproximadamente, em",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 06 a 08. O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19 000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá. &lt;http://tinyurl.com/ysw4r7b3&gt; Acesso em: 23.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Antes da construção do canal, um navio cargueiro, que fosse do ponto Atlântico do Canal do Panamá até o ponto Pacífico desse canal, precisaria passar pelo Cabo Horn, conforme descrito no texto. Suponha que esse navio conseguisse percorrer o trecho, citado no parágrafo anterior, navegando, sem paradas ou intercorrências, a uma velocidade média de cruzeiro de aproximadamente 20 nós. Adotando 1 nó como 1,9 km/h, é correto afirmar que o navio faria essa viagem, aproximadamente, em</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-13",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 13 e 14.\nLatin America in 2024\nDespite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.\nSÃO PAULO — Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for\nLatin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become\nincreasingly common. Economic growth in 2023 is expected to end up at 2.2 % — somewhat better than the\n1.7 % initially projected, but still below the global average of 3.2 %. Most analysts expect growth to decline\nslightly to 1.9 % this year, too little to decisively overcome the deep-seated public discontent that has been so\nprevalent across Latin America in recent years.\n<https://tinyurl.com/2zpnfdct> Acesso em: 16.01.2024. Adaptado.",
+        "text": "A partir da leitura do texto, infere-se que, na América Latina,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 13 e 14. Latin America in 2024 Despite mediocre growth, political risk is declining and cautious optimism is increasingly warranted. SÃO PAULO — Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for Latin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become increasingly common. Economic growth in 2023 is expected to end up at 2.2 % — somewhat better than the 1.7 % initially projected, but still below the global average of 3.2 %. Most analysts expect growth to decline slightly to 1.9 % this year, too little to decisively overcome the deep-seated public discontent that has been so prevalent across Latin America in recent years. &lt;https://tinyurl.com/2zpnfdct&gt; Acesso em: 16.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A partir da leitura do texto, infere-se que, na América Latina,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-14",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 13 e 14.\nLatin America in 2024\nDespite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.\nSÃO PAULO — Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for\nLatin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become\nincreasingly common. Economic growth in 2023 is expected to end up at 2.2 % — somewhat better than the\n1.7 % initially projected, but still below the global average of 3.2 %. Most analysts expect growth to decline\nslightly to 1.9 % this year, too little to decisively overcome the deep-seated public discontent that has been so\nprevalent across Latin America in recent years.\n<https://tinyurl.com/2zpnfdct> Acesso em: 16.01.2024. Adaptado.",
+        "text": "A palavra Despite, no texto, é usada para",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 13 e 14. Latin America in 2024 Despite mediocre growth, political risk is declining and cautious optimism is increasingly warranted. SÃO PAULO — Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for Latin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become increasingly common. Economic growth in 2023 is expected to end up at 2.2 % — somewhat better than the 1.7 % initially projected, but still below the global average of 3.2 %. Most analysts expect growth to decline slightly to 1.9 % this year, too little to decisively overcome the deep-seated public discontent that has been so prevalent across Latin America in recent years. &lt;https://tinyurl.com/2zpnfdct&gt; Acesso em: 16.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A palavra Despite, no texto, é usada para</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-26",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia uma passagem da obra O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27.\n\nA tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que\nela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se\nfossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de\nfazê-la, sacodem os ombros.\nNa América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de\nescassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.",
+        "text": "Segundo o texto apresentado, é correto afirmar que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia uma passagem da obra O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27.</p><p>A tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de fazê-la, sacodem os ombros. Na América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Segundo o texto apresentado, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-27",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia uma passagem da obra O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27.\n\nA tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que\nela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se\nfossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de\nfazê-la, sacodem os ombros.\nNa América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de\nescassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.",
+        "text": "O uso de conotação é recorrente, no texto apresentado, devido a seu caráter literário.\nIsso fica evidente na oração “o planeta inteiro é um vasto subúrbio de Dallas”, que é uma",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia uma passagem da obra O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27.</p><p>A tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de fazê-la, sacodem os ombros. Na América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>O uso de conotação é recorrente, no texto apresentado, devido a seu caráter literário. Isso fica evidente na oração “o planeta inteiro é um vasto subúrbio de Dallas”, que é uma</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-28",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 28 a 30.\nEm 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico\nque continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou\nparte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo\ncobalto-60.\nOs grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que\npossuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos\nrepresentam uma fonte de radioatividade cuja meia vida é estimada em 5 anos.\nAparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto,\na maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos\nfosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez.\nEsse é um dos maiores incidentes nucleares registrado nas Américas.\nFonte dos dados: <http://tinyurl.com/ym4uh6su> e <http://tinyurl.com/bddbw4y6> Acesso em: 10.01.2024. Adaptado.",
+        "text": "Assinale a alternativa que indica, em metros cúbicos, o volume total de grânulos do radioisótopo mencionado no\ntexto. (Adote π = 3)",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 28 a 30. Em 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico que continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou parte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo cobalto-60. Os grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que possuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos representam uma fonte de radioatividade cuja meia vida é estimada em 5 anos. Aparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto, a maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos fosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez. Esse é um dos maiores incidentes nucleares registrado nas Américas. Fonte dos dados: &lt;http://tinyurl.com/ym4uh6su&gt; e &lt;http://tinyurl.com/bddbw4y6&gt; Acesso em: 10.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que indica, em metros cúbicos, o volume total de grânulos do radioisótopo mencionado no texto. (Adote π = 3)</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-29",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 28 a 30.\nEm 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico\nque continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou\nparte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo\ncobalto-60.\nOs grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que\npossuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos\nrepresentam uma fonte de radioatividade cuja meia vida é estimada em 5 anos.\nAparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto,\na maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos\nfosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez.\nEsse é um dos maiores incidentes nucleares registrado nas Américas.\nFonte dos dados: <http://tinyurl.com/ym4uh6su> e <http://tinyurl.com/bddbw4y6> Acesso em: 10.01.2024. Adaptado.",
+        "text": "O radioisótopo cobalto-60 (⁶⁰₂₇Co) emite uma partícula beta negativa, transformando-se no isótopo estável níquel-60 (⁶⁰₂₈Ni).\n\nA alternativa que contém a equação nuclear correta para representar a emissão descrita é",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 28 a 30. Em 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico que continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou parte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo cobalto-60. Os grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que possuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos representam uma fonte de radioatividade cuja meia vida é estimada em 5 anos. Aparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto, a maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos fosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez. Esse é um dos maiores incidentes nucleares registrado nas Américas. Fonte dos dados: &lt;http://tinyurl.com/ym4uh6su&gt; e &lt;http://tinyurl.com/bddbw4y6&gt; Acesso em: 10.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>O radioisótopo cobalto-60 (⁶⁰₂₇Co) emite uma partícula beta negativa, transformando-se no isótopo estável níquel-60 (⁶⁰₂₈Ni).</p><p>A alternativa que contém a equação nuclear correta para representar a emissão descrita é</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-30",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 28 a 30.\nEm 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico\nque continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou\nparte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo\ncobalto-60.\nOs grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que\npossuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos\nrepresentam uma fonte de radioatividade cuja meia vida é estimada em 5 anos.\nAparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto,\na maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos\nfosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez.\nEsse é um dos maiores incidentes nucleares registrado nas Américas.\nFonte dos dados: <http://tinyurl.com/ym4uh6su> e <http://tinyurl.com/bddbw4y6> Acesso em: 10.01.2024. Adaptado.",
+        "text": "Meia-vida é o tempo necessário para que a atividade radioativa de um elemento seja reduzida pela metade.\nLevando em consideração que um ano possui 365 dias, verifica-se que a atividade radioativa do radioisótopo\ndiminuiu, num período de 7300 dias, um percentual equivalente a",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 28 a 30. Em 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico que continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou parte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo cobalto-60. Os grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que possuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos representam uma fonte de radioatividade cuja meia vida é estimada em 5 anos. Aparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto, a maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos fosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez. Esse é um dos maiores incidentes nucleares registrado nas Américas. Fonte dos dados: &lt;http://tinyurl.com/ym4uh6su&gt; e &lt;http://tinyurl.com/bddbw4y6&gt; Acesso em: 10.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Meia-vida é o tempo necessário para que a atividade radioativa de um elemento seja reduzida pela metade. Levando em consideração que um ano possui 365 dias, verifica-se que a atividade radioativa do radioisótopo diminuiu, num período de 7300 dias, um percentual equivalente a</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-46",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 46 e 47.\nWhat ́s the Difference Between the Metric and Imperial System?\nAug 11, 2021\nWhile most of the world uses the International System of Units, aka the\nMetric System, Liberia, Myanmar and the United States are the only\ncountries that have not officially adopted the Metric System. The United\nStates has its own system, based on the old British Imperial System of\ninches and pounds.\nWhat Is the Metric System?\nThe Metric System, or SI (Système International), is based off this original\nmeter and currently the official system of measurement for almost all\ncountries in Latin America, Asia, Africa, Europe and Oceania. The SI\nunits–fundamental units not based on any other units–are meter, kilogram,\nsecond, ampere (electricity), kelvin (although Celsius is a more practical\nmeasurement for nonscientific applications), mole (chemistry), and candela\n(luminous intensity).\nWhat Is the Imperial System?\nThe British Imperial System was the official system of weights and\nmeasures in the United Kingdom from 1824 until they adopted the Metric\nSystem in 1965. The Imperial System standardized measurements for\nunits like pound and foot that had different meanings in different places.\n<https://tinyurl.com/yc5v9dh7> Acesso em: 16.02.2024. Adaptado.",
+        "text": "Baseando-se no texto, assinale a alternativa correta.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 46 e 47. What ́s the Difference Between the Metric and Imperial System? Aug 11, 2021 While most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds. What Is the Metric System? The Metric System, or SI (Système International), is based off this original meter and currently the official system of measurement for almost all countries in Latin America, Asia, Africa, Europe and Oceania. The SI units–fundamental units not based on any other units–are meter, kilogram, second, ampere (electricity), kelvin (although Celsius is a more practical measurement for nonscientific applications), mole (chemistry), and candela (luminous intensity). What Is the Imperial System? The British Imperial System was the official system of weights and measures in the United Kingdom from 1824 until they adopted the Metric System in 1965. The Imperial System standardized measurements for units like pound and foot that had different meanings in different places. &lt;https://tinyurl.com/yc5v9dh7&gt; Acesso em: 16.02.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Baseando-se no texto, assinale a alternativa correta.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-47",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 46 e 47.\nWhat ́s the Difference Between the Metric and Imperial System?\nAug 11, 2021\nWhile most of the world uses the International System of Units, aka the\nMetric System, Liberia, Myanmar and the United States are the only\ncountries that have not officially adopted the Metric System. The United\nStates has its own system, based on the old British Imperial System of\ninches and pounds.\nWhat Is the Metric System?\nThe Metric System, or SI (Système International), is based off this original\nmeter and currently the official system of measurement for almost all\ncountries in Latin America, Asia, Africa, Europe and Oceania. The SI\nunits–fundamental units not based on any other units–are meter, kilogram,\nsecond, ampere (electricity), kelvin (although Celsius is a more practical\nmeasurement for nonscientific applications), mole (chemistry), and candela\n(luminous intensity).\nWhat Is the Imperial System?\nThe British Imperial System was the official system of weights and\nmeasures in the United Kingdom from 1824 until they adopted the Metric\nSystem in 1965. The Imperial System standardized measurements for\nunits like pound and foot that had different meanings in different places.\n<https://tinyurl.com/yc5v9dh7> Acesso em: 16.02.2024. Adaptado.",
+        "text": "Das informações contidas no texto, é possível inferir corretamente que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 46 e 47. What ́s the Difference Between the Metric and Imperial System? Aug 11, 2021 While most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds. What Is the Metric System? The Metric System, or SI (Système International), is based off this original meter and currently the official system of measurement for almost all countries in Latin America, Asia, Africa, Europe and Oceania. The SI units–fundamental units not based on any other units–are meter, kilogram, second, ampere (electricity), kelvin (although Celsius is a more practical measurement for nonscientific applications), mole (chemistry), and candela (luminous intensity). What Is the Imperial System? The British Imperial System was the official system of weights and measures in the United Kingdom from 1824 until they adopted the Metric System in 1965. The Imperial System standardized measurements for units like pound and foot that had different meanings in different places. &lt;https://tinyurl.com/yc5v9dh7&gt; Acesso em: 16.02.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Das informações contidas no texto, é possível inferir corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-49",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 49 a 51.\nHuge ancient lost city found in the Amazon\nThe discovery changes what we know about the history of people living in the Amazon. The houses and plazas\nin the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area\nlies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society.\nWhile we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that\npeople only lived nomadically or in tiny settlements in the Amazon. “This is older than any other site we know in\nthe Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is\nculture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific\nResearch in France, who led the research.\n“It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in\nhuts and clearing land – this shows ancient people lived in complicated urban societies,” says co-author Antoine\nDorison.\nThe city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to\narchaeologists. A network of straight roads and paths connected many platforms, including one that extended\n25 km (16 miles).\nDr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated.\nIt extends over a vast distance, everything is connected. And there are right angles, which is very impressive,”\nhe says, explaining that it is much harder to build a straight road than one that fits in with the landscape.\nThe societies were clearly well-organised and interconnected and the Upano people living there probably mostly\nfocussed on agriculture.\n<https://tinyurl.com/37cbjmbk> Acesso em: 20.01.2024. Adaptado.",
+        "text": "De acordo com o texto, o que pode ter levado à destruição da sociedade em questão foi",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 49 a 51. Huge ancient lost city found in the Amazon The discovery changes what we know about the history of people living in the Amazon. The houses and plazas in the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area lies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society. While we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that people only lived nomadically or in tiny settlements in the Amazon. “This is older than any other site we know in the Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is culture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific Research in France, who led the research. “It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land – this shows ancient people lived in complicated urban societies,” says co-author Antoine Dorison. The city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles). Dr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,” he says, explaining that it is much harder to build a straight road than one that fits in with the landscape. The societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture. &lt;https://tinyurl.com/37cbjmbk&gt; Acesso em: 20.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>De acordo com o texto, o que pode ter levado à destruição da sociedade em questão foi</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-50",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 49 a 51.\nHuge ancient lost city found in the Amazon\nThe discovery changes what we know about the history of people living in the Amazon. The houses and plazas\nin the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area\nlies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society.\nWhile we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that\npeople only lived nomadically or in tiny settlements in the Amazon. “This is older than any other site we know in\nthe Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is\nculture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific\nResearch in France, who led the research.\n“It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in\nhuts and clearing land – this shows ancient people lived in complicated urban societies,” says co-author Antoine\nDorison.\nThe city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to\narchaeologists. A network of straight roads and paths connected many platforms, including one that extended\n25 km (16 miles).\nDr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated.\nIt extends over a vast distance, everything is connected. And there are right angles, which is very impressive,”\nhe says, explaining that it is much harder to build a straight road than one that fits in with the landscape.\nThe societies were clearly well-organised and interconnected and the Upano people living there probably mostly\nfocussed on agriculture.\n<https://tinyurl.com/37cbjmbk> Acesso em: 20.01.2024. Adaptado.",
+        "text": "A nova descoberta descrita no texto aponta que, na região Amazônica,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 49 a 51. Huge ancient lost city found in the Amazon The discovery changes what we know about the history of people living in the Amazon. The houses and plazas in the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area lies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society. While we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that people only lived nomadically or in tiny settlements in the Amazon. “This is older than any other site we know in the Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is culture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific Research in France, who led the research. “It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land – this shows ancient people lived in complicated urban societies,” says co-author Antoine Dorison. The city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles). Dr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,” he says, explaining that it is much harder to build a straight road than one that fits in with the landscape. The societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture. &lt;https://tinyurl.com/37cbjmbk&gt; Acesso em: 20.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A nova descoberta descrita no texto aponta que, na região Amazônica,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-51",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 49 a 51.\nHuge ancient lost city found in the Amazon\nThe discovery changes what we know about the history of people living in the Amazon. The houses and plazas\nin the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area\nlies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society.\nWhile we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that\npeople only lived nomadically or in tiny settlements in the Amazon. “This is older than any other site we know in\nthe Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is\nculture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific\nResearch in France, who led the research.\n“It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in\nhuts and clearing land – this shows ancient people lived in complicated urban societies,” says co-author Antoine\nDorison.\nThe city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to\narchaeologists. A network of straight roads and paths connected many platforms, including one that extended\n25 km (16 miles).\nDr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated.\nIt extends over a vast distance, everything is connected. And there are right angles, which is very impressive,”\nhe says, explaining that it is much harder to build a straight road than one that fits in with the landscape.\nThe societies were clearly well-organised and interconnected and the Upano people living there probably mostly\nfocussed on agriculture.\n<https://tinyurl.com/37cbjmbk> Acesso em: 20.01.2024. Adaptado.",
+        "text": "Com base no texto, é correto afirmar que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 49 a 51. Huge ancient lost city found in the Amazon The discovery changes what we know about the history of people living in the Amazon. The houses and plazas in the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area lies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society. While we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that people only lived nomadically or in tiny settlements in the Amazon. “This is older than any other site we know in the Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is culture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific Research in France, who led the research. “It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land – this shows ancient people lived in complicated urban societies,” says co-author Antoine Dorison. The city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles). Dr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,” he says, explaining that it is much harder to build a straight road than one that fits in with the landscape. The societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture. &lt;https://tinyurl.com/37cbjmbk&gt; Acesso em: 20.01.2024. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Com base no texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-15",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito.",
+      "fix": {
+        "text": "Assinale a alternativa que contém o nome correto da mudança de estado físico, ocorrida com o dióxido de carbono,\nno processo indicado em (I).",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 15 a 18. No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região. O vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel). Uma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o CO2 é armazenado no estado líquido. Feito isso, o próximo passo é reagir o CO2 com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema. </p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2024-2-ctx5-fig-2.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 574,
+            "height": 514
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que contém o nome correto da mudança de estado físico, ocorrida com o dióxido de carbono, no processo indicado em (I).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-16",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito.",
+      "fix": {
+        "text": "Considerando a equação química (II), que representa a reação de produção de metanol, os valores de x e y,\nque tornam a equação corretamente balanceada, são, respectivamente,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 15 a 18. No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região. O vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel). Uma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o CO2 é armazenado no estado líquido. Feito isso, o próximo passo é reagir o CO2 com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema. </p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2024-2-ctx5-fig-2.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 574,
+            "height": 514
+          },
+          {
+            "type": "html",
+            "html": "<p>Considerando a equação química (II), que representa a reação de produção de metanol, os valores de x e y, que tornam a equação corretamente balanceada, são, respectivamente,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-17",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito.",
+      "fix": {
+        "text": "Um processo neutro em carbono ou de carbono neutro é aquele que não contribui para o aumento da quantidade\nde carbono emitido na atmosfera na forma de gases, como CO e CO2.\nPodemos concluir corretamente que a produção da gasolina sintética pode ser considerada neutra em carbono,\njá que, de acordo com o esquema, o hidrogênio e o dióxido de carbono são transformados em gasolina sintética, cuja",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 15 a 18. No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região. O vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel). Uma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o CO2 é armazenado no estado líquido. Feito isso, o próximo passo é reagir o CO2 com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema. </p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2024-2-ctx5-fig-2.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 574,
+            "height": 514
+          },
+          {
+            "type": "html",
+            "html": "<p>Um processo neutro em carbono ou de carbono neutro é aquele que não contribui para o aumento da quantidade de carbono emitido na atmosfera na forma de gases, como CO e CO2. Podemos concluir corretamente que a produção da gasolina sintética pode ser considerada neutra em carbono, já que, de acordo com o esquema, o hidrogênio e o dióxido de carbono são transformados em gasolina sintética, cuja</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-18",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito.",
+      "fix": {
+        "text": "O combustível sintético emite, em sua queima, apenas 10% da quantidade de CO₂ emitida na combustão de combustíveis fósseis. Esta equação química balanceada representa a queima da gasolina (C₈H₁₈) de origem fóssil:\n\nC₈H₁₈(g) + (25/2) O₂(g) → 8 CO₂(g) + 9 H₂O(g)\n\nConsidere que um motor realizou a queima de 114 g de C₈H₁₈ (M = 114 g/mol) de origem fóssil. Caso esse mesmo motor utilizasse gasolina sintética, a massa de CO₂ (M = 44 g/mol) emitida, em gramas, seria de, aproximadamente,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 15 a 18. No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região. O vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel). Uma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o CO2 é armazenado no estado líquido. Feito isso, o próximo passo é reagir o CO2 com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema. </p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2024-2-ctx5-fig-2.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 574,
+            "height": 514
+          },
+          {
+            "type": "html",
+            "html": "<p>O combustível sintético emite, em sua queima, apenas 10% da quantidade de CO₂ emitida na combustão de combustíveis fósseis. Esta equação química balanceada representa a queima da gasolina (C₈H₁₈) de origem fóssil:</p><p>C₈H₁₈(g) + (25/2) O₂(g) → 8 CO₂(g) + 9 H₂O(g)</p><p>Considere que um motor realizou a queima de 114 g de C₈H₁₈ (M = 114 g/mol) de origem fóssil. Caso esse mesmo motor utilizasse gasolina sintética, a massa de CO₂ (M = 44 g/mol) emitida, em gramas, seria de, aproximadamente,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-12",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração.",
+      "fix": {
+        "options": [
+          "Honduras exemplifica a expressão “república de bananas” por ser o maior produtor e exportador asiático de bananas, posição assumida desde o final do século XIX.",
+          "a expressão “repúblicas de bananas” refere-se a países latino-americanos monocultores, cuja vida política e econômica sofriam ingerência de empresas estrangeiras.",
+          "William Sydney Porter, presidente dos Estados Unidos no início do século XX, batizou os países da América Central de “república de bananas” para caracterizar o principal produto de exportação desses países.",
+          "os anglo-saxões criaram a denominação “república de bananas” para designar países que não são latino-americanos, que são exportadores de bananas e que sofrem com o imperialismo estadunidense.",
+          "países africanos, governados por empresas estadunidenses, são os principais produtores mundiais de frutas tropicais, pois utilizam tecnologias agrícolas avançadas e, por isso, são chamados de “república de bananas”."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>Honduras exemplifica a expressão “república de bananas” por ser o maior produtor e exportador asiático de bananas, posição assumida desde o final do século XIX.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>a expressão “repúblicas de bananas” refere-se a países latino-americanos monocultores, cuja vida política e econômica sofriam ingerência de empresas estrangeiras.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>William Sydney Porter, presidente dos Estados Unidos no início do século XX, batizou os países da América Central de “república de bananas” para caracterizar o principal produto de exportação desses países.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>os anglo-saxões criaram a denominação “república de bananas” para designar países que não são latino-americanos, que são exportadores de bananas e que sofrem com o imperialismo estadunidense.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>países africanos, governados por empresas estadunidenses, são os principais produtores mundiais de frutas tropicais, pois utilizam tecnologias agrícolas avançadas e, por isso, são chamados de “república de bananas”.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-33",
+      "problem": "Seta de equilíbrio ausente na equação química.",
+      "fix": {
+        "text": "Os excrementos de aves e morcegos depositados nas Ilhas Chincha, localizadas na costa Peruana, formam no\nsolo uma espessa camada de guano. O guano pode ser utilizado como fertilizante devido à presença de compostos\nnitrogenados, como a amônia (NH3).\nEsta equação química representa o equilíbrio que ocorre na decomposição da amônia em nitrogênio e hidrogênio:\n2 NH₃(g) ⇌ N₂(g) + 3 H₂(g)\nO químico francês Le Chatelier, estudando o comportamento de sistemas em equilíbrio quando sujeitos à variação\nde fatores como concentração, pressão e temperatura, chegou às seguintes conclusões:\n• o aumento da concentração de reagentes desloca o equilíbrio no sentido dos produtos;\n• a diminuição da concentração de reagentes desloca o equilíbrio no sentido dos reagentes;\n• o aumento da pressão desloca o equilíbrio no sentido do menor volume gasoso; e\n• a diminuição da pressão desloca o equilíbrio no sentido de maior volume gasoso.\nDesse modo, considerando apenas essas conclusões, para deslocar o equilíbrio da referida equação no sentido\nda formação de amônia, deve-se",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Os excrementos de aves e morcegos depositados nas Ilhas Chincha, localizadas na costa Peruana, formam no solo uma espessa camada de guano. O guano pode ser utilizado como fertilizante devido à presença de compostos nitrogenados, como a amônia (NH3). Esta equação química representa o equilíbrio que ocorre na decomposição da amônia em nitrogênio e hidrogênio: 2 NH₃(g) ⇌ N₂(g) + 3 H₂(g) O químico francês Le Chatelier, estudando o comportamento de sistemas em equilíbrio quando sujeitos à variação de fatores como concentração, pressão e temperatura, chegou às seguintes conclusões: • o aumento da concentração de reagentes desloca o equilíbrio no sentido dos produtos; • a diminuição da concentração de reagentes desloca o equilíbrio no sentido dos reagentes; • o aumento da pressão desloca o equilíbrio no sentido do menor volume gasoso; e • a diminuição da pressão desloca o equilíbrio no sentido de maior volume gasoso. Desse modo, considerando apenas essas conclusões, para deslocar o equilíbrio da referida equação no sentido da formação de amônia, deve-se</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-22",
+      "problem": "Marcação I/II solta e imagem da tabela sobrepondo alternativas.",
+      "fix": {
+        "text": "O congestionamento de tráfego é um desafio para a saúde econômica da América Latina. Investir em transporte público pode ser uma solução, uma vez que essa modalidade de transporte pode ser vista como uma maneira inteligente de usar o espaço público.\n\nDados apontam que um carro de médio porte ocupa 8 m² e transporta até 5 pessoas, enquanto um ônibus básico ocupa 56 m² e transporta até 70 pessoas.\n\nLogo, para transportar simultaneamente 70 pessoas, a quantidade mínima de carros necessária é de ___ (I), o que equivale ao espaço público ocupado por ___ (II) ônibus.\n\nAssinale a alternativa que completa corretamente os espaços numerados.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>O congestionamento de tráfego é um desafio para a saúde econômica da América Latina. Investir em transporte público pode ser uma solução, uma vez que essa modalidade de transporte pode ser vista como uma maneira inteligente de usar o espaço público.</p><p>Dados apontam que um carro de médio porte ocupa 8 m² e transporta até 5 pessoas, enquanto um ônibus básico ocupa 56 m² e transporta até 70 pessoas.</p><p>Logo, para transportar simultaneamente 70 pessoas, a quantidade mínima de carros necessária é de ___ (I), o que equivale ao espaço público ocupado por ___ (II) ônibus.</p><p>Assinale a alternativa que completa corretamente os espaços numerados.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-2-43",
+      "problem": "Marcação I/II solta e imagem da tabela sobrepondo alternativas.",
+      "fix": {
+        "text": "Leia o texto e complete a frase.\n\nA região de Essequibo, reivindicada ___ (I), engloba praticamente toda a área a oeste do Rio Essequibo, no território ___ (II). A região em questão tem cerca de 159 mil quilômetros quadrados (um pouco maior do que o estado do Ceará) tomados pelo bioma amazônico e é rica em recursos minerais e naturais.\n\n<http://tinyurl.com/4d2mp7uy> Acesso em: 24.01.2024. Adaptado.\n\nAssinale a alternativa que completa, correta e respectivamente, o texto.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto e complete a frase.</p><p>A região de Essequibo, reivindicada ___ (I), engloba praticamente toda a área a oeste do Rio Essequibo, no território ___ (II). A região em questão tem cerca de 159 mil quilômetros quadrados (um pouco maior do que o estado do Ceará) tomados pelo bioma amazônico e é rica em recursos minerais e naturais.</p><p>&lt;http://tinyurl.com/4d2mp7uy&gt; Acesso em: 24.01.2024. Adaptado.</p><p>Assinale a alternativa que completa, correta e respectivamente, o texto.</p>"
+          }
+        ]
+      }
+    }
+  ]
+}

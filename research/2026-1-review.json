@@ -1,0 +1,490 @@
+{
+  "solutions": {
+    "fatec-2026-1-1": {
+      "explanation": "Hemácias do tipo AB apresentam os dois antígenos, A e B. Se forem transfundidas a pessoas A, B ou O, encontrarão no plasma anticorpos contra pelo menos um desses antígenos, favorecendo a aglutinação. Por isso, na comparação do sistema ABO apresentada, o sangue AB só pode ser doado ao receptor AB. Não se deve confundir essa restrição da doação com a capacidade de receber hemácias."
+    },
+    "fatec-2026-1-2": {
+      "explanation": "Abaixo do ponto de compensação, a fotossíntese produz menos matéria orgânica do que a respiração consome. A planta pode sobreviver temporariamente usando suas reservas, mas perde matéria orgânica ao longo do tempo. Se essa condição persistir e as reservas se esgotarem, não terá energia suficiente para continuar viva. Água e sais minerais do solo não substituem os açúcares produzidos na fotossíntese."
+    },
+    "fatec-2026-1-3": {
+      "explanation": "O casal 1–2 não apresenta a anomalia, mas tem uma filha afetada. No modelo mendeliano simples do heredograma, isso indica caráter recessivo: a filha é aa e recebeu um alelo a de cada progenitor. Como os pais são não afetados, ambos devem ser Aa, isto é, heterozigotos. Pessoas sem a anomalia podem ser AA ou Aa; não são obrigatoriamente todas heterozigotas."
+    },
+    "fatec-2026-1-4": {
+      "explanation": "A ascaridíase é adquirida pela ingestão de ovos de Ascaris lumbricoides presentes em água, alimentos ou mãos contaminados por fezes. Essa é a transmissão fecal-oral descrita. A teníase envolve a ingestão de cisticercos em carne malcozida; ingerir ovos de Taenia pode causar cisticercose, outra doença. A esquistossomose envolve penetração de larvas pela pele e a filariose depende de mosquito vetor."
+    },
+    "fatec-2026-1-5": {
+      "explanation": "O escorpião possui, na extremidade posterior do corpo, um télson com ferrão que inocula peçonha. Isso corresponde à alternativa E. As demais generalizam características incorretamente: serpentes são vertebrados, portanto não possuem exoesqueleto quitinoso; aranhas e escorpiões são aracnídeos, não insetos; e quelíceras são estruturas de aracnídeos, não as presas das serpentes. Ser peçonhento também não significa ser parasita."
+    },
+    "fatec-2026-1-6": {
+      "explanation": "Na tecnologia do DNA recombinante, o gene que codifica a insulina humana é introduzido em organismos produtores, permitindo obter a proteína usada no tratamento do diabetes. A insulina humana recombinante tem a mesma sequência da produzida pelo pâncreas. Trata-se de tratamento com hormônio, não de vacina ou cura automática. A alternativa B também erra ao classificar bactérias, que são unicelulares, como pluricelulares."
+    },
+    "fatec-2026-1-7": {
+      "explanation": "A placa informa potência de 1 270 W e tensão de 127 V. Pela relação P = U·i, a corrente nominal é i = 1 270/127 = 10 A. Volt mede tensão, watt mede potência e hertz mede frequência da alimentação elétrica. A frequência de 60 Hz não representa, por si só, a rotação mecânica da escova."
+    },
+    "fatec-2026-1-8": {
+      "explanation": "As ranhuras do grooving facilitam a saída da água e ajudam a manter o contato efetivo entre o pneu e a pista. Com isso, há melhores condições para a força de atrito necessária à aderência e à frenagem. A hidroplanagem é justamente a perda desse contato por uma camada de água; não representa aumento do atrito útil com a pista."
+    },
+    "fatec-2026-1-9": {
+      "explanation": "A luz emitida pelo leitor, seja vermelha ou infravermelha, é uma onda eletromagnética transversal. Sua energia pode ser recebida pelo fotodiodo e convertida em sinal elétrico. No código, barras claras refletem mais luz e barras escuras absorvem mais. A sequência do texto é luz refletida → corrente elétrica → sinal digital, portanto não é o sinal digital que originalmente produz a corrente captada."
+    },
+    "fatec-2026-1-10": {
+      "explanation": "Converta primeiro o comprimento de onda: 1 000 nm = 1 000·10⁻⁹ m = 10⁻⁶ m. Então f = c/λ = (3·10⁸)/(10⁻⁶) = 3·10¹⁴ Hz. Como o coeficiente 3 é menor que √10, a potência de dez mais próxima, usada como ordem de grandeza, é 10¹⁴ Hz. O erro mais comum é não converter nanômetros para metros."
+    },
+    "fatec-2026-1-11": {
+      "explanation": "Após o lançamento oblíquo, desprezando a resistência do ar, o açúcar mantém velocidade horizontal constante e sofre aceleração vertical da gravidade. A combinação desses dois movimentos gera uma trajetória parabólica. A gravidade continua atuando tanto no açúcar quanto na bailarina. Não há uma força horizontal permanente impulsionando o cubo durante o voo, nem uma força para baixo que o lance para cima."
+    },
+    "fatec-2026-1-12": {
+      "explanation": "Um ímã permanente tem dois polos e produz um campo magnético. Por convenção, na região externa, suas linhas de campo vão do polo norte para o polo sul; no interior, completam o circuito no sentido oposto. A liga descrita pode gerar campo intenso, mas não constitui monopolo magnético. Polos leste e oeste não são a classificação usada para esse campo."
+    },
+    "fatec-2026-1-13": {
+      "explanation": "O Plano Marshall, anunciado pelos Estados Unidos em 1947, destinava ajuda econômica à reconstrução de países europeus após a Segunda Guerra Mundial e reforçava a influência capitalista na Guerra Fria. As demais alternativas trocam agentes ou acontecimentos: o primeiro ser humano no espaço foi lançado pela URSS; o Pacto de Varsóvia e o COMECON pertenciam ao bloco socialista, não ao estadunidense."
+    },
+    "fatec-2026-1-14": {
+      "explanation": "O intemperismo químico depende fortemente da presença de água líquida, sendo favorecido por ambientes quentes e úmidos. Já no Sahel, faixa semiárida africana, a menor disponibilidade de água favorece comparativamente a desagregação física das rochas. A floresta do Congo é úmida e favorece alterações químicas. Regiões polares e desertos não apresentam as condições de água e temperatura que justificariam as alternativas sobre predomínio químico."
+    },
+    "fatec-2026-1-15": {
+      "explanation": "Chuvas orográficas, também chamadas chuvas de relevo, ocorrem quando uma massa de ar úmido encontra uma barreira montanhosa e é obrigada a subir. Durante a subida, o ar esfria e o vapor pode condensar, formando nuvens e precipitação. A causa descrita é o relevo, diferenciando esse processo das chuvas frontais, causadas pelo encontro de massas de ar."
+    },
+    "fatec-2026-1-16": {
+      "explanation": "O enunciado relaciona favelas e comunidades às soluções autônomas e coletivas encontradas para atender à necessidade de moradia. Isso remete à insuficiência de políticas habitacionais, infraestrutura e acesso à cidade, combinada à exclusão do mercado formal. As alternativas com inexistência de imóveis vazios ou proibição geral de moradia popular criam causas absolutas que não são sustentadas pelo texto."
+    },
+    "fatec-2026-1-17": {
+      "explanation": "O texto informa aumento populacional pequeno, e a alternativa B associa essa desaceleração à queda da fecundidade. É possível uma população continuar crescendo enquanto seu ritmo de crescimento diminui: o número total não precisa cair imediatamente. As opções sobre natalidade acelerada, fecundidade em ascensão ou crescimento exponencial contradizem o quadro demográfico apresentado na questão."
+    },
+    "fatec-2026-1-18": {
+      "explanation": "A alternativa B apresenta uma evidência observacional compatível com o texto: a elevação da temperatura média global e a ocorrência de uma década excepcionalmente quente no registro citado. As outras opções formulam negação da influência humana, certeza de resfriamento próximo ou confiança irrestrita em adaptação e soluções técnicas. Essas afirmações não substituem a evidência científica mencionada no enunciado."
+    },
+    "fatec-2026-1-19": {
+      "explanation": "A comparação das sombras em duas cidades, combinada à distância entre elas, permite relacionar um arco da superfície terrestre ao ângulo observado e estimar a circunferência da Terra. O procedimento pressupõe e reforça a curvatura terrestre, em vez de uma superfície plana. O texto descreve observação e geometria, não mitologia, descoberta da América ou encomenda de Júlio César."
+    },
+    "fatec-2026-1-20": {
+      "explanation": "Separar o condensador do cilindro reduziu o desperdício de energia causado por aquecer e resfriar repetidamente a mesma estrutura. Uma máquina mais eficiente consome menos carvão para realizar trabalho comparável e se torna economicamente viável em mais atividades. Esse aperfeiçoamento ampliou a mecanização e contribuiu para a Revolução Industrial. Watt aprimorou máquinas anteriores; não criou a primeira máquina a vapor."
+    },
+    "fatec-2026-1-21": {
+      "explanation": "Iluminação elétrica, telefone, gramofone e automóvel modificaram comunicações, consumo, mobilidade e lazer urbano durante a Belle Époque. A alternativa B reconhece essas transformações e o acesso inicialmente concentrado em grupos privilegiados. Os avanços não eliminaram espetáculos públicos nem diferenças sociais e tampouco significaram uma rejeição generalizada à modernização ou domínio exclusivo da aristocracia rural sobre todas as tecnologias."
+    },
+    "fatec-2026-1-22": {
+      "explanation": "Nas guerras por procuração, EUA e URSS apoiavam aliados em conflitos regionais por meio de recursos, assessoria e equipamentos. A tecnologia militar era um componente importante dessa disputa e esses conflitos também permitiam observar o desempenho de armas e doutrinas. Isso não equivale a confronto militar direto sistemático entre as superpotências, nem ao uso de bombas atômicas por ambas nessas batalhas."
+    },
+    "fatec-2026-1-23": {
+      "explanation": "O próprio texto limita a coivara a áreas pequenas, descreve cultivo diversificado e informa que a área é deixada em descanso, permitindo a volta da floresta. Nesse contexto específico, o fogo controlado e a regeneração reduzem os impactos. A resposta não afirma que toda queimada seja sustentável: refere-se ao manejo tradicional descrito, diferente do desmatamento extensivo e sem recuperação."
+    },
+    "fatec-2026-1-24": {
+      "explanation": "A criação de instituições e empresas ligadas à siderurgia, ao petróleo e à pesquisa indica atuação estatal para formar uma base produtiva e científica nacional. O objetivo era reduzir dependências externas e substituir parte das importações, com o Estado planejando e investindo em setores estratégicos. Isso é o oposto de privatização generalizada, ausência de intervenção ou dedicação exclusiva à agricultura exportadora."
+    },
+    "fatec-2026-1-25": {
+      "explanation": "Na situação do quadrinho, a água da piscina é salgada. Um meio com maior concentração de solutos pode retirar água das células por osmose, causando perda de água e aspecto enrugado. Por isso os personagens interpretam o colega como desidratado pela água salinizada. As opções sobre ácido acético, ionização ou dessalinização não correspondem à informação da cena."
+    },
+    "fatec-2026-1-26": {
+      "explanation": "Must pode expressar obrigação, mas o sentido depende do contexto. No quadrinho, os personagens observam um resultado e tiram uma conclusão sobre o que deve ter ocorrido com o amigo. É, portanto, um uso de dedução ou forte inferência, semelhante a “ele deve estar desidratado”. Não se trata de ordem, permissão, habilidade ou conselho dirigido a alguém."
+    },
+    "fatec-2026-1-27": {
+      "explanation": "A personagem enumera atributos como independent, creative e strong, que correspondem a independente, criativa e forte. A alternativa B reúne esses três adjetivos efetivamente presentes na tirinha. As outras acrescentam características como dócil, sincera, frágil ou teimosa, não sustentadas pela enumeração. Para resolver, compare os termos do inglês com as traduções, em vez de inferir estereótipos sobre mulheres."
+    },
+    "fatec-2026-1-28": {
+      "explanation": "A expressão inglesa at the forefront significa estar na linha de frente ou na vanguarda. O excerto afirma que o Brasil adotou eleições inteiramente eletrônicas e permaneceu nessa posição de destaque. Assim, o foco é o pioneirismo no cenário eleitoral. O texto não apresenta a urna como atraso, risco, demora nem concentra seu argumento na classificação econômica de países."
+    },
+    "fatec-2026-1-29": {
+      "explanation": "In fact introduz uma confirmação enfática: o verso reforça que Marte é extremamente frio. A alternativa E preserva essa ideia ao dizer que o planeta é frio demais para nos abrigar. Não há indicação de boas condições de moradia ou de que o frio seria apenas uma pequena ressalva antes de escolher Marte como alternativa à Terra."
+    },
+    "fatec-2026-1-30": {
+      "explanation": "A letra menciona a Terra, a solidão no espaço, um voo e as condições de Marte. Esses elementos remetem à exploração espacial, tema associado ao contexto das viagens e pesquisas espaciais. Não há referência a técnicas de clonagem, inteligência artificial, engenharia genética ou internet. A resolução exige reconhecer o campo temático comum às imagens e palavras da canção."
+    },
+    "fatec-2026-1-31": {
+      "explanation": "O formato LLL NL NN contém quatro posições de letras e três de algarismos. Restringindo as letras às cinco vogais e admitindo repetição, há 5⁴ combinações de letras e 10³ combinações numéricas. Pelo princípio multiplicativo, 5⁴·10³ = 625·1 000 = 625 000 placas. A disposição intercalada não muda a quantidade de possibilidades de cada posição."
+    },
+    "fatec-2026-1-32": {
+      "explanation": "O comprimento de uma circunferência é C = 2πr, ou, diretamente, C = πd. O diâmetro informado é de 80 m, portanto C = 80π m. Usar 160π significaria aplicar o fator 2 ao diâmetro, confundindo-o com o raio. A questão pede comprimento do contorno, não área do círculo."
+    },
+    "fatec-2026-1-33": {
+      "explanation": "A função é h(t) = 51 − 40 cos(πt/15). Como o cosseno varia entre −1 e 1, a altura máxima ocorre quando cos(πt/15) = −1, resultando em h = 51 + 40 = 91 m. A primeira ocorrência é para πt/15 = π, de onde t = 15 minutos. Os 51 m representam a altura do centro, não a altura máxima."
+    },
+    "fatec-2026-1-34": {
+      "explanation": "Substituindo na expressão, pH = −log(2·10⁻⁷). Pela propriedade do logaritmo do produto, isso equivale a −[log 2 + log(10⁻⁷)] = −[0,3 − 7] = 6,7. É necessário aplicar o sinal negativo a toda a soma. O expoente negativo da concentração não torna o pH negativo nesse cálculo."
+    },
+    "fatec-2026-1-35": {
+      "explanation": "As metas anuais formam uma progressão aritmética com primeiro termo 50 km e razão 15 km. O décimo termo é a₁₀ = a₁ + 9r = 50 + 9·15 = 185 km. Existem nove aumentos entre o primeiro e o décimo ano. A pergunta é sobre o décimo ano isoladamente, não sobre a soma de todos os anos."
+    },
+    "fatec-2026-1-36": {
+      "explanation": "A fórmula fornecida é N(t) = 1 000·2^(t/g). Substituindo t = 45 e N = 8 000, obtém-se 8 = 2^(45/g). Como 8 = 2³, temos 45/g = 3 e, portanto, g = 15 minutos. São três duplicações: 1 000 → 2 000 → 4 000 → 8 000, em um total de 45 minutos."
+    },
+    "fatec-2026-1-37": {
+      "explanation": "A linha 2 e a coluna 3 da matriz A contêm o número 168. O filtro multiplica cada entrada por 1/2, sem mudar sua posição. Logo, a entrada correspondente de S é 168·1/2 = 84. O número 30 está na segunda linha e segunda coluna; usar esse valor confundiria a indexação solicitada."
+    },
+    "fatec-2026-1-38": {
+      "explanation": "A trajetória de 20 km é a hipotenusa do triângulo retângulo, e a altura h é o cateto oposto ao ângulo com o solo. Assim, sen θ = h/20. Usando sen θ = 0,8, temos h = 20·0,8 = 16 km. O cosseno fornecido calcularia o deslocamento horizontal, não a altura."
+    },
+    "fatec-2026-1-39": {
+      "explanation": "O texto informa uma distância aproximadamente 7 000 vezes maior que a de Plutão: 7 000·5,9·10⁹ = 4,13·10¹³ km, arredondada para 4,1·10¹³ km. A segunda lacuna segue a leitura: a possibilidade de os extraterrestres virem até aqui não é uma ideia popular entre a maioria dos cientistas citados. Por isso, a combinação correta é “pouco popular”."
+    },
+    "fatec-2026-1-40": {
+      "explanation": "As nanopartículas magnéticas aderem aos fragmentos plásticos, tornando possível atrair esse conjunto com um ímã. A propriedade usada na remoção é a resposta ao campo magnético, caracterizando separação magnética. Não há passagem por filtro, escolha manual de fragmentos, sedimentação por diferença de densidade nem vaporização e condensação de componentes."
+    },
+    "fatec-2026-1-41": {
+      "explanation": "O elemento mais eletronegativo é o flúor, portanto o composto do grupo PFAS é CF₃–CF₂–CF₂–COOH, cuja fórmula molecular é C₄HF₇O₂. Sua massa molar é 4·12 + 1 + 7·19 + 2·16 = 214 g/mol. O carbono contribui com 48 g/mol; assim, 48/214·100 ≈ 22,4%. É preciso contar também o carbono do grupo carboxila."
+    },
+    "fatec-2026-1-42": {
+      "explanation": "A quantidade de PFOA passou por quatro reduções sucessivas à metade: 200 → 100 → 50 → 25 → 12,5 mg. Como essas quatro meias-vidas ocorreram em 12 anos, cada meia-vida corresponde a 12/4 = 3 anos. Dividir apenas a massa inicial pela final não dá diretamente o tempo: o decaimento descrito é sucessivo e multiplicativo."
+    },
+    "fatec-2026-1-43": {
+      "explanation": "Sódio e potássio são metais que formam cátions Na⁺ e K⁺, enquanto o cloro forma o ânion Cl⁻. A atração eletrostática entre íons de cargas opostas caracteriza a ligação iônica presente em NaCl e KCl. São sais inorgânicos, não carboidratos, proteínas ou lipídios. A semelhança pedida é o tipo de ligação, não uma classificação como macronutriente."
+    },
+    "fatec-2026-1-44": {
+      "explanation": "O etano-1,2-diol contém duas hidroxilas ligadas a carbonos saturados, sendo um diálcool. O ácido tereftálico possui um anel C₆H₄ e dois grupos COOH; somando os átomos, obtém-se C₈H₆O₄. Logo, a combinação correta é álcool e C₈H₆O₄. C₂H₆O₂ é a fórmula do próprio etano-1,2-diol, não do ácido aromático."
+    },
+    "fatec-2026-1-45": {
+      "explanation": "O texto distingue duas rotas: elétrons passam pelo circuito externo, e cátions se deslocam no interior da bateria em direção ao cátodo. Na bateria de íons-lítio, esses cátions são Li⁺. Pela posição indicada na figura, X corresponde aos íons lítio e T aos elétrons. Não se trata de íons de oxigênio ou de cobalto atravessando esse percurso."
+    },
+    "fatec-2026-1-46": {
+      "explanation": "No infográfico, o Tema 2 repete três vezes o grupo hexágono–pausa–pausa–losango: 6 + 4 + 4 + 1 = 15 s por grupo, totalizando 45 s. O Tema 3 repete três vezes quadrado–estrela–triângulo–estrela: 3 + 5 + 2 + 5 = 15 s, também 45 s. Cada encadeamento completo dura 90 s; em 30 min = 1 800 s, cabem 1 800/90 = 20 encadeamentos."
+    },
+    "fatec-2026-1-47": {
+      "explanation": "A unidade é o som individual. Unidades formam frases, frases se agrupam em temas e os temas compõem a música completa. Portanto, a ordem crescente de complexidade é Unidade → Frase → Tema → Música. As demais alternativas invertem níveis dessa hierarquia ou colocam a música inteira antes de seus componentes menores."
+    },
+    "fatec-2026-1-48": {
+      "explanation": "No Tema 4, o padrão básico é estrela–losango–círculo–hexágono, repetido continuamente. O LP foi lançado em 1970. Como 1970 = 4·492 + 2, a posição 1970 corresponde ao segundo elemento do padrão, o losango. A contagem começa na posição 1, ocupada pela estrela; por isso o resto 2 aponta para a alternativa C."
+    },
+    "fatec-2026-1-49": {
+      "explanation": "O total é 850 + 530 + 490 + 450 = 2 320 doses. Dividindo pelos quatro hospitais, cada um terminará com 580 doses. B recebe 50, C recebe 90 e D recebe 130; A transfere 270 no total. Assim, existe um hospital que ganhou 90 doses, o hospital C. As outras opções trocam ganhos por perdas ou confundem a quantidade final com a transferida."
+    },
+    "fatec-2026-1-50": {
+      "explanation": "Toda filha de Rose pertence ao conjunto das pesquisadoras, enquanto nenhuma filha de Alfredo pertence a esse conjunto. Uma mesma pessoa não pode, simultaneamente, ser pesquisadora e não pesquisadora. Logo, os dois conjuntos de filhas não podem ter integrantes em comum: nenhuma filha de Alfredo é filha de Rose. As premissas também não garantem a existência de pessoas específicas nesses conjuntos."
+    },
+    "fatec-2026-1-51": {
+      "explanation": "O único país citado situado no Hemisfério Sul é o Brasil, portanto Dumont não é o inventor dos submarinos. Entre os países restantes, os Estados Unidos ficam no Hemisfério Ocidental, identificando Lake com os submarinos. A capital russa, Moscou, tem seis letras, identificando Tsiolkovsky como o pioneiro da astronáutica e dos foguetes modernos. Essa é a associação expressa na alternativa E."
+    },
+    "fatec-2026-1-52": {
+      "explanation": "A tirinha compara uma mentira envolvida por verdades a um remédio escondido em algo atraente para cães. A embalagem facilita a aceitação do conteúdo prejudicial ou enganoso. Essa comparação explica um mecanismo de disseminação de informações falsas, não o cuidado correto com animais. O foco é o contraste entre aparência convincente e conteúdo suspeito."
+    },
+    "fatec-2026-1-53": {
+      "explanation": "“Cara de mel, coração de fel” contrapõe uma aparência agradável a um conteúdo ou intenção ruim. Isso resume o mecanismo da tirinha: verdades ou elementos atraentes podem disfarçar a mentira, assim como uma cobertura palatável esconde o remédio. Os outros provérbios tratam de risco, contradição entre profissão e prática doméstica, silêncio ou acumulação gradual, temas diferentes do apresentado."
+    },
+    "fatec-2026-1-54": {
+      "explanation": "A frase afirma lamentar que árvores “apenas” forneçam o oxigênio que respiramos, mas seu sentido crítico é o contrário: esse benefício já é essencial. O exagero sobre plantar árvores se elas dessem Wi-Fi evidencia a inversão de prioridades. A diferença entre o sentido literal e a intenção crítica configura ironia, não repetição sonora ou suavização de uma expressão."
+    },
+    "fatec-2026-1-55": {
+      "explanation": "O meme usa humor e ironia para chamar atenção à importância ambiental das árvores e à valorização exagerada da conectividade tecnológica. Sua finalidade vai além de provocar riso: busca conscientizar sobre prioridades relevantes à sociedade. Não apresenta produto à venda, receita, trajetória pessoal ou uma exposição de dados estatísticos; o efeito principal é uma reflexão crítica."
+    },
+    "fatec-2026-1-56": {
+      "explanation": "O texto associa o resultado da pesquisa à necessidade de ampliar a disseminação de conhecimentos científicos. Isso sustenta a conclusão de que baixo letramento científico favorece a circulação de notícias falsas. As outras alternativas atribuem percentuais a interpretações incorretas ou fazem afirmações que o gráfico não permite concluir. É importante distinguir concordância, discordância, desconhecimento e ausência de resposta."
+    },
+    "fatec-2026-1-57": {
+      "explanation": "“Visando reforçar” expressa finalidade: indica o objetivo das políticas de disseminação de conhecimento. A alternativa B preserva esse valor com “a fim de que” e mantém a educação científica da população como aquilo que deve ser reforçado. As opções com “porque” e “uma vez que” introduzem causa; “enquanto” introduz relação temporal. A alternativa D também muda o papel atribuído à população."
+    },
+    "fatec-2026-1-58": {
+      "explanation": "A conclusão exige cruzar os dois gráficos. O Sudeste apresenta elevado índice de docentes com pós-graduação e concentra grande número de empregos tecnológicos nos estados destacados. Isso é o que a alternativa D reúne. Os dados não demonstram automaticamente causalidade entre escolaridade e empregos, e as demais opções exageram, negam participações ou atribuem à região Sul quatro estados, embora ela tenha apenas três."
+    },
+    "fatec-2026-1-59": {
+      "explanation": "O texto define o que são deep techs, informa seus objetivos e oferece exemplos de segmentos em que atuam. Essa organização é expositiva e conceitual: apresenta ao leitor um tipo de empresa. Não narra a fundação de uma empresa específica, não compara superioridade empresarial nem tem como propósito central conquistar seguidores ou explicar redes de comunicação entre startups."
+    },
+    "fatec-2026-1-60": {
+      "explanation": "A definição informa que deep techs desenvolvem soluções tecnológicas apoiadas em conhecimentos científicos para problemas complexos e de alto impacto. A alternativa B sintetiza essa informação. As outras reduzem sua atuação a conectar consumidores, restringem a relevância social das soluções ou afirmam limitação de áreas, contrariando os exemplos de biotecnologia, hardware e inteligência artificial apresentados no texto."
+    }
+  },
+  "issues": [
+    {
+      "id": "fatec-2026-1-32",
+      "problem": "Contexto da roda-gigante aparecia como imagem de texto e uma frase nativa truncada/duplicada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 32 e 33.\nFoi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da\nAmérica Latina, que tem 80 metros de diâmetro.\n<https://tinyurl.com/36bcbr2x> Acesso em: 28.09.2025. Adaptado.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 32 e 33.<br>Foi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da<br>América Latina, que tem 80 metros de diâmetro.<br>&lt;https://tinyurl.com/36bcbr2x&gt; Acesso em: 28.09.2025. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>O comprimento, em metros, de uma circunferência que possua diâmetro igual ao da roda gigante mencionada no texto é de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-33",
+      "problem": "Fórmula h(t) ausente e contexto da roda-gigante substituído por imagem de texto parcialmente cortada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 32 e 33.\nFoi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da\nAmérica Latina, que tem 80 metros de diâmetro.\n<https://tinyurl.com/36bcbr2x> Acesso em: 28.09.2025. Adaptado.",
+        "text": "Suponha que, durante o passeio na roda gigante mencionada no texto, a altura de uma cabine possa ser modelada\npela função:\n\nh(t) = 51 − 40 cos(πt/15).\n\nem que h(t) é a altura, em metros, da cabine em relação ao solo e t é o tempo, em minutos, desde o início do passeio\nno ponto mais baixo da roda gigante (t ≥ 0).\nAssinale a alternativa que apresenta, respectivamente, a maior altura atingida pela cabine e o instante de tempo em\nque isso ocorre pela primeira vez.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 32 e 33.<br>Foi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da<br>América Latina, que tem 80 metros de diâmetro.<br>&lt;https://tinyurl.com/36bcbr2x&gt; Acesso em: 28.09.2025. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Suponha que, durante o passeio na roda gigante mencionada no texto, a altura de uma cabine possa ser modelada<br>pela função:</p><p>h(t) = 51 − 40 cos(πt/15).</p><p>em que h(t) é a altura, em metros, da cabine em relação ao solo e t é o tempo, em minutos, desde o início do passeio<br>no ponto mais baixo da roda gigante (t ≥ 0).<br>Assinale a alternativa que apresenta, respectivamente, a maior altura atingida pela cabine e o instante de tempo em<br>que isso ocorre pela primeira vez.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-29",
+      "problem": "Texto de apoio continha a própria questão 29 e suas alternativas, misturando itens.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 29 e 30.\nRocket man (Elton John)\nI miss the Earth so much, I miss my wife\nIt’s lonely out in space\nOn such a timeless flight\n(...)\nMars ain’t the kind of place to raise your kids\nIn fact, it’s cold as hell\nAnd there’s no one there to raise them if you did\n<https://tinyurl.com/2b5acwut> Acesso em: 13.09.2025.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 29 e 30.<br>Rocket man (Elton John)<br>I miss the Earth so much, I miss my wife<br>It’s lonely out in space<br>On such a timeless flight<br>(...)<br>Mars ain’t the kind of place to raise your kids<br>In fact, it’s cold as hell<br>And there’s no one there to raise them if you did<br>&lt;https://tinyurl.com/2b5acwut&gt; Acesso em: 13.09.2025.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Na última estrofe, a expressão in fact reforça que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-30",
+      "problem": "Texto de apoio continha a própria questão 29 e suas alternativas, misturando itens.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 29 e 30.\nRocket man (Elton John)\nI miss the Earth so much, I miss my wife\nIt’s lonely out in space\nOn such a timeless flight\n(...)\nMars ain’t the kind of place to raise your kids\nIn fact, it’s cold as hell\nAnd there’s no one there to raise them if you did\n<https://tinyurl.com/2b5acwut> Acesso em: 13.09.2025.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 29 e 30.<br>Rocket man (Elton John)<br>I miss the Earth so much, I miss my wife<br>It’s lonely out in space<br>On such a timeless flight<br>(...)<br>Mars ain’t the kind of place to raise your kids<br>In fact, it’s cold as hell<br>And there’s no one there to raise them if you did<br>&lt;https://tinyurl.com/2b5acwut&gt; Acesso em: 13.09.2025.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A música de Elton John foi composta em 1972 e refere-se<br>ao desenvolvimento da</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-36",
+      "problem": "A fórmula de crescimento não foi extraída e o enunciado ficou insolúvel sem o valor inicial.",
+      "fix": {
+        "text": "Suponha que um laboratório estime o crescimento de uma cultura bacteriana utilizando a fórmula N(t) = 1 000 · 2^(t/g),\nem que N(t) é o número de bactérias no tempo t (em minutos) e g é o tempo de geração, ou seja, o tempo para a\npopulação bacteriana duplicar.\nEm determinado experimento, após 45 minutos, uma população de bactérias chegou a 8 000 bactérias.\nO tempo de geração, g, dessa cultura bacteriana é de",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Suponha que um laboratório estime o crescimento de uma cultura bacteriana utilizando a fórmula N(t) = 1 000 · 2^(t/g),<br>em que N(t) é o número de bactérias no tempo t (em minutos) e g é o tempo de geração, ou seja, o tempo para a<br>população bacteriana duplicar.<br>Em determinado experimento, após 45 minutos, uma população de bactérias chegou a 8 000 bactérias.<br>O tempo de geração, g, dessa cultura bacteriana é de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-37",
+      "problem": "Multiplicador 1/2 desapareceu; posição da figura interrompia a frase e matriz só tinha representação visual.",
+      "fix": {
+        "text": "Ao tirar fotos ou gerar imagens em preto-e-branco, os computadores armazenam essas informações como uma matriz\nde números inteiros que vão de 0 a 255. No exemplo, um mosaico quadriculado é armazenado por um computador\ncomo a matriz A = [[50, 248, 126], [10, 30, 168], [8, 84, 158]].\nEssa forma de armazenamento possibilita realizar alterações na imagem. Suponha que um aplicativo de edição de\nimagens ofereça um filtro de edição que multiplica cada número da matriz A por 1/2, gerando uma nova imagem\nrepresentada por uma matriz S.\nA respeito do número que ocupa a linha 2 e a coluna 3 da matriz S, é correto afirmar que ele é igual a",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Ao tirar fotos ou gerar imagens em preto-e-branco, os computadores armazenam essas informações como uma matriz<br>de números inteiros que vão de 0 a 255. No exemplo, um mosaico quadriculado é armazenado por um computador<br>como a matriz A = [[50, 248, 126], [10, 30, 168], [8, 84, 158]].<br>Essa forma de armazenamento possibilita realizar alterações na imagem. Suponha que um aplicativo de edição de<br>imagens ofereça um filtro de edição que multiplica cada número da matriz A por 1/2, gerando uma nova imagem<br>representada por uma matriz S.<br>A respeito do número que ocupa a linha 2 e a coluna 3 da matriz S, é correto afirmar que ele é igual a</p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2026-1-q37-stem0-fig-1.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 843,
+            "height": 268
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-10",
+      "problem": "Símbolos de multiplicação e potências do enunciado ficaram ambíguos no texto extraído.",
+      "fix": {
+        "text": "Suponha que, em uma leitura de código de barras, um leitor óptico emite um feixe de laser na faixa do espectro\ninfravermelho. Considere que c ≅ 3,0 × 10⁸ m/s; e que λ ≅ 1 000 nm = 1 000 × 10⁻⁹ m.\nSendo c = λ f, podemos afirmar corretamente que a ordem de grandeza da frequência f, em Hz, é",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 09 e 10.<br>Código de barras lineares é formado por barras pretas e brancas paralelas. Para sua leitura, são utilizados<br>“leitores ópticos”. Esses leitores utilizam um LED o qual emite feixes de luz, geralmente vermelha ou infravermelha,<br>que, ao refletir, é captada por um fotodiodo e convertida em corrente elétrica. Essa corrente é amplificada e<br>transformada em sinal digital (0 e 1) de acordo com as barras, que são decodificadas por um algoritmo no processador<br>acoplado ao leitor óptico.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Suponha que, em uma leitura de código de barras, um leitor óptico emite um feixe de laser na faixa do espectro<br>infravermelho. Considere que c ≅ 3,0 × 10⁸ m/s; e que λ ≅ 1 000 nm = 1 000 × 10⁻⁹ m.<br>Sendo c = λ f, podemos afirmar corretamente que a ordem de grandeza da frequência f, em Hz, é</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-41",
+      "problem": "Figuras das estruturas químicas cortam átomos inferiores. Fórmulas estruturais condensadas equivalentes restauram todos os grupos.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 41 e 42.\nOs compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de\nhidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido.\nConsidere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.\n\nComposto 1: CCl₂(OH)–CCl₂–CH₂–COOH.\nComposto 2: CF₃–CF₂–CF₂–COOH.",
+        "text": "Assinale a alternativa que contém o valor aproximado\nda porcentagem em massa de carbono do composto\norgânico que pertence ao grupo dos PFAS.\nMassas molares em g/mol:\nC = 12 ; H = 1; O = 16; F = 19; Cl = 35,5; N = 14",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 41 e 42.<br>Os compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de<br>hidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido.<br>Considere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.</p><p>Composto 1: CCl₂(OH)–CCl₂–CH₂–COOH.<br>Composto 2: CF₃–CF₂–CF₂–COOH.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 15,
+            "rect": [
+              152,
+              100,
+              425,
+              165
+            ],
+            "alt": "Fórmulas estruturais completas dos dois compostos, com todos os átomos inferiores visíveis"
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que contém o valor aproximado<br>da porcentagem em massa de carbono do composto<br>orgânico que pertence ao grupo dos PFAS.<br>Massas molares em g/mol:<br>C = 12 ; H = 1; O = 16; F = 19; Cl = 35,5; N = 14</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-42",
+      "problem": "Figuras das estruturas químicas cortam átomos inferiores. Fórmulas estruturais condensadas equivalentes restauram todos os grupos.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 41 e 42.\nOs compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de\nhidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido.\nConsidere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.\n\nComposto 1: CCl₂(OH)–CCl₂–CH₂–COOH.\nComposto 2: CF₃–CF₂–CF₂–COOH.",
+        "text": "A estimativa da meia-vida (t₁/₂) das PFAS é essencial para\nquantificar sua persistência, toxicidade e mecanismo de\nação em humanos. Meia-vida é o intervalo de tempo\nnecessário para a quantidade de um reagente diminuir\na metade do seu valor. Suponha que um indivíduo\ningeriu água contaminada com 200 mg de PFOA\n(ácido perfluorooctanóico) e que, após 12 anos, foram\nencontrados 12,5 mg de PFOA em seu organismo.\nConsiderando as informações apresentadas, assinale a\nalternativa que contém o tempo de meia-vida correto do\nPFOA.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 41 e 42.<br>Os compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de<br>hidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido.<br>Considere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.</p><p>Composto 1: CCl₂(OH)–CCl₂–CH₂–COOH.<br>Composto 2: CF₃–CF₂–CF₂–COOH.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 15,
+            "rect": [
+              152,
+              100,
+              425,
+              165
+            ],
+            "alt": "Fórmulas estruturais completas dos dois compostos, com todos os átomos inferiores visíveis"
+          },
+          {
+            "type": "html",
+            "html": "<p>A estimativa da meia-vida (t₁/₂) das PFAS é essencial para<br>quantificar sua persistência, toxicidade e mecanismo de<br>ação em humanos. Meia-vida é o intervalo de tempo<br>necessário para a quantidade de um reagente diminuir<br>a metade do seu valor. Suponha que um indivíduo<br>ingeriu água contaminada com 200 mg de PFOA<br>(ácido perfluorooctanóico) e que, após 12 anos, foram<br>encontrados 12,5 mg de PFOA em seu organismo.<br>Considerando as informações apresentadas, assinale a<br>alternativa que contém o tempo de meia-vida correto do<br>PFOA.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-46",
+      "problem": "Contexto incluía questões 47 e 48 e suas alternativas. Apoio agora limitado ao texto e infográfico corretos.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 46 a 48.\nEm 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de\nfêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos\nforam lançadas em LP com o título Songs of the Humpback Whale, em 1970, e ajudaram a impulsionar o movimento\nconservacionista. Entenda no infográfico mais sobre essas músicas.\n< https://tinyurl.com/uj53au > Acesso em: 30.08.2025. Adaptado.",
+        "text": "Suponha que uma canção, cuja duração máxima está\nindicada no texto, seja composta pelo encadeamento\nsequencial do Tema 2 e do Tema 3, nessa ordem. Considere\na duração de cada unidade, em segundos, como:\nHexágono: 6 s; pausa (duas barras): 4 s; losango: 1 s; círculo: 8 s; estrela: 5 s; quadrado: 3 s; triângulo: 2 s.\nLogo, a quantidade de vezes que cada um dos temas se\nrepetirá completamente nessa canção é",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 46 a 48.<br>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de<br>fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos<br>foram lançadas em LP com o título Songs of the Humpback Whale, em 1970, e ajudaram a impulsionar o movimento<br>conservacionista. Entenda no infográfico mais sobre essas músicas.<br>&lt; https://tinyurl.com/uj53au &gt; Acesso em: 30.08.2025. Adaptado.</p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2026-1-ctx9-fig-1.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 625,
+            "height": 526
+          },
+          {
+            "type": "html",
+            "html": "<p>Suponha que uma canção, cuja duração máxima está<br>indicada no texto, seja composta pelo encadeamento<br>sequencial do Tema 2 e do Tema 3, nessa ordem. Considere<br>a duração de cada unidade, em segundos, como:<br>Hexágono: 6 s; pausa (duas barras): 4 s; losango: 1 s; círculo: 8 s; estrela: 5 s; quadrado: 3 s; triângulo: 2 s.<br>Logo, a quantidade de vezes que cada um dos temas se<br>repetirá completamente nessa canção é</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-47",
+      "problem": "Contexto incluía questões 47 e 48 e suas alternativas. Apoio agora limitado ao texto e infográfico corretos.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 46 a 48.\nEm 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de\nfêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos\nforam lançadas em LP com o título Songs of the Humpback Whale, em 1970, e ajudaram a impulsionar o movimento\nconservacionista. Entenda no infográfico mais sobre essas músicas.\n< https://tinyurl.com/uj53au > Acesso em: 30.08.2025. Adaptado.",
+        "text": "A construção de uma música é feita a partir blocos sonoros. Ao ordenarmos esses blocos, conforme sua complexidade,\nobtemos a sequência",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 46 a 48.<br>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de<br>fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos<br>foram lançadas em LP com o título Songs of the Humpback Whale, em 1970, e ajudaram a impulsionar o movimento<br>conservacionista. Entenda no infográfico mais sobre essas músicas.<br>&lt; https://tinyurl.com/uj53au &gt; Acesso em: 30.08.2025. Adaptado.</p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2026-1-ctx9-fig-1.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 625,
+            "height": 526
+          },
+          {
+            "type": "html",
+            "html": "<p>A construção de uma música é feita a partir blocos sonoros. Ao ordenarmos esses blocos, conforme sua complexidade,<br>obtemos a sequência</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-48",
+      "problem": "Contexto incluía questões 47 e 48 e suas alternativas. Alternativas gráficas estavam vazias na UI.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 46 a 48.\nEm 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de\nfêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos\nforam lançadas em LP com o título Songs of the Humpback Whale, em 1970, e ajudaram a impulsionar o movimento\nconservacionista. Entenda no infográfico mais sobre essas músicas.\n< https://tinyurl.com/uj53au > Acesso em: 30.08.2025. Adaptado.",
+        "text": "Suponha que o Tema 4 repita-se indefinidamente. Desse modo, a unidade que ocupa, nessa sequência, a posição\ncorrespondente ao ano de lançamento do LP mencionado no texto deve ser",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 46 a 48.<br>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de<br>fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos<br>foram lançadas em LP com o título Songs of the Humpback Whale, em 1970, e ajudaram a impulsionar o movimento<br>conservacionista. Entenda no infográfico mais sobre essas músicas.<br>&lt; https://tinyurl.com/uj53au &gt; Acesso em: 30.08.2025. Adaptado.</p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2026-1-ctx9-fig-1.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 625,
+            "height": 526
+          },
+          {
+            "type": "html",
+            "html": "<p>Suponha que o Tema 4 repita-se indefinidamente. Desse modo, a unidade que ocupa, nessa sequência, a posição<br>correspondente ao ano de lançamento do LP mencionado no texto deve ser</p>"
+          }
+        ],
+        "options": [
+          "Círculo (●)",
+          "Hexágono (⬢)",
+          "Losango (◆)",
+          "Estrela (★)",
+          "Quadrado (■)"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>Círculo (●)</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Hexágono (⬢)</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Losango (◆)</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Estrela (★)</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Quadrado (■)</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2026-1-1",
+      "problem": "Quadro de compatibilidade tinha leitura linear sem correspondência clara entre cabeçalhos e linhas.",
+      "fix": {
+        "text": "Os grupos sanguíneos humanos são classificados, pelo sistema ABO, em 4 tipos: A, B, AB e O.\n\nNo quadro, estão apresentadas as substâncias existentes nas hemácias e no plasma de cada tipo sanguíneo.\n\nGrupo A: antígeno A nas hemácias; anticorpo anti-B no plasma.\nGrupo B: antígeno B nas hemácias; anticorpo anti-A no plasma.\nGrupo AB: antígenos A e B nas hemácias; sem anti-A e anti-B no plasma.\nGrupo O: sem antígenos A e B nas hemácias; anticorpos anti-A e anti-B no plasma.\n\nConsiderando as informações sobre os tipos sanguíneos do sistema ABO, em um processo de transfusão de sangue, é correto afirmar que uma pessoa",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Os grupos sanguíneos humanos são classificados, pelo sistema ABO, em 4 tipos: A, B, AB e O.</p><p>No quadro, estão apresentadas as substâncias existentes nas hemácias e no plasma de cada tipo sanguíneo.</p><p>Grupo A: antígeno A nas hemácias; anticorpo anti-B no plasma.<br>Grupo B: antígeno B nas hemácias; anticorpo anti-A no plasma.<br>Grupo AB: antígenos A e B nas hemácias; sem anti-A e anti-B no plasma.<br>Grupo O: sem antígenos A e B nas hemácias; anticorpos anti-A e anti-B no plasma.</p><p>Considerando as informações sobre os tipos sanguíneos do sistema ABO, em um processo de transfusão de sangue, é correto afirmar que uma pessoa</p>"
+          }
+        ]
+      }
+    }
+  ]
+}

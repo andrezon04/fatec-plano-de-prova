@@ -1,0 +1,1436 @@
+{
+  "solutions": {
+    "fatec-2024-1-1": {
+      "explanation": "A estrutura se... então... expressa uma condição: a primeira proposição funciona como antecedente e a segunda como consequência. Na lógica proposicional, isso corresponde à implicação P → Q, chamada condicional. Não é uma conjunção, disjunção ou equivalência entre as duas afirmações."
+    },
+    "fatec-2024-1-2": {
+      "explanation": "O texto enfatiza a multiplicidade de temáticas, técnicas, períodos e grupos humanos responsáveis pelos registros rupestres. Portanto, seus significados dependem dos diferentes contextos culturais, tecnológicos e sociais. As alternativas que afirmam um único povo, uniformidade de temas ou ausência de abstração contrariam essa diversidade."
+    },
+    "fatec-2024-1-3": {
+      "explanation": "As imagens rupestres registram cenas de caça, dança, luta e rituais, permitindo investigar práticas e relações sociais de grupos pré-históricos. Não documentam a colonização europeia nem convivência humana com dinossauros. O enunciado também não afirma que os animais retratados fossem domesticados ou usados em plantações."
+    },
+    "fatec-2024-1-4": {
+      "explanation": "O atlatl é associado aos astecas, que habitavam a região do atual México, no Hemisfério Norte. Comparando a velocidade da lança com a do guepardo, o aumento é (150 − 130)/130 × 100 ≈ 15,4%, aproximadamente 15%. Assim, as lacunas são México, Norte, 15 e velocidade."
+    },
+    "fatec-2024-1-5": {
+      "explanation": "O próprio texto define projeção cartográfica como a representação de uma superfície esférica em uma superfície plana. A alternativa D retoma essa definição. A Cartografia já existia entre os sumérios e não utilizava técnicas contemporâneas de sensoriamento remoto na Antiguidade."
+    },
+    "fatec-2024-1-6": {
+      "explanation": "A moda é o valor mais frequente: 8,5 milhões aparece mais vezes. Ordenando os 16 valores, os dois centrais, nas posições 8 e 9, são ambos 8,5; portanto, a mediana também é 8,5 milhões. Para uma quantidade par de dados, a mediana é a média desses dois termos centrais."
+    },
+    "fatec-2024-1-7": {
+      "explanation": "O gráfico mostra queda acentuada de visitantes em 2020 em relação a 2019. Essa redução corresponde ao período da pandemia de covid-19 e às restrições de circulação e funcionamento. As outras alternativas associam variações a fatos incorretos, como roubo da Monalisa em 2015 ou saída da França da União Europeia."
+    },
+    "fatec-2024-1-8": {
+      "explanation": "Longstanding indica algo que existe há muito tempo, enquanto finally marca o desfecho depois de uma espera prolongada. Juntas, as palavras destacam a longa busca pela explicação das manchas vermelhas na Antártida. O texto não atribui incompetência nem desânimo aos pesquisadores."
+    },
+    "fatec-2024-1-9": {
+      "explanation": "A expressão due to significa devido a e apresenta a causa da coloração vermelha: o ferro oxidado na água salgada. Não expressa finalidade, obrigação ou contestação. A relação estabelecida é causal, ligando o fenômeno observado à explicação encontrada pelos pesquisadores."
+    },
+    "fatec-2024-1-10": {
+      "explanation": "O texto explica que o ferro presente na água salgada entra em contato com o oxigênio, sofre oxidação e adquire coloração avermelhada. A hipótese anterior sobre algas não havia sido comprovada. Logo, a resposta correta é a oxidação do ferro, comparada no texto ao processo de formação de ferrugem."
+    },
+    "fatec-2024-1-11": {
+      "explanation": "De 3 de janeiro até 15 de abril, num ano bissexto, passam 103 dias: 28 restantes de janeiro, 29 de fevereiro, 31 de março e 15 de abril. Como 103 deixa resto 5 ao ser dividido por 7, avança-se cinco dias a partir de quarta-feira, chegando à segunda-feira."
+    },
+    "fatec-2024-1-12": {
+      "explanation": "A classificação das plantas pode considerar estruturas morfológicas e relações evolutivas entre os grupos, como afirma E. As outras opções apresentam anacronismos: microscópios e conhecimentos sobre genes não existiam na Grécia Antiga ou na Idade Média. Além disso, nem todas as plantas possuem flores e frutos."
+    },
+    "fatec-2024-1-13": {
+      "explanation": "A área lateral é 2πrh = 2 × 3 × 10 × 30 = 1 800 cm². São necessárias quatro receitas de 450 cm², totalizando 120 mL de azeite e 48 g de urucum. O custo é 120/1000 × 60 + 48/100 × 2 = 7,20 + 0,96 = R$ 8,16."
+    },
+    "fatec-2024-1-14": {
+      "explanation": "O raio da miniatura é 2/10 = 1/5 do original, então sua altura deve ser 30/5 = 6 cm. O volume é πr²h = π × 2² × 6 = 24π cm³. Em sólidos semelhantes, todas as medidas lineares devem ser reduzidas na mesma proporção."
+    },
+    "fatec-2024-1-15": {
+      "explanation": "O modelo de Bohr admite níveis de energia quantizados para os elétrons. Ao absorver energia, um elétron pode atingir um nível excitado; ao retornar a um nível de menor energia, emite um fóton. Essa transição explica a emissão de radiação com energias características dos elementos."
+    },
+    "fatec-2024-1-16": {
+      "explanation": "O texto informa que o branco contém óxido de zinco. O símbolo do zinco é Zn e o do oxigênio é O. Com os estados de oxidação usuais Zn²⁺ e O²⁻, a proporção que neutraliza as cargas é 1:1, resultando em ZnO. MnO₂ e ZrO envolvem outros metais."
+    },
+    "fatec-2024-1-17": {
+      "explanation": "Ao se alimentarem de insetos e outros pequenos animais, as aranhas ajudam a controlar a densidade dessas populações, exercendo função ecológica importante. Seu esqueleto é externo, o veneno não é inoculado pelas fiandeiras e a seda é proteica, não uma mistura de carboidratos e lipídios oriunda de frutas."
+    },
+    "fatec-2024-1-18": {
+      "explanation": "Ano-luz é uma unidade de distância: o percurso realizado pela luz em um ano. O humor da tirinha explora o uso incorreto de light-years como se designasse tempo. A frustração da personagem decorre dessa confusão entre grandezas, e não de convivência entre humanos e dinossauros."
+    },
+    "fatec-2024-1-19": {
+      "explanation": "A distância percorrida é d = c·t. Substituindo os dados: d = (3,0 × 10⁸) × (3,2 × 10⁷) = 9,6 × 10¹⁵ m. Como se calcula uma distância, as alternativas expressas apenas em segundos ou em metros por segundo já apresentam unidade incompatível."
+    },
+    "fatec-2024-1-20": {
+      "explanation": "O texto apresenta o graffiti como forma de expressar pensamentos, emoções e identidade, além de criar pertencimento à comunidade. Também menciona resistência e recuperação de espaços públicos. Não associa essa manifestação a conformismo nem afirma que sua finalidade seja vandalizar."
+    },
+    "fatec-2024-1-21": {
+      "explanation": "A inscrição Follow your dreams, siga seus sonhos, recebe a palavra Cancelled, cancelado, na intervenção de Banksy. A combinação sugere o cancelamento da possibilidade de perseguir os próprios sonhos. A crítica decorre dessa relação entre a frase e o carimbo, sem referência específica a redes sociais ou à liberdade de imprensa."
+    },
+    "fatec-2024-1-22": {
+      "explanation": "A oposição not the outward appearance... but their inward significance diferencia aparência exterior de significado interior. A citação atribui à arte a tarefa de representar a dimensão interna ou essencial das coisas. Por isso, exprimir a essência das coisas é a interpretação mais próxima do enunciado."
+    },
+    "fatec-2024-1-23": {
+      "explanation": "O mural coloca um ativista indígena em posição de destaque e utiliza terra e cinzas das florestas, relacionando representação cultural e questões ambientais. O exemplo mostra a arte como espaço de visibilidade e mobilização socioambiental. As outras alternativas atribuem origens ou objetivos que o texto não apresenta."
+    },
+    "fatec-2024-1-24": {
+      "explanation": "Em com terra e cinzas, a preposição indica a matéria empregada na pintura; com outros artistas indica companhia; em um paredão marca o lugar onde a imagem foi produzida. Os sentidos dependem do contexto, não sendo possível atribuir uma única função a toda ocorrência de com."
+    },
+    "fatec-2024-1-25": {
+      "explanation": "A medicina islâmica aprofundou conhecimentos greco-latinos e relacionou a saúde à arte, à arquitetura, ao ambiente e ao planejamento das cidades. Segundo o texto, esse modelo antecipou a concepção contemporânea de cidades saudáveis. Não houve rejeição dos saberes antigos nem defesa dos tratamentos específicos inventados nas demais alternativas."
+    },
+    "fatec-2024-1-26": {
+      "explanation": "A mandala possui 36 regiões delimitadas. Cada região pode receber qualquer uma das quatro cores, independentemente das demais, e não há proibição de repetir cores em espaços vizinhos. Pelo princípio multiplicativo, o total é 4 multiplicado por si mesmo 36 vezes: 4³⁶. A posição fixada impede identificar pinturas por rotação."
+    },
+    "fatec-2024-1-27": {
+      "explanation": "Mário de Andrade reconhece a influência portuguesa e barroca, mas destaca graça, delicadeza e características eminentemente brasileiras nas igrejas de Aleijadinho. Assim, interpreta a obra como adaptação original dos estilos europeus ao contexto brasileiro. O texto não a classifica como neoclássica nem rejeita sua religiosidade."
+    },
+    "fatec-2024-1-28": {
+      "explanation": "Há 9 + 14 + 10 = 33 rolês com pelo menos três estrelas e 12 gratuitos, em um total de 40. Mesmo distribuindo os gratuitos para evitar esse grupo, apenas sete caberiam entre os de uma ou duas estrelas. Portanto, pelo menos cinco gratuitos têm três ou mais estrelas, o que garante a afirmação A."
+    },
+    "fatec-2024-1-29": {
+      "explanation": "O Homem Vitruviano associa investigação racional, proporções geométricas e estudo do corpo humano. Esses elementos se relacionam ao humanismo renascentista e ao antropocentrismo, que valoriza o ser humano como referência das medidas e da compreensão do mundo. Não se trata de surrealismo ou de uma obra de crítica socialista."
+    },
+    "fatec-2024-1-30": {
+      "explanation": "O texto relaciona a música às sensações, percepções e experiências vividas pelos indivíduos nos ambientes onde habitam. Essa dimensão de vivência e significado é central à categoria geográfica Lugar. A alternativa E retoma expressamente a relação desenvolvida no excerto."
+    },
+    "fatec-2024-1-31": {
+      "explanation": "A letra apresenta um jovem que se desloca do norte para a cidade grande e enfrenta cansaço, precariedade e estranhamento quanto à sua origem. São experiências de migração interna e de dificuldades vividas pelos migrantes. Não há viagem ao exterior, deslocamento diário pendular ou retorno a Portugal."
+    },
+    "fatec-2024-1-32": {
+      "explanation": "Quanto maior a frequência de uma onda sonora, mais agudo é o som. No gráfico, a nota Lá aparece no ponto de maior frequência entre as opções. O período diminui quando a frequência aumenta, pois f = 1/T; portanto, a nota mais aguda também tem menor período."
+    },
+    "fatec-2024-1-33": {
+      "explanation": "No verso 10 aparecem toxoplasmose, sarampo e esquizofrenia. A toxoplasmose pode ser adquirida pela ingestão de água ou alimentos com formas do protozoário Toxoplasma gondii. Sarampo é uma virose de transmissão respiratória, e esquizofrenia não é uma parasitose alimentar. Assim, apenas uma das três se enquadra na descrição."
+    },
+    "fatec-2024-1-34": {
+      "explanation": "Os dois percursos entre Gustavo e Letícia, um pela esquerda e outro pela direita, completam a volta na roda. Letícia está a seis posições num sentido e a sete no outro; logo, a roda tem 6 + 7 = 13 crianças. Não se acrescentam novamente as pessoas que marcam as extremidades."
+    },
+    "fatec-2024-1-35": {
+      "explanation": "O texto situa a trupe no Nordeste e no Norte, porção setentrional do Brasil, enquanto ela enfrenta a concorrência da televisão. Isso corresponde à descrição de artistas mambembes circulando durante a massificação da TV. As outras opções inventam financiamento estatal, roubo do caminhão ou localizações geográficas incompatíveis."
+    },
+    "fatec-2024-1-36": {
+      "explanation": "O Cinema Novo defendia renovação estética, produção de baixo custo e análise crítica dos problemas sociais brasileiros. Essas características identificam o movimento descrito. Bossa Nova pertence sobretudo ao campo musical, enquanto cinema mudo designa uma característica técnica de um período, não esse projeto crítico de cineastas brasileiros."
+    },
+    "fatec-2024-1-37": {
+      "explanation": "A pesquisa descrita analisou DNA preservado no material usado pelos piolhos para fixar as lêndeas aos cabelos. Esse DNA permitiu obter informações sobre os hospedeiros humanos, como sexo e rotas migratórias. O resultado não comprova a extração de DNA de dinossauros preservado em âmbar nem transmissão de malária por piolhos."
+    },
+    "fatec-2024-1-38": {
+      "explanation": "A mumificação relacionava-se à crença egípcia na vida após a morte e à preservação do corpo. A prática de manipular órgãos também favoreceu conhecimentos anatômicos e tratamentos. Ela não foi uma resposta à varíola nem uma prática restrita a escravizados em oposição à cremação dos faraós."
+    },
+    "fatec-2024-1-39": {
+      "explanation": "A concentração encontrada foi 25,2/4,2 = 6 microgramas de mercúrio por grama de cabelo. O limite informado é 2 microgramas por grama. Portanto, N = 6/2 = 3: o valor observado corresponde a três vezes a quantidade tolerada."
+    },
+    "fatec-2024-1-40": {
+      "explanation": "Na levigação, uma corrente de água arrasta os componentes menos densos, enquanto o material mais denso permanece. Na bateia, esse princípio permite separar partículas de ouro da areia. Filtração depende de um meio poroso; sublimação envolve mudança de estado e não explica esse procedimento."
+    },
+    "fatec-2024-1-41": {
+      "explanation": "Consumo de 50 kWh durante uma hora corresponde a potência média P = E/t = 50 kWh/1 h = 50 kW = 50 000 W. É essa conversão que sustenta a alternativa E. Já 120 × 10⁹ kWh representa 120 bilhões, não 120 milhões de kWh."
+    },
+    "fatec-2024-1-42": {
+      "explanation": "A relação indicada é inversa: com o aumento da temperatura, a solubilidade do oxigênio deve diminuir. Entre os desenhos, D apresenta uma curva decrescente compatível com essa relação. Retas crescentes, gráficos com subida e descida ou uma linha horizontal não representam o comportamento descrito."
+    },
+    "fatec-2024-1-43": {
+      "explanation": "Há enzimas capazes de atuar sobre proteínas nos tubos 1, 2 e 3: pepsina em meio ácido, suco gástrico e suco pancreático. A fervura do suco gástrico no tubo 4 desnatura suas enzimas, reduzindo sua atividade. Por isso, os fragmentos de proteínas são esperados nos três primeiros tubos."
+    },
+    "fatec-2024-1-44": {
+      "explanation": "Comparar o primeiro e o terceiro amistosos mostra que Carol e Sônia ocupam a mesma função, pois as demais três jogadoras coincidem. No segundo jogo, Carol, Sônia, Maria e Francisca atuam juntas; como Francisca é atacante, Carol e Sônia não podem ser atacantes, senão haveria ao menos três. Logo, Carol é zagueira."
+    },
+    "fatec-2024-1-45": {
+      "explanation": "Na deflexão máxima, a corda está maximamente deformada, armazenando energia potencial elástica máxima. O artista passa momentaneamente pelo ponto de inversão do movimento, com velocidade mínima, idealmente nula, e portanto energia cinética mínima. Energia potencial gravitacional não deixa de existir por haver deformação elástica."
+    },
+    "fatec-2024-1-46": {
+      "explanation": "A velocidade angular mede a rapidez com que a posição angular do corpo varia durante o giro. É uma grandeza pertinente à rotação do bailarino. Massa é escalar, e a força centrífuga é uma força de inércia associada a referenciais em rotação, não a um observador externo inercial."
+    },
+    "fatec-2024-1-47": {
+      "explanation": "A curva c4 tem vértice em (0, −8), logo sua expressão tem a forma y = ax² − 8. Como passa por (4, −4), temos −4 = 16a − 8, portanto a = 1/4. O trecho desenhado vai de x = −4 a x = 4. Assim, y = x²/4 − 8, no intervalo [−4; 4]."
+    },
+    "fatec-2024-1-48": {
+      "explanation": "As datas 1896–1897 situam Canudos na República, proclamada em 1889. Os textos destacam a resistência até a morte dos últimos defensores e a violência contra uma população pobre atingida por seca e falta de terras. Não houve rendição, tampouco ordem de Dom Pedro II ou vitória em uma única tentativa."
+    },
+    "fatec-2024-1-49": {
+      "explanation": "No modelo do enunciado, a velocidade horizontal é constante e vale 3 800 m/10 s = 380 m/s. Em 0,5 s, o deslocamento horizontal é 380 × 0,5 = 190 m. É necessário usar a mesma grandeza de tempo e manter as condições de alcance indicadas."
+    },
+    "fatec-2024-1-50": {
+      "explanation": "O Sertão nordestino tem clima semiárido, marcado por chuvas escassas e irregulares. A vegetação apresenta adaptações à falta de água, chamadas xeromórficas, como redução de folhas e estruturas de armazenamento. Plantas ombrófilas relacionam-se a ambientes úmidos; o Sertão não é caracterizado como clima desértico ou subtropical."
+    },
+    "fatec-2024-1-51": {
+      "explanation": "O que de III retoma fator; por isso, em IV, recupera o raciocínio anterior; as, em V, retoma palavras; e o, em VII, retoma nosso espírito. São formas de coesão referencial. Já o se condicional de I e os artigos e conectivos indicados nas demais posições não desempenham essa mesma retomada."
+    },
+    "fatec-2024-1-52": {
+      "explanation": "O segundo parágrafo contém cinco períodos, delimitados pelos pontos finais. O segundo é A produção literária tira as palavras do nada e as dispõe como todo articulado, com duas orações coordenadas ligadas pela conjunção aditiva e. A alternativa E reconhece essa organização; as demais erram a contagem ou a relação sintática."
+    },
+    "fatec-2024-1-53": {
+      "explanation": "Candido afirma que a organização da obra literária ajuda o leitor a organizar a mente, os sentimentos e a visão do mundo. Assim, a leitura oferece ferramentas para compreender melhor a realidade. O texto não apresenta a linguagem como estrutura imutável nem restringe essa função à literatura de compreensão fácil."
+    },
+    "fatec-2024-1-54": {
+      "explanation": "Calvin afirma exageradamente que se sente como se tivesse sido atropelado por um trem e depois realmente passa por um incidente que torna o exagero mais adequado. Haroldo recomenda reservar a hipérbole para quando ela for necessária. A tirinha trabalha o momento apropriado de empregar a figura de linguagem."
+    }
+  },
+  "issues": [
+    {
+      "id": "fatec-2024-1-4",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "I: México; II: Norte; III: 15; IV: velocidade.",
+          "I: Peru; II: Norte; III: 15; IV: velocidade.",
+          "I: México; II: Sul; III: 25; IV: velocidade.",
+          "I: Peru; II: Sul; III: 25; IV: pressão.",
+          "I: México; II: Norte; III: 15; IV: pressão."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>I: México; II: Norte; III: 15; IV: velocidade.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: Peru; II: Norte; III: 15; IV: velocidade.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: México; II: Sul; III: 25; IV: velocidade.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: Peru; II: Sul; III: 25; IV: pressão.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: México; II: Norte; III: 15; IV: pressão.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-4",
+      "problem": "Fórmulas/instruções em imagens cortadas e tabela duplicada.",
+      "fix": {
+        "text": "O atlatl é um artefato manual asteca que encaixa na parte traseira de uma lança e pode impulsioná-la a\numa velocidade de 150 km/h, além de fazê-la gerar uma pressão que chega a 75 kgf/cm2 em seu alvo.\nTrata-se de uma estrutura capaz de intensificar o arremesso da lança por seu usuário, tornando-a mais\nletal que um leão e mais veloz que um guepardo, uma vez que a pressão da mordida de um leão gera\n50 kgf/cm2 e que um guepardo, perseguindo uma presa, chega a 130 km/h.\nFonte dos dados: Revista Super Interessante, edição 453, julho 2023, p.5.\nAo ler o texto, é correto afirmar que o atlatl provavelmente poderia ser encontrado em sítios arqueológicos localizados na região do atual ___ (I), que se situa no hemisfério ___ (II), dado ser esta a região habitada pela civilização referida no texto, antes da chegada de Cristóvão Colombo ao continente americano em 1492.\n\nAlém disso, esse artefato intensifica o arremesso da lança por seu usuário em cerca de ___ (III)% no que se refere à ___ (IV) do felino.\n\nAssinale a alternativa que completa corretamente os espaços numerados.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>O atlatl é um artefato manual asteca que encaixa na parte traseira de uma lança e pode impulsioná-la a uma velocidade de 150 km/h, além de fazê-la gerar uma pressão que chega a 75 kgf/cm² em seu alvo. Trata-se de uma estrutura capaz de intensificar o arremesso da lança por seu usuário, tornando-a mais letal que um leão e mais veloz que um guepardo, uma vez que a pressão da mordida de um leão gera 50 kgf/cm² e que um guepardo, perseguindo uma presa, chega a 130 km/h. Fonte dos dados: Revista Super Interessante, edição 453, julho 2023, p.5. Ao ler o texto, é correto afirmar que o atlatl provavelmente poderia ser encontrado em sítios arqueológicos localizados na região do atual ___ (I), que se situa no hemisfério ___ (II), dado ser esta a região habitada pela civilização referida no texto, antes da chegada de Cristóvão Colombo ao continente americano em 1492.</p><p>Além disso, esse artefato intensifica o arremesso da lança por seu usuário em cerca de ___ (III)% no que se refere à ___ (IV) do felino.</p><p>Assinale a alternativa que completa corretamente os espaços numerados.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-13",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "R$ 8,16",
+          "R$ 7,20",
+          "R$ 4,50",
+          "R$ 1,68",
+          "R$ 0,96"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>R$ 8,16</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>R$ 7,20</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>R$ 4,50</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>R$ 1,68</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>R$ 0,96</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-14",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "30π.",
+          "24π.",
+          "18π.",
+          "12π.",
+          "6π."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>30π.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>24π.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>18π.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>12π.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>6π.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-19",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "1,0 × 10⁹ m/s.",
+          "1,1 × 10¹¹ s.",
+          "2,6 × 10¹² s.",
+          "6,1 × 10¹³ m.",
+          "9,6 × 10¹⁵ m."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>1,0 × 10⁹ m/s.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>1,1 × 10¹¹ s.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2,6 × 10¹² s.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>6,1 × 10¹³ m.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>9,6 × 10¹⁵ m.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-26",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "4¹",
+          "4¹²",
+          "4²⁴",
+          "4³⁶",
+          "4⁴⁸"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>4¹</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>4¹²</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>4²⁴</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>4³⁶</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>4⁴⁸</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-47",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "y = x²/4 − 8; intervalo [−4; 4].",
+          "y = x²/2 − 8; intervalo [−4; 4].",
+          "y = x²/4 − 8; intervalo [−6; −4].",
+          "y = x²/2 − 8; intervalo [−6; −4].",
+          "y = x²/4 − 8; intervalo [−4; 6]."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>y = x²/4 − 8; intervalo [−4; 4].</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>y = x²/2 − 8; intervalo [−4; 4].</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>y = x²/4 − 8; intervalo [−6; −4].</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>y = x²/2 − 8; intervalo [−6; −4].</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>y = x²/4 − 8; intervalo [−4; 6].</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-25",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "recusando os saberes de outros povos, a medicina islâmica medieval desenvolveu uma visão de saúde considerada equivocada pelos estudiosos contemporâneos.",
+          "aprofundando o estudo da tradição greco-latina, a medicina islâmica medieval desenvolveu o modelo de prescrição de remédios baseado na intuição e nas experiências prévias do médico.",
+          "buscando evitar o desenvolvimento de doenças, a medicina islâmica medieval defendia a realização de exames periódicos e a prática regular de exercícios físicos.",
+          "utilizando substâncias dos reinos vegetal, animal e mineral, a medicina islâmica medieval criou tratamentos baseados na dinamização dos agentes causadores de doenças.",
+          "retomando conceitos desenvolvidos pelos povos da Antiguidade, a medicina islâmica medieval lançou as bases de uma concepção contemporânea de saúde."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>recusando os saberes de outros povos, a medicina islâmica medieval desenvolveu uma visão de saúde considerada equivocada pelos estudiosos contemporâneos.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>aprofundando o estudo da tradição greco-latina, a medicina islâmica medieval desenvolveu o modelo de prescrição de remédios baseado na intuição e nas experiências prévias do médico.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>buscando evitar o desenvolvimento de doenças, a medicina islâmica medieval defendia a realização de exames periódicos e a prática regular de exercícios físicos.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>utilizando substâncias dos reinos vegetal, animal e mineral, a medicina islâmica medieval criou tratamentos baseados na dinamização dos agentes causadores de doenças.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>retomando conceitos desenvolvidos pelos povos da Antiguidade, a medicina islâmica medieval lançou as bases de uma concepção contemporânea de saúde.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-35",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "revela a intencionalidade da ditadura Varguista no Brasil de levar espetáculos de qualidade para as famílias assentadas ao longo da rodovia Transamazônica, construída na década de 1980.",
+          "conta a história de um grupo de artistas mambembes que transita pela porção setentrional do território brasileiro numa época em que a televisão se massificava no Brasil.",
+          "retrata um período da história brasileira em que os artistas, remunerados pelo Estado, deslocavam-se pela porção meridional do Brasil para proporcionar espetáculos gratuitos à população.",
+          "narra a saga de uma trupe de artistas que resolve encenar espetáculos em todo o trajeto da Bacia do Rio São Francisco, cujo rio principal nasce na Bahia e deságua no rio Amazonas.",
+          "descreve, com bom humor, a viagem de um grupo de comediantes que rouba um caminhão para poder se deslocar pelo interior do Brasil encenando espetáculos circenses."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>revela a intencionalidade da ditadura Varguista no Brasil de levar espetáculos de qualidade para as famílias assentadas ao longo da rodovia Transamazônica, construída na década de 1980.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>conta a história de um grupo de artistas mambembes que transita pela porção setentrional do território brasileiro numa época em que a televisão se massificava no Brasil.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>retrata um período da história brasileira em que os artistas, remunerados pelo Estado, deslocavam-se pela porção meridional do Brasil para proporcionar espetáculos gratuitos à população.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>narra a saga de uma trupe de artistas que resolve encenar espetáculos em todo o trajeto da Bacia do Rio São Francisco, cujo rio principal nasce na Bahia e deságua no rio Amazonas.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>descreve, com bom humor, a viagem de um grupo de comediantes que rouba um caminhão para poder se deslocar pelo interior do Brasil encenando espetáculos circenses.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-40",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "Levigação",
+          "Dissolução fracionada",
+          "Sublimação",
+          "Decantação",
+          "Filtração"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>Levigação</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Dissolução fracionada</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Sublimação</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Decantação</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Filtração</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-45",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado.",
+      "fix": {
+        "options": [
+          "não há energia potencial envolvida no sistema.",
+          "há apenas energia potencial gravitacional envolvida.",
+          "as energias cinética e potencial elástica são máximas.",
+          "a energia potencial elástica é máxima e a cinética é mínima.",
+          "a energia potencial elástica e a energia potencial gravitacional são nulas."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>não há energia potencial envolvida no sistema.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>há apenas energia potencial gravitacional envolvida.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>as energias cinética e potencial elástica são máximas.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>a energia potencial elástica é máxima e a cinética é mínima.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>a energia potencial elástica e a energia potencial gravitacional são nulas.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-8",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 08 a 10.\nThe longstanding mystery surrounding Antarctica’s Blood Falls has finally been solved. The deep red falls\nwere first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff\nof ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however\nthat hypothesis was never verified.\nNow, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls\nflowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same\nprocess that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with\noxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color.\nThe research team calculates that the brine water takes approximately 1.5 million years to finally reach the\nBlood Falls as it makes its way through fissures and channels in the glacier.\n<https://tinyurl.com/22vb439j> Acesso em: 16.08.2023.",
+        "text": "As palavras longstanding e finally, sublinhadas no primeiro período do texto, evidenciam a",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 08 a 10. The longstanding mystery surrounding Antarctica’s Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier. &lt;https://tinyurl.com/22vb439j&gt; Acesso em: 16.08.2023.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>As palavras longstanding e finally, sublinhadas no primeiro período do texto, evidenciam a</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-9",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 08 a 10.\nThe longstanding mystery surrounding Antarctica’s Blood Falls has finally been solved. The deep red falls\nwere first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff\nof ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however\nthat hypothesis was never verified.\nNow, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls\nflowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same\nprocess that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with\noxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color.\nThe research team calculates that the brine water takes approximately 1.5 million years to finally reach the\nBlood Falls as it makes its way through fissures and channels in the glacier.\n<https://tinyurl.com/22vb439j> Acesso em: 16.08.2023.",
+        "text": "A expressão due to, em negrito, introduz",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 08 a 10. The longstanding mystery surrounding Antarctica’s Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier. &lt;https://tinyurl.com/22vb439j&gt; Acesso em: 16.08.2023.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A expressão due to, em negrito, introduz</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-10",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 08 a 10.\nThe longstanding mystery surrounding Antarctica’s Blood Falls has finally been solved. The deep red falls\nwere first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff\nof ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however\nthat hypothesis was never verified.\nNow, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls\nflowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same\nprocess that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with\noxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color.\nThe research team calculates that the brine water takes approximately 1.5 million years to finally reach the\nBlood Falls as it makes its way through fissures and channels in the glacier.\n<https://tinyurl.com/22vb439j> Acesso em: 16.08.2023.",
+        "text": "Segundo o texto, o que explica corretamente o aparecimento da coloração vermelho-escura na água é",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 08 a 10. The longstanding mystery surrounding Antarctica’s Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier. &lt;https://tinyurl.com/22vb439j&gt; Acesso em: 16.08.2023.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Segundo o texto, o que explica corretamente o aparecimento da coloração vermelho-escura na água é</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-13",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 13 e 14.\nNa ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de\ncerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela\nregião aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas.\nEssas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo.\n<https://tinyurl.com/2s474vzp> Acesso em: 23.08.23. Adaptado.\nNo Pará, podemos visitar diversos museus que expõem a arte Marajoara. Considere que, em uma dessas\nexposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio\nda base igual a 10 cm.",
+        "text": "Um artista cria uma cópia exata do vaso de cerâmica mencionado no texto. Para começar, ele decide pintar\ntoda a área lateral externa desse vaso com tinta de urucum.\nPara fazer essa tinta, ele usa uma receita própria que consiste em misturar, em um recipiente, 30 mL de azeite\nde oliva a 12 g de urucum em pó. A tintura obtida rende a pintura de uma área de 450 cm2.\nConsidere que 1000 mL de azeite custe R$ 60,00 e que 100 g de urucum em pó custe R$ 2,00.\nAssinale a alternativa que apresenta, corretamente, o custo com matéria-prima para a elaboração da receita\nde tinta de urucum na quantidade necessária para que o artista realize a pintura proposta. (Utilize π = 3)",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 13 e 14. Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo. &lt;https://tinyurl.com/2s474vzp&gt; Acesso em: 23.08.23. Adaptado. No Pará, podemos visitar diversos museus que expõem a arte Marajoara. Considere que, em uma dessas exposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio da base igual a 10 cm.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Um artista cria uma cópia exata do vaso de cerâmica mencionado no texto. Para começar, ele decide pintar toda a área lateral externa desse vaso com tinta de urucum. Para fazer essa tinta, ele usa uma receita própria que consiste em misturar, em um recipiente, 30 mL de azeite de oliva a 12 g de urucum em pó. A tintura obtida rende a pintura de uma área de 450 cm2. Considere que 1000 mL de azeite custe R$ 60,00 e que 100 g de urucum em pó custe R$ 2,00. Assinale a alternativa que apresenta, corretamente, o custo com matéria-prima para a elaboração da receita de tinta de urucum na quantidade necessária para que o artista realize a pintura proposta. (Utilize π = 3)</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-14",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 13 e 14.\nNa ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de\ncerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela\nregião aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas.\nEssas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo.\n<https://tinyurl.com/2s474vzp> Acesso em: 23.08.23. Adaptado.\nNo Pará, podemos visitar diversos museus que expõem a arte Marajoara. Considere que, em uma dessas\nexposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio\nda base igual a 10 cm.",
+        "text": "Um artesão quer criar miniaturas proporcionais ao vaso de cerâmica mencionado no texto para vender aos\nturistas.\nSabendo que o raio da base da miniatura é de 2 cm, o volume desta, em cm3, será de",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 13 e 14. Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo. &lt;https://tinyurl.com/2s474vzp&gt; Acesso em: 23.08.23. Adaptado. No Pará, podemos visitar diversos museus que expõem a arte Marajoara. Considere que, em uma dessas exposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio da base igual a 10 cm.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Um artesão quer criar miniaturas proporcionais ao vaso de cerâmica mencionado no texto para vender aos turistas. Sabendo que o raio da base da miniatura é de 2 cm, o volume desta, em cm3, será de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-15",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 15 e 16.\nCândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é\no Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos\ncômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede\naté chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar\na responder a esse mistério.\nUma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem\nquantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das\ntintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade\nvariam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo\nos pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto\ne cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro,\nmanganês, cádmio e selênio.\n<https://tinyurl.com/ykp5t3zp> Acesso em: 20.08.2023.Adaptado.",
+        "text": "A emissão de luz, que ocorre na técnica de análise mencionada no texto, é explicada corretamente pelo\nmodelo atômico de",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 15 e 16. Cândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é o Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos cômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede até chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar a responder a esse mistério. Uma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem quantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das tintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade variam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo os pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto e cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro, manganês, cádmio e selênio. &lt;https://tinyurl.com/ykp5t3zp&gt; Acesso em: 20.08.2023.Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A emissão de luz, que ocorre na técnica de análise mencionada no texto, é explicada corretamente pelo modelo atômico de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-16",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 15 e 16.\nCândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é\no Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos\ncômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede\naté chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar\na responder a esse mistério.\nUma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem\nquantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das\ntintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade\nvariam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo\nos pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto\ne cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro,\nmanganês, cádmio e selênio.\n<https://tinyurl.com/ykp5t3zp> Acesso em: 20.08.2023.Adaptado.",
+        "text": "Assinale a alternativa que contém a fórmula química correta do composto que confere cor branca à tinta\nutilizada por Portinari.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 15 e 16. Cândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é o Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos cômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede até chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar a responder a esse mistério. Uma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem quantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das tintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade variam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo os pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto e cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro, manganês, cádmio e selênio. &lt;https://tinyurl.com/ykp5t3zp&gt; Acesso em: 20.08.2023.Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que contém a fórmula química correta do composto que confere cor branca à tinta utilizada por Portinari.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-23",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 23 e 24.\nPintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau,\nque atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um\nparedão, nos arredores da Catedral da Sé, na cidade de São Paulo.\nA pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo.\nEle, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena\ncomo protagonista da intervenção.\n<https://tinyurl.com/2s4f37v6> Acesso em: 25.08.2023. Adaptado.",
+        "text": "Com base no texto, pode-se concluir corretamente que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 23 e 24. Pintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau, que atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um paredão, nos arredores da Catedral da Sé, na cidade de São Paulo. A pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo. Ele, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena como protagonista da intervenção. &lt;https://tinyurl.com/2s4f37v6&gt; Acesso em: 25.08.2023. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Com base no texto, pode-se concluir corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-24",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 23 e 24.\nPintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau,\nque atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um\nparedão, nos arredores da Catedral da Sé, na cidade de São Paulo.\nA pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo.\nEle, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena\ncomo protagonista da intervenção.\n<https://tinyurl.com/2s4f37v6> Acesso em: 25.08.2023. Adaptado.",
+        "text": "As preposições assumem diferentes sentidos, dependendo do contexto em que são empregadas.\nIsso pode ser observado nas expressões “com terra e cinzas”, “com outros artistas” e “em um paredão”, cujas\npreposições denotam, respectivamente,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 23 e 24. Pintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau, que atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um paredão, nos arredores da Catedral da Sé, na cidade de São Paulo. A pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo. Ele, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena como protagonista da intervenção. &lt;https://tinyurl.com/2s4f37v6&gt; Acesso em: 25.08.2023. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>As preposições assumem diferentes sentidos, dependendo do contexto em que são empregadas. Isso pode ser observado nas expressões “com terra e cinzas”, “com outros artistas” e “em um paredão”, cujas preposições denotam, respectivamente,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-39",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 39 e 40.\nOs indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira,\ncontribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país.\nNo entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com\nmercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros\nutilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores.\nPorém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro\nprocesso que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o\nmercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os\nindígenas, o que provoca impactos na saúde dessa população.\nA análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de\nmercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado\npela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que\npreveem doenças graves a essa população em médio e longo prazo.\n<https://tinyurl.com/uyypkzjn> Acesso em: 23.08.2023. Adaptado.",
+        "text": "De acordo com o texto, a quantidade de mercúrio por grama de cabelo encontrada nos indígenas é N vezes\na quantidade tolerada pela OMS.\nAssinale a alternativa que contém o correto valor de N.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 39 e 40. Os indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira, contribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país. No entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com mercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros utilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores. Porém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro processo que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o mercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os indígenas, o que provoca impactos na saúde dessa população. A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que preveem doenças graves a essa população em médio e longo prazo. &lt;https://tinyurl.com/uyypkzjn&gt; Acesso em: 23.08.2023. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>De acordo com o texto, a quantidade de mercúrio por grama de cabelo encontrada nos indígenas é N vezes a quantidade tolerada pela OMS. Assinale a alternativa que contém o correto valor de N.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-40",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 39 e 40.\nOs indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira,\ncontribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país.\nNo entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com\nmercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros\nutilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores.\nPorém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro\nprocesso que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o\nmercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os\nindígenas, o que provoca impactos na saúde dessa população.\nA análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de\nmercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado\npela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que\npreveem doenças graves a essa população em médio e longo prazo.\n<https://tinyurl.com/uyypkzjn> Acesso em: 23.08.2023. Adaptado.",
+        "text": "Assinale a alternativa que apresenta o nome correto do processo de separação de misturas empregado para\nseparar pequenas partículas de ouro da areia.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 39 e 40. Os indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira, contribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país. No entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com mercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros utilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores. Porém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro processo que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o mercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os indígenas, o que provoca impactos na saúde dessa população. A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que preveem doenças graves a essa população em médio e longo prazo. &lt;https://tinyurl.com/uyypkzjn&gt; Acesso em: 23.08.2023. Adaptado.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que apresenta o nome correto do processo de separação de misturas empregado para separar pequenas partículas de ouro da areia.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-41",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 41 e 42.\nNFT X Sustentabilidade\nBens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras\nde arte.\nNFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a\ntecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não\nfungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital,\ntais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc.\nApesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra)\npublicou um artigo alertando que, em virtude da constante mineração de dados executada por vários\ncomputadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo\nblockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de\n120 × 10⁹ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente\nchega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares\ndessas transações por dia.\nPara manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede\nde energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento\ndas turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para\nos rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima,\npodendo provocar problemas na flora e na fauna ao redor desses rios.",
+        "text": "De acordo com as informações apresentadas no texto, podemos afirmar corretamente que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 41 e 42. NFT X Sustentabilidade Bens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras de arte. NFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a tecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não fungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital, tais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc. Apesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra) publicou um artigo alertando que, em virtude da constante mineração de dados executada por vários computadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo blockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de 120 × 10⁹ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente chega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares dessas transações por dia. Para manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede de energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento das turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para os rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima, podendo provocar problemas na flora e na fauna ao redor desses rios.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>De acordo com as informações apresentadas no texto, podemos afirmar corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-42",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 41 e 42.\nNFT X Sustentabilidade\nBens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras\nde arte.\nNFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a\ntecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não\nfungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital,\ntais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc.\nApesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra)\npublicou um artigo alertando que, em virtude da constante mineração de dados executada por vários\ncomputadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo\nblockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de\n120 × 10⁹ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente\nchega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares\ndessas transações por dia.\nPara manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede\nde energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento\ndas turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para\nos rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima,\npodendo provocar problemas na flora e na fauna ao redor desses rios.",
+        "text": "O problema gerado pela liberação da água quente nos rios e nos oceanos é a alteração na quantidade de\noxigênio dissolvido na água, uma vez que a solubilidade do oxigênio na água é inversamente proporcional à\ntemperatura.\nDiante disso, assinale a alternativa que apresenta corretamente o esboço do gráfico que mostra a solubilidade\ndo oxigênio na água (mg/L) em função da temperatura (oC).\n",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 41 e 42. NFT X Sustentabilidade Bens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras de arte. NFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a tecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não fungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital, tais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc. Apesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra) publicou um artigo alertando que, em virtude da constante mineração de dados executada por vários computadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo blockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de 120 × 10⁹ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente chega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares dessas transações por dia. Para manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede de energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento das turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para os rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima, podendo provocar problemas na flora e na fauna ao redor desses rios.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>O problema gerado pela liberação da água quente nos rios e nos oceanos é a alteração na quantidade de oxigênio dissolvido na água, uma vez que a solubilidade do oxigênio na água é inversamente proporcional à temperatura. Diante disso, assinale a alternativa que apresenta corretamente o esboço do gráfico que mostra a solubilidade do oxigênio na água (mg/L) em função da temperatura (oC). </p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-42",
+      "problem": "Gráficos estavam no enunciado e alternativas mostravam somente T (°C).",
+      "fix": {
+        "options": [
+          "Gráfico A: reta crescente.",
+          "Gráfico B: sobe e depois desce.",
+          "Gráfico C: desce e depois sobe.",
+          "Gráfico D: curva decrescente.",
+          "Gráfico E: função constante."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                54,
+                602,
+                125,
+                689
+              ],
+              "alt": "Gráfico A: reta crescente. Eixo vertical: solubilidade do O₂ (mg/L); eixo horizontal: temperatura (°C)."
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                162,
+                602,
+                233,
+                689
+              ],
+              "alt": "Gráfico B: sobe e depois desce. Eixo vertical: solubilidade do O₂ (mg/L); eixo horizontal: temperatura (°C)."
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                266,
+                602,
+                338,
+                689
+              ],
+              "alt": "Gráfico C: desce e depois sobe. Eixo vertical: solubilidade do O₂ (mg/L); eixo horizontal: temperatura (°C)."
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                374,
+                602,
+                446,
+                689
+              ],
+              "alt": "Gráfico D: curva decrescente. Eixo vertical: solubilidade do O₂ (mg/L); eixo horizontal: temperatura (°C)."
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                484,
+                602,
+                555,
+                689
+              ],
+              "alt": "Gráfico E: função constante. Eixo vertical: solubilidade do O₂ (mg/L); eixo horizontal: temperatura (°C)."
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-18",
+      "problem": "Tirinha dividida em recortes com faixa de título.",
+      "fix": {
+        "text": "Analisando a linguagem verbal e não\nverbal da tirinha, é correto afirmar que a\nfrustração da personagem,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia a tirinha para responder às questões 18 e 19.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 8,
+            "rect": [
+              37.04,
+              317.08,
+              303.55,
+              694.13
+            ],
+            "alt": "Tirinha sobre a confusão entre ano-luz como distância e como tempo."
+          },
+          {
+            "type": "html",
+            "html": "<p>Analisando a linguagem verbal e não verbal da tirinha, é correto afirmar que a frustração da personagem,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-19",
+      "problem": "Tirinha dividida em recortes com faixa de título.",
+      "fix": {
+        "text": "A expressão “anos-luz” é utilizada em muitas representações artísticas, de tirinhas a quadros, de músicas a\npoemas entre outras. Entretanto, qual é, realmente, o valor aproximado de 1 ano-luz?\nAdote: velocidade da luz c = 3,0 × 10⁸ m/s e 1 ano = 3,2 × 10⁷ s.\nPodemos afirmar que a resposta correta a essa pergunta é, aproximadamente,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia a tirinha para responder às questões 18 e 19.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 8,
+            "rect": [
+              37.04,
+              317.08,
+              303.55,
+              694.13
+            ],
+            "alt": "Tirinha sobre a confusão entre ano-luz como distância e como tempo."
+          },
+          {
+            "type": "html",
+            "html": "<p>A expressão “anos-luz” é utilizada em muitas representações artísticas, de tirinhas a quadros, de músicas a poemas entre outras. Entretanto, qual é, realmente, o valor aproximado de 1 ano-luz? Adote: velocidade da luz c = 3,0 × 10⁸ m/s e 1 ano = 3,2 × 10⁷ s. Podemos afirmar que a resposta correta a essa pergunta é, aproximadamente,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-21",
+      "problem": "Intervenção artística aparecia em dois recortes e comando fragmentado.",
+      "fix": {
+        "text": "Analise a intervenção artística de Banksy.\n\nA linguagem verbal e a não-verbal denotam que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Analise a intervenção artística de Banksy.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 9,
+            "rect": [
+              38.42,
+              437.52,
+              212.18,
+              542.98
+            ],
+            "alt": "Follow your dreams com carimbo Cancelled, de Banksy."
+          },
+          {
+            "type": "html",
+            "html": "<p>A linguagem verbal e a não-verbal denotam que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-28",
+      "problem": "Estrelas ausentes na camada textual dos quadros.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Não faltam opções de “rolês” na cidade de São Paulo, que está repleta de eventos culturais e artísticos durante o ano inteiro. São tantas opções que sites e jornais oferecem, semanalmente, dicas de passeios. Suponha que um site tenha realizado uma pesquisa da qual foram compilados os quadros que mostram as classificações obtidas por 40 “rolês” paulistanos. Cada um desses “rolês” foi classificado apenas uma vez em cada quadro. </p>"
+          },
+          {
+            "type": "html",
+            "html": "<table><caption>Grau de satisfação dos 40 rolês</caption><thead><tr><th>Estrelas</th><th>Número de rolês</th></tr></thead><tbody><tr><td>5</td><td>9</td></tr><tr><td>4</td><td>14</td></tr><tr><td>3</td><td>10</td></tr><tr><td>2</td><td>5</td></tr><tr><td>1</td><td>2</td></tr></tbody></table><table><caption>Custo por pessoa</caption><thead><tr><th>Custo</th><th>Número de rolês</th></tr></thead><tbody><tr><td>$$$ (alto)</td><td>3</td></tr><tr><td>$$ (mediano)</td><td>16</td></tr><tr><td>$ (baixo)</td><td>9</td></tr><tr><td>Gratuito</td><td>12</td></tr></tbody></table>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Com base nessas informações, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-44",
+      "problem": "Escalações em figura repetida e comando deslocado.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>O futebol pode ser visto como uma arte que une a racionalidade com a emoção: um ponto de encontro para as multidões de praticantes e espectadores. Suponha que um técnico de time de futebol tenha fixado em um quadro a escalação das jogadoras para três jogos amistosos programados. Desse quadro, reproduz-se um trecho, no qual é possível ver que, em cada um dos amistosos, 4 jogadoras são escaladas, sendo 2 delas zagueiras e 2 atacantes. </p>"
+          },
+          {
+            "type": "html",
+            "html": "<table><caption>Escalações por amistoso</caption><thead><tr><th>1º amistoso</th><th>2º amistoso</th><th>3º amistoso</th></tr></thead><tbody><tr><td>Lúcia</td><td>Sônia</td><td>Maria</td></tr><tr><td>Carol</td><td>Carol</td><td>Lúcia</td></tr><tr><td>Maria</td><td>Maria</td><td>Alice</td></tr><tr><td>Alice</td><td>Francisca</td><td>Sônia</td></tr></tbody></table>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Sabendo que Francisca é atacante, é necessariamente correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-47",
+      "problem": "Tabela com todas as respostas estava misturada ao enunciado e funções extraídas fora de ordem.",
+      "fix": {
+        "text": "Emojis são elementos visuais que representam conceitos, emoções e objetos em forma de ícones e estão intrinsecamente ligados à cultura digital por facilitarem a comunicação on-line.\n\nEquações matemáticas podem ser utilizadas para modelar fenômenos e situações. Na imagem, o plano cartesiano ilustra o uso de 4 curvas para modelar um emoji. Por exemplo, a curva 2 (c2) é descrita pela função y = x² − 8x + 18, definida no intervalo real [2; 6].\n\nAssinale a alternativa que apresenta, corretamente, a função correspondente à curva 4 (c4) e o intervalo real no qual ela deve ser definida.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Emojis são elementos visuais que representam conceitos, emoções e objetos em forma de ícones e estão intrinsecamente ligados à cultura digital por facilitarem a comunicação on-line.</p><p>Equações matemáticas podem ser utilizadas para modelar fenômenos e situações. Na imagem, o plano cartesiano ilustra o uso de 4 curvas para modelar um emoji. Por exemplo, a curva 2 (c2) é descrita pela função y = x² − 8x + 18, definida no intervalo real [2; 6].</p><p>Assinale a alternativa que apresenta, corretamente, a função correspondente à curva 4 (c4) e o intervalo real no qual ela deve ser definida.</p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2024-1-q47-stem0-fig-1.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 727,
+            "height": 661
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-51",
+      "problem": "Marcadores romanos e parte do apoio apareciam como imagem.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 51 a 53.\nSe [I] fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção,\neu diria que esses tijolos representam um modo de organizar a matéria, e que [II] enquanto\norganização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente\nou não, o caráter de coisa organizada da obra literária torna-se um fator que [III] nos deixa mais\ncapazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de\norganizar a visão que temos do mundo.\n\n\nPor isso [IV], um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à\nrealidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de\nordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do\nnada e as [V] dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do\nque geralmente se [VI] pensa. A organização da palavra comunica-se ao nosso espírito e o [VII] leva,\nprimeiro, a [VIII] se organizar; em seguida, a organizar o mundo. Isto ocorre desde as [IX] formas\nmais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e\na reduzem a sugestão, norma, conselho ou simples espetáculo mental.\n\n\nAntonio Candido, Direito à Literatura. In: Vários Escritos. Rio de Janeiro: Ouro sobre Azul, 2011, 179 p.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 51 a 53. Se <sup>I</sup> fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que <sup>II</sup> enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que <sup>III</sup> nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo.</p><p> Por isso <sup>IV</sup>, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do nada e as <sup>V</sup> dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se <sup>VI</sup> pensa. A organização da palavra comunica-se ao nosso espírito e o <sup>VII</sup> leva, primeiro, a <sup>VIII</sup> se organizar; em seguida, a organizar o mundo. Isto ocorre desde as <sup>IX</sup> formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.</p><p> Antonio Candido, Direito à Literatura. In: Vários Escritos. Rio de Janeiro: Ouro sobre Azul, 2011, 179 p.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Entre os elementos destacados em negrito no texto, exercem a função de retomar uma informação anteriormente enunciada</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-52",
+      "problem": "Marcadores romanos e parte do apoio apareciam como imagem.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 51 a 53.\nSe [I] fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção,\neu diria que esses tijolos representam um modo de organizar a matéria, e que [II] enquanto\norganização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente\nou não, o caráter de coisa organizada da obra literária torna-se um fator que [III] nos deixa mais\ncapazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de\norganizar a visão que temos do mundo.\n\n\nPor isso [IV], um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à\nrealidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de\nordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do\nnada e as [V] dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do\nque geralmente se [VI] pensa. A organização da palavra comunica-se ao nosso espírito e o [VII] leva,\nprimeiro, a [VIII] se organizar; em seguida, a organizar o mundo. Isto ocorre desde as [IX] formas\nmais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e\na reduzem a sugestão, norma, conselho ou simples espetáculo mental.\n\n\nAntonio Candido, Direito à Literatura. In: Vários Escritos. Rio de Janeiro: Ouro sobre Azul, 2011, 179 p.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 51 a 53. Se <sup>I</sup> fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que <sup>II</sup> enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que <sup>III</sup> nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo.</p><p> Por isso <sup>IV</sup>, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do nada e as <sup>V</sup> dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se <sup>VI</sup> pensa. A organização da palavra comunica-se ao nosso espírito e o <sup>VII</sup> leva, primeiro, a <sup>VIII</sup> se organizar; em seguida, a organizar o mundo. Isto ocorre desde as <sup>IX</sup> formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.</p><p> Antonio Candido, Direito à Literatura. In: Vários Escritos. Rio de Janeiro: Ouro sobre Azul, 2011, 179 p.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Analisando a estrutura do texto, pode-se afirmar corretamente que há,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-53",
+      "problem": "Marcadores romanos e parte do apoio apareciam como imagem.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões de 51 a 53.\nSe [I] fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção,\neu diria que esses tijolos representam um modo de organizar a matéria, e que [II] enquanto\norganização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente\nou não, o caráter de coisa organizada da obra literária torna-se um fator que [III] nos deixa mais\ncapazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de\norganizar a visão que temos do mundo.\n\n\nPor isso [IV], um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à\nrealidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de\nordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do\nnada e as [V] dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do\nque geralmente se [VI] pensa. A organização da palavra comunica-se ao nosso espírito e o [VII] leva,\nprimeiro, a [VIII] se organizar; em seguida, a organizar o mundo. Isto ocorre desde as [IX] formas\nmais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e\na reduzem a sugestão, norma, conselho ou simples espetáculo mental.\n\n\nAntonio Candido, Direito à Literatura. In: Vários Escritos. Rio de Janeiro: Ouro sobre Azul, 2011, 179 p.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões de 51 a 53. Se <sup>I</sup> fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que <sup>II</sup> enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que <sup>III</sup> nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo.</p><p> Por isso <sup>IV</sup>, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do nada e as <sup>V</sup> dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se <sup>VI</sup> pensa. A organização da palavra comunica-se ao nosso espírito e o <sup>VII</sup> leva, primeiro, a <sup>VIII</sup> se organizar; em seguida, a organizar o mundo. Isto ocorre desde as <sup>IX</sup> formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.</p><p> Antonio Candido, Direito à Literatura. In: Vários Escritos. Rio de Janeiro: Ouro sobre Azul, 2011, 179 p.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Com base nas informações apresentadas no texto, pode-se inferir corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-33",
+      "problem": "Números de versos não estavam preservados estruturalmente.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o trecho da canção O Pulso, composta por Arnaldo Antunes, Marcelo Fromer e Tony Bellotto. </p>"
+          },
+          {
+            "type": "html",
+            "html": "<ol><li>O pulso ainda pulsa</li><li>O pulso ainda pulsa</li><li>Peste bubônica, câncer, pneumonia</li><li>Raiva, rubéola, tuberculose, anemia</li><li>Rancor, cisticercose, caxumba, difteria</li><li>Encefalite, faringite, gripe, leucemia</li><li>O pulso ainda pulsa</li><li>O pulso ainda pulsa</li><li>Hepatite, escarlatina, estupidez, paralisia</li><li>Toxoplasmose, sarampo, esquizofrenia</li><li>Úlcera, trombose, coqueluche, hipocondria</li><li>Sífilis, ciúmes, asma, cleptomania</li><li>O corpo ainda é pouco</li></ol>"
+          },
+          {
+            "type": "html",
+            "html": "<p>[...] &lt;https://tinyurl.com/28dn845&gt; Acesso em: 21.08.2023. Adaptado. Sobre as doenças citadas no texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-1",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Se a realidade virtual é entendida como a capacidade de criar ambientes que não existem na natureza, então ela foi uma criação do paleolítico, um exemplo são as pinturas rupestres. Entretanto, por volta de 3 500 a.C., surgiu a forma mais poderosa de realidade virtual: a escrita, que transformava o registro oral em algo concreto, capaz de durar para sempre. Revista Super Interessante, edição 453, julho 2023, p.5. Adaptado. Ao considerar a frase destacada em negrito no texto, é correto afirmar que o conectivo lógico utilizado</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-2",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A diversidade do registro gráfico rupestre no território nacional é impressionante devido à multiplicidade de suas temáticas, ao grau de abstração intelectual das representações e às diversas técnicas de confecção dos registros rupestres realizados pelos grupos humanos do passado. O que torna evidente, de algum modo, que os inscritos nas rochas foram realizados por uma multiplicidade de grupos, em tempos imemoriais, com seus inúmeros interesses e com suas complexidades artísticas, políticas e socioculturais. JUSTAMAND, M.; MARTINELLI, S. A.; OLIVEIRA, G. F.; SILVA, S. D. B. “A arte rupestre em perspectiva histórica: uma história escrita nas rochas”. In: Revista Arqueologia Pública. Campinas, SP. V. 11, n. 1, p.130-172, julho/2017. De acordo com o texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-3",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>No Brasil, o Parque Nacional da Serra da Capivara, no Piauí, abriga o maior e mais antigo acervo rupestre da América do Sul. Essa arte se caracteriza por pinturas e gravuras encontradas nos sítios arqueológicos, feitas pelos grupos pré-históricos que habitavam a região. Esses grupos utilizavam, em suas pinturas, carvão, argila de várias cores e minerais triturados. Acredita-se ainda que usassem substâncias como sangue, clara de ovo, resinas vegetais, excrementos e saliva humana para ajudar na fixação dos pigmentos. Essas pinturas retratavam o cotidiano da época, os rituais religiosos, as práticas humanas em adoração ao redor de árvores e em representações de danças coletivas, de caças ou de lutas. Além disso, representavam também figuras de animais, como capivaras, tatus, onças, cervos, entre outros. &lt;https://tinyurl.com/yx3cab3y&gt; Acesso em: 21.08.2023. Adaptado. De acordo com o texto, esse importante patrimônio cultural brasileiro auxilia os pesquisadores nos estudos sobre</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-5",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A prática de traçar mapas é antiga. O mais antigo mapa que representa um Estado, foi produzido na Suméria, em uma pequena tábua de argila. Já os gregos, por volta do século VI a.C. elaboraram mapas decorrentes de navegações e de expedições militares. Com o início das Grandes Navegações, a Cartografia ressurge como meio de representação das novas descobertas. O processo de representação de uma superfície esférica em uma superfície plana recebe a denominação de projeção cartográfica. Cartografia, portanto, é a arte e a ciência de, graficamente, representar uma área geográfica em uma superfície plana. &lt;https://tinyurl.com/45pke5xp&gt; Acesso em: 22.08.2023. Adaptado. Com base no texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-11",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Em 2019, a Unesco definiu 15 de abril como o dia Mundial da Arte: uma data para difundir como a arte alimenta a criatividade, a inovação e a diversidade cultural, além de desempenhar um papel importante no compartilhamento de conhecimento e no incentivo à curiosidade, ao diálogo e à paz. Se, em um determinado ano bissexto, o dia 3 de janeiro ocorre em uma quarta-feira, então o dia Mundial da Arte nesse ano será comemorado em uma</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-12",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Ao longo da história da humanidade, a atividade artística recebeu, e continua recebendo, influências tecnológicas. Nas Ciências Biológicas, a relação entre botânica e arte tem sido fascinante, sendo as plantas retratadas em pinturas, em esculturas e em outras formas de manifestação artística. Na Grécia Antiga, a arte botânica era utilizada para representar a natureza divina das plantas. Na Idade Média, as ilustrações botânicas eram usadas para identificar plantas medicinais e venenosas. Já na Renascença, as flores eram frequentemente utilizadas para simbolizar a beleza e a fragilidade da vida humana. Na Idade Contemporânea, são conhecidas mais de 300 mil espécies de plantas que variam quanto ao tamanho, à forma e à organização corporal. Há desde espécies com organização pouco complexa, como os musgos, até organismos mais evoluídos, como as plantas frutíferas. &lt;https://tinyurl.com/yc42tmdr&gt; Acesso em: 25.08.2023. Adaptado. Assinale a alternativa que associa, corretamente, as informações contidas no texto aos avanços tecnológicos e aos conhecimentos científicos relativos a cada período histórico mencionado.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-17",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>As teias de seda das aranhas são obras de arte da natureza. Por sua arquitetura, por sua composição química e por sua característica elástica, pegajosa e resistente, as teias serviram de inspiração para a produção de tipos diferentes de materiais, como, por exemplo, curativos cirúrgicos e próteses. A seda dessas teias é composta por proteínas produzidas nas fiandeiras, estruturas localizadas na parte posterior do corpo das aranhas. No entanto, apesar de todas as espécies de aranhas produzirem seda, apenas a minoria tece teias. Além disso, as aranhas são muito importantes para o equilíbrio dos ecossistemas, pois se alimentam de insetos e de outros pequenos animais, ajudando a controlar a população desses seres. Outra característica das aranhas é sua carapaça externa, leve e resistente, denominada de exoesqueleto, que dá forma e suporte estrutural ao corpo dos animais. De acordo com o texto, é correto afirmar que as aranhas</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-20",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Graffiti provides a platform for individuals to express themselves and share their ideas with a wider audience. It allows people to communicate their thoughts, emotions, and messages in a way that may not be possible through traditional forms of communication. For many, graffiti is a way to assert their identity and create a sense of belonging within their community. In marginalized communities, graffiti can serve as a powerful tool for self-expression and resistance. It can be used to reclaim public spaces and give a voice to those who may not have one otherwise. &lt;https://tinyurl.com/5ff8bpsu&gt; Acesso em: 24.08.2023. De acordo com o texto, a manifestação artística em questão alia</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-22",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>“The aim of art is to represent not the outward appearance of things, but their inward significance.” ― Aristotle &lt;https://tinyurl.com/mrh8t4wh&gt; Acesso em: 22.08.2023. De acordo com a citação do filósofo grego Aristóteles, o objetivo da arte é</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-25",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A medicina ocidental herdou do islã medieval uma visão integrada da arte e da ciência. Uma lição de humanismo, a medicina islâmica medieval desenvolveu-se no seio de uma civilização cosmopolita, altamente sofisticada, com base no estudo e no aprofundamento da tradição greco-latina. À semelhança dos antigos, os médicos no islã medieval defendiam um modelo salutogênico de cidade, isto é, orientado para a promoção de estilos de vida saudáveis por meio da arte, da arquitetura, do ambiente e do planejamento urbano. Desse modo, o islã medieval tornou-se pioneiro de um movimento, atualmente designado como “cidades saudáveis”, que só adquiriu expressão global a partir da década de 1980. &lt;https://tinyurl.com/2tj5ys2w&gt; Acesso em: 14.09.2023. Adaptado. Segundo o texto,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-27",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o excerto de um texto escrito por Mário de Andrade em 1928. Esse tipo de igreja, fixado imortalmente nas duas São Francisco de Ouro Preto e São João d’El-Rei, não corresponde apenas ao gosto do tempo, refletindo as bases portuguesas da colônia, como já se distingue das soluções barrocas lusocoloniais, por uma tal ou qual denguice, por uma graça mais sensual e encantadora, por uma “delicadeza” tão suave, eminentemente brasileiras. As igrejas do Aleijadinho não se acomodam com o apelativo “belo”, próprio à São Pedro de Roma, à catedral de Reims, à Batalha ou à horrível São Marcos de Veneza. Mas são muito lindas, são bonitas como o quê. São dum sublime pequenino, dum equilíbrio, duma pureza tão bem arranjadinha e sossegada, que são feitas pra querer bem ou pra acarinhar, que nem na cantiga nordestina. ANDRADE, M. “O Aleijadinho”. In: MOURA, R. (ed.). Imagens do Aleijadinho. São Paulo: Museu de Arte de São Paulo Assis Chateaubriand (MASP), 2018. p.181-197. Adaptado. Segundo o texto,</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-30",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A música, como expressão, forma e sentido da Arte, abre caminhos de estudo ao campo da Geografia, principalmente devido ao fato de estar ligada aos categoriais geográficos, como, por exemplo, ao conceito de Lugar, sobretudo quando compreendemos que os indivíduos, ao habitar os distintos ambientes, percebem os sons e as músicas dos lugares nos quais estão inseridos a partir das sensações que ali são vivenciadas e das percepções que são adquiridas em sua experiência. MARTINS, DANILO H. O diálogo entre a geografia e a arte: aproximações possíveis a partir de um categorial geográfico. Revista Espaço Acadêmico, n.o 192, (maio/2017). p. 98. Segundo o texto, podemos afirmar corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-31",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o trecho da canção Fotografia 3x4, composta por Belchior. Eu me lembro muito bem do dia que eu cheguei Jovem que desce do norte pra cidade grande Os pés cansados e feridos de andar légua tirana De lágrimas nos olhos de ler o Pessoa E de ver o verde da cana Em cada esquina que eu passava, um guarda me parava Pedia os meus documentos e depois sorria Examinando o 3x4 da fotografia E estranhando o nome do lugar de onde eu vinha [...] A minha história é talvez É talvez igual a tua, jovem que desceu do norte Que no sul viveu na rua. [...] &lt;https://tinyurl.com/54b3bvc8&gt; Acesso em: 13.08.2023. Adaptado. O trecho da canção retrata a</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-35",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>O filme brasileiro Bye Bye Brasil, de 1980, conta a história de uma trupe de artistas ambulantes que viaja pelo interior do Brasil. Um caminhão colorido carrega a Caravana Rolidei e suas atrações, fazendo espetáculos e fugindo da concorrência da televisão. Eles atravessam o Nordeste e o Norte do país, do vale do São Francisco até a rodovia Transamazônica. &lt;https://tinyurl.com/2fyfh49k&gt; Acesso em: 13.08.2023. Adaptado. Com base no texto, é correto afirmar que o filme</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-36",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Na década de 1950, um grupo de jovens cineastas deu início a um movimento que pretendia combater a influência estadunidense na produção cultural brasileira. Esses jovens defendiam a produção, a baixo custo, de filmes que, simultaneamente, renovassem a estética do cinema nacional e abordassem os problemas do Brasil de forma crítica. Esse movimento ficou conhecido como</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-37",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Em uma cena do filme Jurassic Park – Parque dos Dinossauros, de Steven Spielberg, o personagem John Hammond explica a um grupo de cientistas que, dentro de um mosquito fossilizado em âmbar, foi encontrado sangue de dinossauros. Essa descoberta, no filme, permitiu a extração do DNA que originou clones de dinossauros. Em um comentário sobre o filme, a bióloga Maria Alejandra Perotti, da Universidade de Reading, na Inglaterra, afirmou que: “Não é possível extrair DNA preservado em âmbar, mas isso não significa que a técnica de extração do DNA não seja viável ”. Em suas pesquisas, a bióloga coordenou, na América do Sul, um grupo de cientistas que, ao estudar múmias humanas de 2 000 anos, encontrou lêndeas (ovos) de piolhos (insetos parasitas), as quais permaneceram intactas e permitiram fornecer informações genéticas de boa qualidade sobre o DNA dos hospedeiros. Essas amostras conservaram-se por conta de uma espécie de “cimento”, usado pelas fêmeas dos piolhos para colar seus ovos (lêndeas) nos cabelos dos hospedeiros humanos. A partir das análises de amostras de DNA encontradas nesse “cimento”, os cientistas puderam descobrir mais informações sobre as populações antigas da América do Sul, como as rotas de migração no continente, o sexo das múmias e até as possíveis causas de morte dos seres humanos. &lt;https://tinyurl.com/2dhr57s7&gt; Acesso em: 21.08.2023. Adaptado. Com base no texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-38",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>No Egito Antigo, a mumificação consistia em um conjunto de procedimentos químicos e físicos, incluindo a retirada de vísceras e órgãos, com a finalidade de preservar os corpos dos mortos. Esse processo</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-43",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>As Ciências e a Tecnologia têm um papel fundamental na evolução da sociedade. Elas estão presentes em todos os aspectos da vida, no compartilhamento de conhecimentos e na realização de experiências. Com o objetivo de estudar a digestão de proteínas no corpo humano, foi realizado um experimento, utilizando quatro tubos de ensaio numerados, os quais continham soluções diferentes. Em cada um desses tubos, foi adicionado um pedaço de carne, que contém moléculas inteiras de proteínas. Os tubos foram tampados e mantidos em banho-maria a 37 o C, em agitação constante. Tubo 1: carne + solução aquosa de HCl 3,5 % + pepsina. Tubo 2: carne + suco gástrico. Tubo 3: carne + suco pancreático. Tubo 4: carne + suco gástrico fervido. Após o tempo necessário para a digestão enzimática da carne, fragmentos menores de proteínas dessa carne podem ser encontrados</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-45",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Apesar de escasso, o circo com tenda, picadeiro, arquibancada e diversos artistas existe até hoje em várias partes do mundo, inclusive no Brasil. Um de seus espetáculos mais famosos é realizado por um malabarista andando por uma “corda bamba” (elástica) esticada sobre o picadeiro. Com o intuito de provocar comoção na plateia, ao chegar próximo ao ponto central da corda, o artista finge uma queda e cai sentado na corda, fazendo-a sofrer uma deflexão máxima em relação ao ponto de equilíbrio Na cena descrita, após o artista simular a queda, no instante em que a corda atinge a deflexão máxima, podemos afirmar corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-46",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Apesar de a estreia, em 1877, do balé “O Lago dos Cisnes”, do compositor russo P. I. Tchaikovsky, ter sido um fracasso, hoje ele é um dos mais aclamados no mundo das artes. No terceiro ato do balé, o(a) bailarino(a) que interpreta o Cisne Negro realiza uma sequência de 32 fouettés. Um fouetté é um movimento circular em torno do próprio corpo do(a) bailarino(a), que funciona como um eixo central. Nesse movimento giratório, considerado um dos mais difíceis do balé, o(a) bailarino(a) mantém o corpo ereto com apenas a ponta de um dos pés no piso. A cada volta, o calcanhar do pé, que está no chão, sobe e desce à medida que mantém a energia envolvida no sistema. Enquanto isso, o(a) bailarino(a) dobra e estica a outra perna, mantendo-a no ar sem tocar o piso. Adotando-se um observador externo como referencial e baseando-se na descrição apresentada, é correto afirmar que uma das grandezas físicas observada para a manutenção desse movimento rotacional é</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-48",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A Guerra de Canudos aconteceu de novembro de 1896 a outubro de 1897 no sertão da Bahia, em uma fazenda improdutiva ocupada por Antônio Conselheiro e seus mais de 20 mil seguidores. Era um povo sem posses, que recusou a exploração senhorial e buscou uma terra para seu sustento. Teve caráter messiânico por conta das pregações do beato, mas envolvia a luta contra a fome, a miséria e a seca nordestina, região desassistida pelo governo federal. A destruição de Canudos aconteceu depois de quatro tentativas: duas do governo da Bahia junto à Igreja e aos coronéis; e as outras duas pelo exército brasileiro. O exército só conseguiu vencer na quarta tentativa, com o envio de canhões e 5 mil homens que mataram cerca de 25 mil pessoas, entre homens, mulheres e crianças. &lt;https://tinyurl.com/2p392kzv&gt; Acesso em: 21.08.2023. Adaptado. O jornalista Euclides da Cunha foi correspondente de um jornal de São Paulo na Guerra de Canudos. Com base na sua vivência, ele escreveu o livro Os Sertões, publicado pela primeira vez em 1902. Em uma passagem do livro, ele escreveu que “Canudos não se rendeu. Exemplo único em toda a História, resistiu até o esgotamento completo. Expugnado palmo a palmo, na precisão integral do termo, caiu no dia 5, ao entardecer, quando caíram os seus últimos defensores, que todos morreram. Eram quatro apenas: um velho, dois homens feitos e uma criança, na frente dos quais rugiam raivosamente cinco mil soldados.” CUNHA, Euclides da. Os Sertões. Rio de Janeiro: Record, 1998. Com base nos textos, é correto afirmar que essa guerra ocorreu durante o</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-49",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>“A Matadeira” era o apelido dado, pelos sertanejos conselheiristas, ao canhão modelo Withworth 32 de fabricação inglesa e pertencente à Marinha do Brasil. Com cerca de 1,8 tonelada, era considerado impróprio para transporte em terrenos acidentados, como o local da batalha de Canudos, mas, mesmo com todas as dificuldades, foi utilizado pelo Exército Brasileiro à época. Seu tiro alcançava cerca de 3 800 m em aproximadamente 10 s, na posição de alcance máximo. Nas mesmas condições de alcance máximo, suponha que a bala do canhão responsável pela queda do Forte de Antônio Conselheiro atingiu seu alvo em 0,5 s após o disparo. Desprezando quaisquer forças dissipativas, podemos afirmar corretamente que, em relação ao Forte, “a Matadeira” estava posicionada a aproximadamente</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-50",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>“Sabe o senhor: sertão é onde o pensamento da gente se forma mais forte do que o poder do lugar”. ROSA, Guimarães. Grande Sertão: veredas.12a edição. São Paulo: Livraria J. Olímpio Editora, 1978. 22p. Para a Geografia, o Sertão também é o nome de uma sub-região do Nordeste brasileiro onde predomina o clima</p>"
+          }
+        ]
+      }
+    }
+  ]
+}

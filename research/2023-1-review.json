@@ -1,0 +1,723 @@
+{
+  "solutions": {
+    "fatec-2023-1-1": {
+      "explanation": "A charge contrapõe a evolução dos meios de comunicação a um aparente empobrecimento da comunicação humana. O efeito crítico nasce desse contraste, e não de afirmar que um livro ou a prensa seriam o estágio final da tecnologia. Por isso, a interpretação que reconhece a ironia do retrocesso comunicativo é a D."
+    },
+    "fatec-2023-1-2": {
+      "explanation": "As ferramentas de pedra lascada são uma tecnologia pré-histórica: a ação humana modifica a pedra para produzir bordas cortantes e pontas úteis à caça e ao preparo de alimentos. A questão trata de técnicas intencionais, não apenas de máquinas modernas. As demais alternativas apresentam práticas ou materiais incompatíveis com o período e o contexto indicados."
+    },
+    "fatec-2023-1-3": {
+      "explanation": "O texto associa explicitamente o avanço dos transportes e das comunicações à ampliação das relações entre lugares. Logo, a aplicação de tecnologias à economia intensifica a globalização, como afirma B. Não se pode concluir que o processo surgiu apenas no século XXI nem que os avanços técnicos tenham provocado sua retração."
+    },
+    "fatec-2023-1-4": {
+      "explanation": "Se todas as inovações eficazes são surpreendentemente simples, o conjunto A deve estar inteiramente contido em B. Como a roda é uma inovação eficaz, ela pertence a A e, consequentemente, também a B. O diagrama A representa essa inclusão e coloca a região tracejada no conjunto menor correto."
+    },
+    "fatec-2023-1-5": {
+      "explanation": "Segundo a sequência histórica apresentada, povos antigos já usavam a fermentação, mas desconheciam seus agentes. Leeuwenhoek observou micro-organismos; posteriormente, Pasteur demonstrou a participação deles nos processos fermentativos estudados. A alternativa D expressa essa contribuição à tecnologia dos alimentos. Observar seres minúsculos não equivale a descrever todo o seu ciclo de vida."
+    },
+    "fatec-2023-1-6": {
+      "explanation": "Saccharomyces cerevisiae realiza fermentação alcoólica: açúcares são convertidos em etanol e dióxido de carbono. O CO₂ forma bolhas e faz a massa do pão aumentar de volume; o etanol é em grande parte eliminado durante o cozimento. Oxigênio e glicose não são os produtos desse processo, e ácido lático corresponde a outro tipo de fermentação."
+    },
+    "fatec-2023-1-7": {
+      "explanation": "As imagens mostram trabalho artesanal com instrumentos e técnicas distintos, característico das atividades desenvolvidas nas cidades medievais. Esse cenário se relaciona ao Renascimento Urbano e à expansão dos ofícios. Não corresponde à linha industrial de montagem de Ford, que pertence a um contexto histórico muito posterior, nem às demais sociedades indicadas nas alternativas."
+    },
+    "fatec-2023-1-8": {
+      "explanation": "A redução de água deve ser calculada sobre o consumo original: (40 − 1)/40 × 100 = 97,5%. Para o tempo de cultivo, a redução é (70 − 40)/70 × 100 ≈ 42,9%. Assim, I = 97,5% e II = 42,9%, valores da alternativa D. Não confunda o consumo restante com a porcentagem economizada."
+    },
+    "fatec-2023-1-9": {
+      "explanation": "Na matriz, as linhas representam hortaliças e as colunas representam fazendas. O almeirão está na segunda linha: a fazenda f₁ produz 160 kg e a fazenda f₃ produz 80 kg. Como 160 = 2 × 80, C é verdadeira. Para comparar produção total de fazendas, seria necessário somar cada coluna, não cada linha."
+    },
+    "fatec-2023-1-10": {
+      "explanation": "Primeiro calcule a energia total liberada: 5,6 × 28 700 = 160 720 kcal. O carro aproveita apenas 20% desse total, portanto a energia utilizada é 0,20 × 160 720 = 32 144 kcal. Em notação científica aproximada, isso equivale a 3,2 × 10⁴ kcal, alternativa E."
+    },
+    "fatec-2023-1-11": {
+      "explanation": "A classificação deve seguir a matéria-prima e o processo, não apenas a presença de hidrogênio no produto. A gaseificação do carvão produz o hidrogênio marrom; a pirólise do metano, o turquesa; a reforma a vapor do gás natural, o cinza; e a eletrólise com energia renovável, o verde. A ordem da figura corresponde a D."
+    },
+    "fatec-2023-1-12": {
+      "explanation": "A passagem afirma que ciência e técnica se unem sob a proteção ou influência do mercado e que, graças a ambas, esse mercado se torna global. A alternativa A mantém essas relações e substitui as expressões por equivalentes. As demais modificam o sentido ao falar em separação, oposição ou existência do mercado apesar da ciência."
+    },
+    "fatec-2023-1-13": {
+      "explanation": "O conceito apresentado reúne ciência, técnica e informação na organização do espaço contemporâneo. Não se limita à mecanização ou à condição primitiva do ser humano. A alternativa D explicita justamente essa articulação, que o texto relaciona tanto à produção dos objetos técnicos quanto à circulação de informações e ao funcionamento do mercado global."
+    },
+    "fatec-2023-1-14": {
+      "explanation": "O gene inserido contém a sequência de DNA que codifica a insulina humana. Ao expressar essa informação genética, a bactéria passa a sintetizar o hormônio. Não basta fornecer açúcares, fosfatos ou aminoácidos avulsos: é a sequência do gene que determina a proteína produzida. A alternativa correta é, portanto, C."
+    },
+    "fatec-2023-1-15": {
+      "explanation": "É preciso combinar a cronologia do primeiro texto com o diagnóstico do segundo. A primeira campanha nacional foi estabelecida em 1980, mas os dados de 2022 mostram baixa adesão à vacinação. A alternativa C conserva as duas informações. O texto não atribui a vacina a Oswaldo Cruz nem afirma que a campanha deixou de ser necessária."
+    },
+    "fatec-2023-1-16": {
+      "explanation": "A poliomielite é causada por um vírus, e a cobertura vacinal adequada dificulta sua circulação. Por isso, comunidades com muitas pessoas não imunizadas ficam mais vulneráveis à disseminação da doença. A alternativa B corresponde ao mecanismo descrito. Vacinas estimulam a resposta imune; não são simplesmente preparados de anticorpos, como sugerem outras alternativas."
+    },
+    "fatec-2023-1-17": {
+      "explanation": "Na expressão de equilíbrio, as concentrações dos produtos ficam no numerador e as dos reagentes no denominador, elevadas aos respectivos coeficientes estequiométricos. Para CH₄ + H₂O ⇌ 3 H₂ + CO, resulta K = [CO]·[H₂]³/([CH₄]·[H₂O]). A alternativa D respeita tanto a posição das substâncias quanto o expoente três do hidrogênio."
+    },
+    "fatec-2023-1-18": {
+      "explanation": "Os microscópios eletrônicos têm alto poder de resolução e permitem distinguir detalhes muito pequenos das estruturas celulares. Isso justifica C. As primeiras células foram observadas com microscópios ópticos, não eletrônicos; lunetas não são microscópios para exames de sangue; e microscópios ópticos comuns não resolvem átomos nem fornecem observação detalhada de vírus."
+    },
+    "fatec-2023-1-19": {
+      "explanation": "Gutenberg se destaca pela contribuição à impressão com tipos móveis na Europa e à reprodução de materiais escritos em maior escala. Livros, panfletos e outros impressos ampliaram a circulação de ideias. A alternativa B é a única que corresponde a essa contribuição histórica; fotografia, satélites e internet pertencem a épocas muito posteriores."
+    },
+    "fatec-2023-1-20": {
+      "explanation": "Tetraedro e octaedro são sólidos platônicos e correspondem às geometrias tetraédrica e octaédrica mostradas. A geometria trigonal plana não constitui um poliedro tridimensional. Já a bipirâmide trigonal não satisfaz a exigência de que o mesmo número de arestas se encontre em todos os vértices. Assim, a combinação correta é C."
+    },
+    "fatec-2023-1-21": {
+      "explanation": "No SO₃, o enxofre central apresenta três regiões de ligação e a disposição molecular é trigonal plana. No NH₃, a geometria é piramidal; na água, angular; no metano, tetraédrica; e no CO₂, linear. Portanto, o trióxido de enxofre é a única substância da lista com a geometria solicitada, alternativa A."
+    },
+    "fatec-2023-1-22": {
+      "explanation": "Uma corrente atravessa o corpo quando há diferença de potencial entre os pontos de contato. No quarto quadrinho, a cobra conecta pontos a potenciais diferentes, formando um caminho para a corrente e sofrendo o choque. Estar sobre um único fio, com contatos aproximadamente ao mesmo potencial, não produz o mesmo efeito. Isso distingue a alternativa D."
+    },
+    "fatec-2023-1-23": {
+      "explanation": "Os sensores permitem registrar e analisar informações da plantação, como umidade e necessidade de água, auxiliando decisões e favorecendo a produtividade. Essa relação aparece em B. As demais alternativas invertem os efeitos das tecnologias, atribuem o melhoramento genético à poluição ou afirmam que a mecanização impediria as mudanças climáticas, conclusão que o texto não autoriza."
+    },
+    "fatec-2023-1-24": {
+      "explanation": "O texto informa crescimento das vagas desde o início do ano, aumento em relação ao primeiro semestre de 2021 e ampliação das contratações em 96% dos maiores empregadores considerados. Esses dados sustentam D. A queda mensal registrada em junho impede afirmar crescimento em todos os meses, e as vagas não se restringem ao trabalho remoto."
+    },
+    "fatec-2023-1-25": {
+      "explanation": "No contexto, dip indica uma queda, enquanto spike designa um pico ou aumento acentuado. Os dois termos descrevem movimentos opostos e formam o par de antônimos pedido. Threats e skills significam ameaças e habilidades; os demais pares também não apresentam essa oposição de sentido. A resposta correta é B."
+    },
+    "fatec-2023-1-26": {
+      "explanation": "O carro parou após 25% do percurso, enquanto o posto está em 50%. A distância entre os dois pontos corresponde, portanto, a 25% do trajeto total. Assim, 0,25·d = 14,5, de onde d = 14,5/0,25 = 58 km. A distância de 14,5 km não representa metade do trajeto."
+    },
+    "fatec-2023-1-27": {
+      "explanation": "Lê-se cada intervalo do gráfico como um bit: presença de corrente corresponde a 1 e ausência, a 0. A sequência obtida é 01000101. Comparando-a com a tabela fornecida, ela representa o caractere E. O essencial é preservar a ordem temporal dos oito bits, sem confundir a altura do pulso com a duração do intervalo."
+    },
+    "fatec-2023-1-28": {
+      "explanation": "A oração introduzida por sendo apresenta a razão para a Geografia buscar compreender o ciberespaço: ele deve ser estudado porque integra a sociedade contemporânea. A substituição por já que mantém essa relação causal. Não se trata de indicar tempo, proporção ou uma concessão contrária à ideia principal. Por isso, a alternativa E é adequada."
+    },
+    "fatec-2023-1-29": {
+      "explanation": "O texto conclui que o ciberespaço integra a sociedade contemporânea e deve ser compreendido pela Geografia. Isso amplia seus temas de investigação, sem torná-lo seu único objeto. A alternativa A mantém essa conclusão. As demais restringem indevidamente o campo da disciplina ou atribuem ao ciberespaço a origem de seu caráter científico."
+    },
+    "fatec-2023-1-30": {
+      "explanation": "A personagem afirma que prefere não manter um registro permanente de tudo que dá errado. A graça está em usar a ausência de backup para evitar registrar os próprios erros, contrariando a recomendação de segurança. Assim, D traduz o motivo apresentado; não há indicação de que ela desconheça o procedimento ou considere o sistema imune a ataques."
+    },
+    "fatec-2023-1-31": {
+      "explanation": "O texto atribui ao rádio, à televisão, ao cinema e à imprensa um papel importante na informação e na formação da opinião pública. A alternativa E resume essa introdução da cultura de massa e a mudança no acesso à informação. As outras minimizam o papel do rádio ou apresentam datas e origens que não correspondem ao excerto."
+    },
+    "fatec-2023-1-32": {
+      "explanation": "Use Δs = v·Δt. Como 0,1 ns = 0,1 × 10⁻⁹ s = 10⁻¹⁰ s, a distância é 3,0 × 10⁸ × 10⁻¹⁰ = 3,0 × 10⁻² m. Isso equivale a 3 cm, alternativa B. A conversão de nanossegundos para segundos é decisiva para acertar a ordem de grandeza."
+    },
+    "fatec-2023-1-33": {
+      "explanation": "A relação entre velocidade, comprimento de onda e frequência é v = λf. Assim, f = 3,0 × 10⁸/22 ≈ 1,36 × 10⁷ Hz. Como 1 MHz = 10⁶ Hz, o resultado é aproximadamente 13,6 MHz, alternativa C. Não se deve usar o intervalo de 0,1 ns como período da onda nesta questão."
+    },
+    "fatec-2023-1-34": {
+      "explanation": "Para uma retirada e uma entrega, a parcela fixa é 3,20 + 1,40 = 4,60 reais. A parcela variável corresponde a 1,10 real por quilômetro, isto é, 1,10x. Somando as parcelas, y = 4,60 + 1,10x, alternativa B. Os valores fixos não devem ser multiplicados pela distância percorrida."
+    },
+    "fatec-2023-1-35": {
+      "explanation": "A definição apresentada corresponde a trabalho, substantivo masculino de oito letras: t-r-a-b-a-l-h-o. Sua primeira letra é T, como indica E. A questão exige combinar o significado do verbete com as pistas de classe gramatical e quantidade de letras; não basta escolher uma palavra apenas associada a profissão ou remuneração."
+    },
+    "fatec-2023-1-36": {
+      "explanation": "Compare as distâncias informadas pelo enunciado: 1 500 000/530 ≈ 2 830. Esse valor é aproximadamente três mil, o que identifica E. As outras alternativas contradizem dados do texto ou fazem afirmações indevidas sobre temperatura e faixas de operação. A comparação pedida é aproximada e utiliza as distâncias fornecidas na prova."
+    },
+    "fatec-2023-1-37": {
+      "explanation": "O sistema descrito utiliza sinais de satélites recebidos por um dispositivo para determinar posição geográfica e horário. A alternativa A conserva essa descrição. O texto não fala em balões atmosféricos, sinais de televisão ou funcionamento em qualquer lugar do universo. Também não limita o uso a áreas continentais, como propõe E."
+    },
+    "fatec-2023-1-38": {
+      "explanation": "O endereço deve estar na circunferência de raio 5 km e a 1 km da avenida. Existem duas paralelas à avenida com essa distância: uma fica a 3 km da empresa e corta a circunferência em dois pontos; a outra fica a 5 km e é tangente, gerando um ponto. Total: 2 + 1 = 3, alternativa C."
+    },
+    "fatec-2023-1-39": {
+      "explanation": "O último parágrafo afirma que os observatórios costumam ser instalados em altitude elevada, buscando maior clareza atmosférica, e em condições de baixa temperatura e pouco vapor de água. A alternativa A reúne duas dessas características. As outras invertem altitude ou temperatura, ou atribuem ao local um nível alto de vapor, contrário ao texto."
+    },
+    "fatec-2023-1-40": {
+      "explanation": "A ilustração aproxima a experiência da leitura de uma viagem: o livro permite acessar outras realidades sem que o deslocamento seja literal. Essa comparação implícita caracteriza uma metáfora, alternativa D. Não há imitação de sons, fusão de sensações ou uso de uma parte para representar o todo que justifique as demais classificações."
+    },
+    "fatec-2023-1-41": {
+      "explanation": "As três classificações mostram incorporação gradual de recursos: esboços preexistentes, fotografias aéreas e, depois, dados de sensoriamento remoto do RADAMBRASIL. Assim, o avanço tecnológico foi paulatino, como afirma D. As demais alternativas trocam os instrumentos entre os pesquisadores, confundem relevo com fauna ou situam os trabalhos em um século inadequado."
+    },
+    "fatec-2023-1-42": {
+      "explanation": "A homogeneidade em torno da média é avaliada pelo desvio padrão: quanto menor ele for, menos dispersos estão os dados. Atividades Burocráticas tem desvio 0,81, menor que 0,88 de Artes e Comunicação, confirmando B. Ter a mesma amplitude não garante a mesma dispersão, e as médias diferentes não impedem essa comparação."
+    },
+    "fatec-2023-1-43": {
+      "explanation": "Somando os segmentos horizontais e verticais da planta, incluindo os recuos, obtém-se perímetro de 93,6 cm no desenho. Pela escala, 1 m real corresponde a 0,2 cm no papel, então P = 93,6/0,2 = 468 m. Equivalentemente, 1 cm representa 5 m. A alternativa correta é E."
+    },
+    "fatec-2023-1-44": {
+      "explanation": "Cherry picking significa selecionar apenas evidências favoráveis a uma posição, omitindo informações relevantes em sentido contrário. No exemplo, destaca-se o 1% de cientistas divergentes enquanto se ignora o consenso de 99%. Logo, C descreve a prática. Ela não exige inventar dados: a distorção pode resultar de selecionar fatos verdadeiros de maneira tendenciosa."
+    },
+    "fatec-2023-1-45": {
+      "explanation": "Plenty of significa grande quantidade de. Como scientists é um substantivo contável no plural, many é a substituição adequada, alternativa D. Few indica poucos, much acompanha normalmente substantivos incontáveis, e enough expressa quantidade suficiente, sem necessariamente indicar abundância. A substituição deve preservar tanto o sentido quanto a construção gramatical."
+    },
+    "fatec-2023-1-46": {
+      "explanation": "Amplitude térmica é a diferença entre a maior e a menor temperatura registradas em determinado local e intervalo de tempo: AT = Tmáx − Tmín. Isso corresponde a C. A população absoluta é um total, não uma razão; a escala expressa redução entre medidas; e fecundidade não é a diferença entre natalidade e mortalidade."
+    },
+    "fatec-2023-1-47": {
+      "explanation": "As pistas identificam, nesta ordem: H, de número atômico 1; Ca, cujo cátion Ca²⁺ está associado a ossos, dentes e leite; F, halogênio do segundo período; e Li, menor metal alcalino. Ao comparar H → Ca → F → Li com as sequências da figura, a integrante correspondente é Carol, alternativa C."
+    },
+    "fatec-2023-1-48": {
+      "explanation": "A corrente elétrica na bobina produz um campo magnético que atrai a base ferromagnética da mala. Ao interromper a corrente, o mágico desativa o eletroímã e permite levantá-la. Esse mecanismo de eletromagnetismo corresponde a B. Não é necessário aquecer a mala, produzir uma explosão ou usar uma força eletrostática para realizar o truque."
+    },
+    "fatec-2023-1-49": {
+      "explanation": "Uma face pode ter dois pontos e a outra, três. Ao ocultar um ponto com a mão, o mágico faz a primeira face parecer ter um; ao mostrar a segunda ocultando um, parecem ser dois. Mudando a posição da mão, exibe depois os dois e os três pontos completos. O mínimo é 2 + 3 = 5, alternativa B."
+    },
+    "fatec-2023-1-50": {
+      "explanation": "O corte não altera a ordem cíclica das cartas. Os naipes se repetem como ♥, ♠, ♦ e ♣, enquanto os valores avançam três posições, retornando ao início após K. Para que a carta seguinte ao K tenha naipe ♦, o K deve ser de ♠; seguem 3♦ e 6♣. Assim, o terceiro espectador recebe 6♣, alternativa C."
+    },
+    "fatec-2023-1-51": {
+      "explanation": "O processo descrito é a Revolução Neolítica, ou Revolução Agrícola: o domínio progressivo do cultivo favoreceu o sedentarismo e o crescimento populacional. Essa transformação é muito anterior ao feudalismo e às técnicas modernas de agricultura transgênica. Também não se confunde com êxodo rural ou plantation, que se referem a outros processos históricos e econômicos."
+    },
+    "fatec-2023-1-52": {
+      "explanation": "Pela Lei de Hess, mantenha I, inverta II e inverta duas vezes III. As espécies intermediárias se cancelam, restando CH₄ → C + 2 H₂. A entalpia é −890 + 393 + 2·286 = +75 kJ/mol, alternativa B. Ao inverter uma reação, o sinal de sua entalpia também deve ser invertido."
+    },
+    "fatec-2023-1-53": {
+      "explanation": "O texto apresenta conhecimentos agrícolas, a bateia e o cadinho como tecnologias trazidas por africanos e incorporadas à economia brasileira. Assim, B reconhece contribuições técnicas além das linguísticas e religiosas. As outras alternativas deslocam a origem dos instrumentos para o Brasil ou para a Alemanha, ou inventam um plano de carreira para trabalhadores escravizados."
+    },
+    "fatec-2023-1-54": {
+      "explanation": "Expressões como tá, pra, tem um e a repetição de elementos aproximam o texto da linguagem oral acessível. A indicação de transcrição de episódio também sustenta a identificação de um texto informativo falado, como podcast. A alternativa C combina canal, gênero e marcas linguísticas; não se trata de linguagem infantil ou de uma crônica rebuscada."
+    }
+  },
+  "issues": [
+    {
+      "id": "fatec-2023-1-4",
+      "problem": "Enunciado termina com letras de diagramas e alternativas misturam elementos de outras figuras; recortes devem ser independentes.",
+      "fix": {
+        "text": "Peter Drucker, pai da Administração moderna, enunciou a proposição “Todas as inovações eficazes são\nsurpreendentemente simples”.\nConsidere verdadeiras a proposição de Drucker e a proposição p: “uma roda é uma inovação eficaz”.\nEm cada alternativa são apresentados diagramas de Euler-Veen, nas quais A é o conjunto das inovações\neficazes, B é o conjunto das inovações “supreendentemente simples”, e existe uma região tracejada que\nrepresenta o conjunto ao qual uma roda pertence.\nAssim sendo, assinale a alternativa cujo diagrama indica corretamente as relações descritas.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Peter Drucker, pai da Administração moderna, enunciou a proposição “Todas as inovações eficazes são surpreendentemente simples”. Considere verdadeiras a proposição de Drucker e a proposição p: “uma roda é uma inovação eficaz”. Em cada alternativa são apresentados diagramas de Euler-Veen, nas quais A é o conjunto das inovações eficazes, B é o conjunto das inovações “supreendentemente simples”, e existe uma região tracejada que representa o conjunto ao qual uma roda pertence. Assim sendo, assinale a alternativa cujo diagrama indica corretamente as relações descritas.</p>"
+          }
+        ],
+        "options": [
+          "A contido em B; região tracejada em A.",
+          "A e B se interceptam; tracejado em B fora de A.",
+          "A e B se interceptam; tracejado na interseção.",
+          "B e A se interceptam; tracejado em A fora de B.",
+          "B contido em A; região tracejada em B."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "crop",
+              "page": 3,
+              "rect": [
+                70,
+                508,
+                145,
+                573
+              ],
+              "alt": "Diagrama original da alternativa A"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 3,
+              "rect": [
+                70,
+                577,
+                165,
+                641
+              ],
+              "alt": "Diagrama original da alternativa B"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 3,
+              "rect": [
+                70,
+                646,
+                178,
+                710
+              ],
+              "alt": "Diagrama original da alternativa C"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 3,
+              "rect": [
+                277,
+                508,
+                354,
+                572
+              ],
+              "alt": "Diagrama original da alternativa D"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 3,
+              "rect": [
+                277,
+                577,
+                348,
+                648
+              ],
+              "alt": "Diagrama original da alternativa E"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-8",
+      "problem": "Cada alternativa inclui a linha anterior da tabela; cabeçalhos I/II aparecem deslocados.",
+      "fix": {
+        "text": "Em meio às cidades, tem germinado um modelo de negócio: as fazendas verticais.\nNelas os alimentos são cultivados em uma espécie de laboratório que pode ser montado em prédios\nou contêineres. Nesse processo, utiliza-se um litro de água por pé de alface, produzindo hortaliça livre\nde agrotóxicos. Contudo, se fosse no campo, seguindo o modelo tradicional, estima-se que seriam\nnecessários 40 litros de água por pé de alface. Além disso, se no campo a semente pode levar até\n70 dias para virar a hortaliça, na fazenda vertical, a média é de 40 dias.\nAssim, é correto afirmar que as fazendas verticais promovem uma redução de cerca de I na\nquantidade de água utilizada na agricultura tradicional, e de aproximadamente II na quantidade\nde dias para a semente virar hortaliça.\nAssinale a alternativa que completa de forma correta as informações I e II do texto.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Em meio às cidades, tem germinado um modelo de negócio: as fazendas verticais. Nelas os alimentos são cultivados em uma espécie de laboratório que pode ser montado em prédios ou contêineres. Nesse processo, utiliza-se um litro de água por pé de alface, produzindo hortaliça livre de agrotóxicos. Contudo, se fosse no campo, seguindo o modelo tradicional, estima-se que seriam necessários 40 litros de água por pé de alface. Além disso, se no campo a semente pode levar até 70 dias para virar a hortaliça, na fazenda vertical, a média é de 40 dias. Assim, é correto afirmar que as fazendas verticais promovem uma redução de cerca de I na quantidade de água utilizada na agricultura tradicional, e de aproximadamente II na quantidade de dias para a semente virar hortaliça. Assinale a alternativa que completa de forma correta as informações I e II do texto.</p>"
+          }
+        ],
+        "options": [
+          "I: 25,0%; II: 42,9%.",
+          "I: 25,0%; II: 50,0%.",
+          "I: 25,0%; II: 57,1%.",
+          "I: 97,5%; II: 42,9%.",
+          "I: 97,5%; II: 57,1%."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>I: 25,0%; II: 42,9%.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: 25,0%; II: 50,0%.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: 25,0%; II: 57,1%.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: 97,5%; II: 42,9%.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>I: 97,5%; II: 57,1%.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-9",
+      "problem": "Matriz não está presente no texto nativo; manter os nove valores e sua orientação.",
+      "fix": {
+        "text": "Qualquer elemento de uma matriz M pode ser representado por mᵢⱼ, em que “i” representa a linha e “j”,\na coluna em que esse elemento se localiza.\nDada a matriz M, considere que cada elemento mᵢⱼ da matriz apresentada\nindica a quantidade, em quilogramas, da hortaliça hi (h1 = agrião,\nh2 = almeirão e h3 = alface) produzida pela fazenda vertical fj (f1, f2 e f3).\nAssim, cada elemento dessa matriz representa a quantidade de um tipo de\nhortaliça produzida em média, semanalmente, para cada fazenda.\nA análise dos dados apresentados na matriz permite concluir corretamente que, em média, a produção\nsemanal,",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Qualquer elemento de uma matriz M pode ser representado por mᵢⱼ, em que “i” representa a linha e “j”, a coluna em que esse elemento se localiza. Dada a matriz M, considere que cada elemento mᵢⱼ da matriz apresentada indica a quantidade, em quilogramas, da hortaliça hi (h1 = agrião, h2 = almeirão e h3 = alface) produzida pela fazenda vertical fj (f1, f2 e f3). Assim, cada elemento dessa matriz representa a quantidade de um tipo de hortaliça produzida em média, semanalmente, para cada fazenda. A análise dos dados apresentados na matriz permite concluir corretamente que, em média, a produção semanal,</p><table><caption>Matriz M: quantidade em kg por hortaliça e fazenda</caption><thead><tr><th>Hortaliça</th><th>f₁</th><th>f₂</th><th>f₃</th></tr></thead><tbody><tr><th>h₁ (agrião)</th><td>250</td><td>580</td><td>640</td></tr><tr><th>h₂ (almeirão)</th><td>160</td><td>110</td><td>80</td></tr><tr><th>h₃ (alface)</th><td>900</td><td>620</td><td>590</td></tr></tbody></table>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-17",
+      "problem": "Setas e frações do equilíbrio químico desapareceram; alternativas repetem marcadores e ordem de termos confusa.",
+      "fix": {
+        "text": "O hidrogênio é matéria-prima fundamental na produção de produtos químicos como amônia, indispensável na indústria de fertilizantes. Na produção de amônia, temos o equilíbrio químico representado pela equação química: N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g). A expressão da constante de equilíbrio da produção de amônia é dada por: K = [PRODUTOS]/[REAGENTES] = [NH₃]²/([H₂]³ · [N₂]). Agora, considere a equação química que representa o equilíbrio químico da reforma a vapor do gás natural: CH₄(g) + H₂O(g) ⇌ 3 H₂(g) + CO(g). Desse modo, assinale a alternativa que contém a expressão correta da constante de equilíbrio para a transformação que ocorre na reforma a vapor do gás natural.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>O hidrogênio é matéria-prima fundamental na produção de produtos químicos como amônia, indispensável na indústria de fertilizantes. Na produção de amônia, temos o equilíbrio químico representado pela equação química: N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g). A expressão da constante de equilíbrio da produção de amônia é dada por: K = [PRODUTOS]/[REAGENTES] = [NH₃]²/([H₂]³ · [N₂]). Agora, considere a equação química que representa o equilíbrio químico da reforma a vapor do gás natural: CH₄(g) + H₂O(g) ⇌ 3 H₂(g) + CO(g). Desse modo, assinale a alternativa que contém a expressão correta da constante de equilíbrio para a transformação que ocorre na reforma a vapor do gás natural.</p>"
+          }
+        ],
+        "options": [
+          "K = [CH₄]/[H₂]",
+          "K = ([H₂O] · [CH₄])/[H₂]³",
+          "K = ([CH₄] · [H₂O])/([CO] · [H₂]³)",
+          "K = ([CO] · [H₂]³)/([CH₄] · [H₂O])",
+          "K = ([CO] · [H₂])/([CH₄] · [H₂O])"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>K = [CH₄]/[H₂]</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>K = ([H₂O] · [CH₄])/[H₂]³</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>K = ([CH₄] · [H₂O])/([CO] · [H₂]³)</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>K = ([CO] · [H₂]³)/([CH₄] · [H₂O])</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>K = ([CO] · [H₂])/([CH₄] · [H₂O])</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-21",
+      "problem": "Quadro lateral de números atômicos contaminou alternativa B; algumas fórmulas estão sem subscritos.",
+      "fix": {
+        "options": [
+          "SO₃",
+          "NH₃",
+          "H₂O",
+          "CH₄",
+          "CO₂"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>SO₃</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>NH₃</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>H₂O</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>CH₄</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>CO₂</p>"
+            }
+          ]
+        ],
+        "text": "Dadas as substâncias: amônia, NH3; trióxido de enxofre, SO3; água, H2O; metano, CH4 e dióxido de\ncarbono, CO2.\nAssinale a alternativa que apresenta a molécula com geometria trigonal plana. Dados — números atômicos: H = 1; C = 6; N = 7; O = 8; S = 16.",
+        "stemHTML": "<p>Dadas as substâncias: amônia, NH3; trióxido de enxofre, SO3; água, H2O; metano, CH4 e dióxido de carbono, CO2. Assinale a alternativa que apresenta a molécula com geometria trigonal plana. Dados — números atômicos: H = 1; C = 6; N = 7; O = 8; S = 16.</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-1-28",
+      "problem": "Apoio interrompido na coluna esquerda; falta a continuação que contém a passagem perguntada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 28 e 29. O ciberespaço, impulsionado pela rede mundial de computadores e de pessoas, traz consigo um padrão global de desenvolvimento tecnológico e toda sorte de modificações culturais, que provocam uma gradativa e profunda revolução nos hábitos coletivos de pensar, de viver, de aprender e, sobretudo, de se comunicar. No mundo contemporâneo, ou, mais precisamente, nesta era da informação instantânea e simultânea, o raciocínio geográfico tem se revalorizado e, simultaneamente, se alterado por meio de novos aspectos sociais e tecnológicos. É por esse motivo que, no centro das atuais preocupações, encontram-se as relações entre as novas tecnologias e o raciocínio espacial. Portanto, sendo o ciberespaço parte integrante da sociedade contemporânea, ele é uma realidade que a Geografia deve buscar compreender. <https://tinyurl.com/239pf2nj> Acesso em: 05.11.2022. Adaptado.",
+        "contextHTML": "<p>Leia o texto para responder às questões 28 e 29. O ciberespaço, impulsionado pela rede mundial de computadores e de pessoas, traz consigo um padrão global de desenvolvimento tecnológico e toda sorte de modificações culturais, que provocam uma gradativa e profunda revolução nos hábitos coletivos de pensar, de viver, de aprender e, sobretudo, de se comunicar. No mundo contemporâneo, ou, mais precisamente, nesta era da informação instantânea e simultânea, o raciocínio geográfico tem se revalorizado e, simultaneamente, se alterado por meio de novos aspectos sociais e tecnológicos. É por esse motivo que, no centro das atuais preocupações, encontram-se as relações entre as novas tecnologias e o raciocínio espacial. Portanto, sendo o ciberespaço parte integrante da sociedade contemporânea, ele é uma realidade que a Geografia deve buscar compreender. &lt;https://tinyurl.com/239pf2nj&gt; Acesso em: 05.11.2022. Adaptado.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 28 e 29. O ciberespaço, impulsionado pela rede mundial de computadores e de pessoas, traz consigo um padrão global de desenvolvimento tecnológico e toda sorte de modificações culturais, que provocam uma gradativa e profunda revolução nos hábitos coletivos de pensar, de viver, de aprender e, sobretudo, de se comunicar. No mundo contemporâneo, ou, mais precisamente, nesta era da informação instantânea e simultânea, o raciocínio geográfico tem se revalorizado e, simultaneamente, se alterado por meio de novos aspectos sociais e tecnológicos. É por esse motivo que, no centro das atuais preocupações, encontram-se as relações entre as novas tecnologias e o raciocínio espacial. Portanto, sendo o ciberespaço parte integrante da sociedade contemporânea, ele é uma realidade que a Geografia deve buscar compreender. &lt;https://tinyurl.com/239pf2nj&gt; Acesso em: 05.11.2022. Adaptado.</p><p>Analisando o contexto da passagem “sendo o ciberespaço parte integrante da sociedade contemporânea”, percebe-se que há, com a oração seguinte, uma relação de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-29",
+      "problem": "Apoio interrompido na coluna esquerda; falta a continuação que contém a passagem perguntada.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 28 e 29. O ciberespaço, impulsionado pela rede mundial de computadores e de pessoas, traz consigo um padrão global de desenvolvimento tecnológico e toda sorte de modificações culturais, que provocam uma gradativa e profunda revolução nos hábitos coletivos de pensar, de viver, de aprender e, sobretudo, de se comunicar. No mundo contemporâneo, ou, mais precisamente, nesta era da informação instantânea e simultânea, o raciocínio geográfico tem se revalorizado e, simultaneamente, se alterado por meio de novos aspectos sociais e tecnológicos. É por esse motivo que, no centro das atuais preocupações, encontram-se as relações entre as novas tecnologias e o raciocínio espacial. Portanto, sendo o ciberespaço parte integrante da sociedade contemporânea, ele é uma realidade que a Geografia deve buscar compreender. <https://tinyurl.com/239pf2nj> Acesso em: 05.11.2022. Adaptado.",
+        "contextHTML": "<p>Leia o texto para responder às questões 28 e 29. O ciberespaço, impulsionado pela rede mundial de computadores e de pessoas, traz consigo um padrão global de desenvolvimento tecnológico e toda sorte de modificações culturais, que provocam uma gradativa e profunda revolução nos hábitos coletivos de pensar, de viver, de aprender e, sobretudo, de se comunicar. No mundo contemporâneo, ou, mais precisamente, nesta era da informação instantânea e simultânea, o raciocínio geográfico tem se revalorizado e, simultaneamente, se alterado por meio de novos aspectos sociais e tecnológicos. É por esse motivo que, no centro das atuais preocupações, encontram-se as relações entre as novas tecnologias e o raciocínio espacial. Portanto, sendo o ciberespaço parte integrante da sociedade contemporânea, ele é uma realidade que a Geografia deve buscar compreender. &lt;https://tinyurl.com/239pf2nj&gt; Acesso em: 05.11.2022. Adaptado.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 28 e 29. O ciberespaço, impulsionado pela rede mundial de computadores e de pessoas, traz consigo um padrão global de desenvolvimento tecnológico e toda sorte de modificações culturais, que provocam uma gradativa e profunda revolução nos hábitos coletivos de pensar, de viver, de aprender e, sobretudo, de se comunicar. No mundo contemporâneo, ou, mais precisamente, nesta era da informação instantânea e simultânea, o raciocínio geográfico tem se revalorizado e, simultaneamente, se alterado por meio de novos aspectos sociais e tecnológicos. É por esse motivo que, no centro das atuais preocupações, encontram-se as relações entre as novas tecnologias e o raciocínio espacial. Portanto, sendo o ciberespaço parte integrante da sociedade contemporânea, ele é uma realidade que a Geografia deve buscar compreender. &lt;https://tinyurl.com/239pf2nj&gt; Acesso em: 05.11.2022. Adaptado.</p><p>De acordo com o texto, é correto afirmar que a Geografia</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-32",
+      "problem": "Equação v = ΔS/Δt e potências de dez estão em ordem vertical ilegível no apoio.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 32 e 33.\nUma tecnologia cada vez mais utilizada é a chamada NFC (Near Field Communication ou “Comunicação\npor Campo Próximo” em português). Entre as principais aplicações, está o uso de dispositivos móveis\npara pagamentos a distância e também o de cartões, equipados com chips, para pagamentos, acesso a\ntransportes públicos, apresentação de cartões de visitas eletrônicos, entre outros. Essa tecnologia funciona\npor ondas de rádio que se propagam no ar com velocidade aproximada de 3,0 × 10⁸ m/s, em uma operação\nque leva um intervalo de tempo de aproximadamente 0,1 ns.\nConsidere as seguintes informações: M (mega) = 10⁶; c (centi) = 10⁻²; n (nano) = 10⁻⁹; v = λ · f; v = ΔS/Δt.",
+        "contextHTML": "<p>Leia o texto para responder às questões 32 e 33. Uma tecnologia cada vez mais utilizada é a chamada NFC (Near Field Communication ou “Comunicação por Campo Próximo” em português). Entre as principais aplicações, está o uso de dispositivos móveis para pagamentos a distância e também o de cartões, equipados com chips, para pagamentos, acesso a transportes públicos, apresentação de cartões de visitas eletrônicos, entre outros. Essa tecnologia funciona por ondas de rádio que se propagam no ar com velocidade aproximada de 3,0 × 10⁸ m/s, em uma operação que leva um intervalo de tempo de aproximadamente 0,1 ns. Considere as seguintes informações: M (mega) = 10⁶; c (centi) = 10⁻²; n (nano) = 10⁻⁹; v = λ · f; v = ΔS/Δt.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 32 e 33. Uma tecnologia cada vez mais utilizada é a chamada NFC (Near Field Communication ou “Comunicação por Campo Próximo” em português). Entre as principais aplicações, está o uso de dispositivos móveis para pagamentos a distância e também o de cartões, equipados com chips, para pagamentos, acesso a transportes públicos, apresentação de cartões de visitas eletrônicos, entre outros. Essa tecnologia funciona por ondas de rádio que se propagam no ar com velocidade aproximada de 3,0 × 10⁸ m/s, em uma operação que leva um intervalo de tempo de aproximadamente 0,1 ns. Considere as seguintes informações: M (mega) = 10⁶; c (centi) = 10⁻²; n (nano) = 10⁻⁹; v = λ · f; v = ΔS/Δt.</p><p>Assinale a alternativa que apresenta corretamente, em cm, a distância máxima de operação dessa tecnologia.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-33",
+      "problem": "Equação v = ΔS/Δt e potências de dez estão em ordem vertical ilegível no apoio.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 32 e 33.\nUma tecnologia cada vez mais utilizada é a chamada NFC (Near Field Communication ou “Comunicação\npor Campo Próximo” em português). Entre as principais aplicações, está o uso de dispositivos móveis\npara pagamentos a distância e também o de cartões, equipados com chips, para pagamentos, acesso a\ntransportes públicos, apresentação de cartões de visitas eletrônicos, entre outros. Essa tecnologia funciona\npor ondas de rádio que se propagam no ar com velocidade aproximada de 3,0 × 10⁸ m/s, em uma operação\nque leva um intervalo de tempo de aproximadamente 0,1 ns.\nConsidere as seguintes informações: M (mega) = 10⁶; c (centi) = 10⁻²; n (nano) = 10⁻⁹; v = λ · f; v = ΔS/Δt.",
+        "contextHTML": "<p>Leia o texto para responder às questões 32 e 33. Uma tecnologia cada vez mais utilizada é a chamada NFC (Near Field Communication ou “Comunicação por Campo Próximo” em português). Entre as principais aplicações, está o uso de dispositivos móveis para pagamentos a distância e também o de cartões, equipados com chips, para pagamentos, acesso a transportes públicos, apresentação de cartões de visitas eletrônicos, entre outros. Essa tecnologia funciona por ondas de rádio que se propagam no ar com velocidade aproximada de 3,0 × 10⁸ m/s, em uma operação que leva um intervalo de tempo de aproximadamente 0,1 ns. Considere as seguintes informações: M (mega) = 10⁶; c (centi) = 10⁻²; n (nano) = 10⁻⁹; v = λ · f; v = ΔS/Δt.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 32 e 33. Uma tecnologia cada vez mais utilizada é a chamada NFC (Near Field Communication ou “Comunicação por Campo Próximo” em português). Entre as principais aplicações, está o uso de dispositivos móveis para pagamentos a distância e também o de cartões, equipados com chips, para pagamentos, acesso a transportes públicos, apresentação de cartões de visitas eletrônicos, entre outros. Essa tecnologia funciona por ondas de rádio que se propagam no ar com velocidade aproximada de 3,0 × 10⁸ m/s, em uma operação que leva um intervalo de tempo de aproximadamente 0,1 ns. Considere as seguintes informações: M (mega) = 10⁶; c (centi) = 10⁻²; n (nano) = 10⁻⁹; v = λ · f; v = ΔS/Δt.</p><p>Sabendo que o comprimento de onda (λ) emitido por essa tecnologia é de aproximadamente 22 m, assinale a alternativa que apresenta correta e aproximadamente, em MHz, a frequência (f) de operação dela.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-38",
+      "problem": "Duas colunas do enunciado foram intercaladas e figura/valores contaminaram alternativas B–E.",
+      "fix": {
+        "text": "Ao trabalhar com o serviço de entregas (delivery), um aspecto avaliado é o “raio de entrega” dos pedidos, pois ele influencia a cobrança de taxas. Suponha que uma empresa estabeleça em 5 km o seu raio máximo de atuação. Um cliente, que mora exatamente no limite dessa região, realiza seu pedido via aplicativo (app). Ao realizar o pedido, o app pede que o cliente informe um ponto de referência para auxiliar o entregador. Esse cliente em questão, para fornecer o ponto de referência, escreveu: “Moro a exatamente 1 km da Avenida Bom Sucesso, em uma rua paralela a ela”. Devido a um problema no app, o entregador não consegue visualizar o endereço do cliente, tendo acesso apenas ao esquema da figura. Se a distância, em linha reta, da Empresa até a Avenida Bom Sucesso é de 4 km, a quantidade de pontos em que o endereço do cliente pode estar é",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Ao trabalhar com o serviço de entregas (delivery), um aspecto avaliado é o “raio de entrega” dos pedidos, pois ele influencia a cobrança de taxas. Suponha que uma empresa estabeleça em 5 km o seu raio máximo de atuação. Um cliente, que mora exatamente no limite dessa região, realiza seu pedido via aplicativo (app). Ao realizar o pedido, o app pede que o cliente informe um ponto de referência para auxiliar o entregador. Esse cliente em questão, para fornecer o ponto de referência, escreveu: “Moro a exatamente 1 km da Avenida Bom Sucesso, em uma rua paralela a ela”. Devido a um problema no app, o entregador não consegue visualizar o endereço do cliente, tendo acesso apenas ao esquema da figura. Se a distância, em linha reta, da Empresa até a Avenida Bom Sucesso é de 4 km, a quantidade de pontos em que o endereço do cliente pode estar é</p>"
+          },
+          {
+            "type": "crop",
+            "page": 16,
+            "rect": [
+              387.5,
+              377.9,
+              559.3,
+              501.8
+            ],
+            "alt": "Empresa no centro de uma circunferência de raio 5 km e Avenida Bom Sucesso a 4 km do centro."
+          }
+        ],
+        "options": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "5."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>1.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>3.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>4.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>5.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-42",
+      "problem": "Alternativa C continua na coluna direita e foi truncada após “têm o”.",
+      "fix": {
+        "options": [
+          "As preferências dos entrevistados, em\nrelação à dimensão Atividades Burocráticas,\nsão as mais dispersas em torno da média.",
+          "Apesar de as médias serem diferentes,\nas preferências dos entrevistados são\nmais homogêneas em relação à dimensão\nAtividades Burocráticas do que à dimensão\nArtes e Comunicação.",
+          "As preferências dos entrevistados, em relação às dimensões Ciências Exatas e Ciências Biológicas e da Saúde, têm o mesmo nível de heterogeneidade, visto que possuem a mesma amplitude.",
+          "Apesar de as médias serem diferentes,\nas preferências dos entrevistados são\nmais homogêneas em relação à dimensão\nCiências Exatas do que à dimensão Artes e\nComunicação.",
+          "As preferências dos entrevistados, em\nrelação à dimensão Ciências Biológicas e da\nSaúde, são as menos dispersas em torno da\nmédia."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>As preferências dos entrevistados, em relação à dimensão Atividades Burocráticas, são as mais dispersas em torno da média.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Apesar de as médias serem diferentes, as preferências dos entrevistados são mais homogêneas em relação à dimensão Atividades Burocráticas do que à dimensão Artes e Comunicação.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>As preferências dos entrevistados, em relação às dimensões Ciências Exatas e Ciências Biológicas e da Saúde, têm o mesmo nível de heterogeneidade, visto que possuem a mesma amplitude.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Apesar de as médias serem diferentes, as preferências dos entrevistados são mais homogêneas em relação à dimensão Ciências Exatas do que à dimensão Artes e Comunicação.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>As preferências dos entrevistados, em relação à dimensão Ciências Biológicas e da Saúde, são as menos dispersas em torno da média.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-43",
+      "problem": "Notação da escala perdeu os dois pontos: 1:500 virou “1 500”.",
+      "fix": {
+        "text": "Um estudante de Construção Civil da Fatec está executando um desenho técnico, para\num projeto de uma fazenda vertical. Na planta baixa, apresentada na imagem, estão\nespecificadas algumas medidas na escala 1:500 – em que 1 m na medida real corresponde a\n0,2 cm na planta baixa.\nLogo, o perímetro da construção será, em metros, igual a",
+        "stemHTML": "<p>Um estudante de Construção Civil da Fatec está executando um desenho técnico, para um projeto de uma fazenda vertical. Na planta baixa, apresentada na imagem, estão especificadas algumas medidas na escala 1:500 – em que 1 m na medida real corresponde a 0,2 cm na planta baixa. Logo, o perímetro da construção será, em metros, igual a</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-1-44",
+      "problem": "Apoio em inglês alterna linhas das duas colunas e começa com trecho fora de ordem.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 44 e 45. Cherry picking in the media. Cherry picking is often used by the media, particularly in the case of less reputable media bodies, when they present only one side of a story, or give it disproportional coverage while ignoring facts that could support alternative viewpoints. For example, consider a situation where a new study, which is based on the input of thousands of scientists in a certain field, finds that 99 % of them agree with the consensus position on a certain phenomenon, and only 1 % of them disagree with it. When reporting on this study, a reporter who engages in cherry picking might say the following: “A recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon.” This statement represents an example of cherry picking, because it only mentions the fact that the study found that some scientists disagree with the consensus position on the phenomenon in question, while ignoring the fact that the study in question also found that the vast majority of scientists support this position. <https://tinyurl.com/yjem2sm2> Acesso em: 28.10.2022. Adaptado.",
+        "contextHTML": "<p>Leia o texto para responder às questões 44 e 45. Cherry picking in the media. Cherry picking is often used by the media, particularly in the case of less reputable media bodies, when they present only one side of a story, or give it disproportional coverage while ignoring facts that could support alternative viewpoints. For example, consider a situation where a new study, which is based on the input of thousands of scientists in a certain field, finds that 99 % of them agree with the consensus position on a certain phenomenon, and only 1 % of them disagree with it. When reporting on this study, a reporter who engages in cherry picking might say the following: “A recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon.” This statement represents an example of cherry picking, because it only mentions the fact that the study found that some scientists disagree with the consensus position on the phenomenon in question, while ignoring the fact that the study in question also found that the vast majority of scientists support this position. &lt;https://tinyurl.com/yjem2sm2&gt; Acesso em: 28.10.2022. Adaptado.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 44 e 45. Cherry picking in the media. Cherry picking is often used by the media, particularly in the case of less reputable media bodies, when they present only one side of a story, or give it disproportional coverage while ignoring facts that could support alternative viewpoints. For example, consider a situation where a new study, which is based on the input of thousands of scientists in a certain field, finds that 99 % of them agree with the consensus position on a certain phenomenon, and only 1 % of them disagree with it. When reporting on this study, a reporter who engages in cherry picking might say the following: “A recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon.” This statement represents an example of cherry picking, because it only mentions the fact that the study found that some scientists disagree with the consensus position on the phenomenon in question, while ignoring the fact that the study in question also found that the vast majority of scientists support this position. &lt;https://tinyurl.com/yjem2sm2&gt; Acesso em: 28.10.2022. Adaptado.</p><p>O fenômeno descrito no texto indica a prática de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-45",
+      "problem": "Apoio em inglês alterna linhas das duas colunas e começa com trecho fora de ordem.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 44 e 45. Cherry picking in the media. Cherry picking is often used by the media, particularly in the case of less reputable media bodies, when they present only one side of a story, or give it disproportional coverage while ignoring facts that could support alternative viewpoints. For example, consider a situation where a new study, which is based on the input of thousands of scientists in a certain field, finds that 99 % of them agree with the consensus position on a certain phenomenon, and only 1 % of them disagree with it. When reporting on this study, a reporter who engages in cherry picking might say the following: “A recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon.” This statement represents an example of cherry picking, because it only mentions the fact that the study found that some scientists disagree with the consensus position on the phenomenon in question, while ignoring the fact that the study in question also found that the vast majority of scientists support this position. <https://tinyurl.com/yjem2sm2> Acesso em: 28.10.2022. Adaptado.",
+        "contextHTML": "<p>Leia o texto para responder às questões 44 e 45. Cherry picking in the media. Cherry picking is often used by the media, particularly in the case of less reputable media bodies, when they present only one side of a story, or give it disproportional coverage while ignoring facts that could support alternative viewpoints. For example, consider a situation where a new study, which is based on the input of thousands of scientists in a certain field, finds that 99 % of them agree with the consensus position on a certain phenomenon, and only 1 % of them disagree with it. When reporting on this study, a reporter who engages in cherry picking might say the following: “A recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon.” This statement represents an example of cherry picking, because it only mentions the fact that the study found that some scientists disagree with the consensus position on the phenomenon in question, while ignoring the fact that the study in question also found that the vast majority of scientists support this position. &lt;https://tinyurl.com/yjem2sm2&gt; Acesso em: 28.10.2022. Adaptado.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 44 e 45. Cherry picking in the media. Cherry picking is often used by the media, particularly in the case of less reputable media bodies, when they present only one side of a story, or give it disproportional coverage while ignoring facts that could support alternative viewpoints. For example, consider a situation where a new study, which is based on the input of thousands of scientists in a certain field, finds that 99 % of them agree with the consensus position on a certain phenomenon, and only 1 % of them disagree with it. When reporting on this study, a reporter who engages in cherry picking might say the following: “A recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon.” This statement represents an example of cherry picking, because it only mentions the fact that the study found that some scientists disagree with the consensus position on the phenomenon in question, while ignoring the fact that the study in question also found that the vast majority of scientists support this position. &lt;https://tinyurl.com/yjem2sm2&gt; Acesso em: 28.10.2022. Adaptado.</p><p>A expressão plenty of na sentença “there are plenty of scientists who disagree with the consensus position on this phenomenon” poderia ser substituída, sem prejuízo de informação, por</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-49",
+      "problem": "Enunciado intercalado entre duas colunas altera a sequência do truque.",
+      "fix": {
+        "text": "Mágicos podem utilizar técnicas que mexem com o imaginário e o senso lógico das pessoas. Um exemplo disso é o truque “Dado Dinamite”. Nele, o mágico apresenta um cartão no qual o público vê um ponto no centro; ao virar o cartão e mostrar o verso, o público vê dois pontos no cartão. Quando o mágico vira novamente esse cartão, onde o público enxergava um ponto, agora vê dois pontos e, virando novamente, o público vê, então, três pontos. Considerando que foram usados apenas a frente e o verso de um único cartão, sem que exista nenhum outro artifício, o número mínimo de pontos que o mágico deve desenhar no cartão (frente e verso) utilizado é igual a",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Mágicos podem utilizar técnicas que mexem com o imaginário e o senso lógico das pessoas. Um exemplo disso é o truque “Dado Dinamite”. Nele, o mágico apresenta um cartão no qual o público vê um ponto no centro; ao virar o cartão e mostrar o verso, o público vê dois pontos no cartão. Quando o mágico vira novamente esse cartão, onde o público enxergava um ponto, agora vê dois pontos e, virando novamente, o público vê, então, três pontos. Considerando que foram usados apenas a frente e o verso de um único cartão, sem que exista nenhum outro artifício, o número mínimo de pontos que o mágico deve desenhar no cartão (frente e verso) utilizado é igual a</p>"
+          },
+          {
+            "type": "crop",
+            "page": 21,
+            "rect": [
+              39.7,
+              88.6,
+              298.7,
+              160.3
+            ],
+            "alt": "Quatro imagens mostrando frente e verso do cartão, com pontos parcialmente ocultos pela mão."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-53",
+      "problem": "Final do apoio ficou na coluna direita e foi omitido, incluindo referência à transcrição do episódio.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 53 e 54. Os povos africanos que foram trazidos pro Brasil trouxeram consigo suas tecnologias. E isso tá marcado já nas chegadas dos primeiros, lá no século XVI: eram povos que vinham de sociedades que já desenvolviam a pecuária, por exemplo, ou então sistemas agrícolas complexos. Nos engenhos, muitos africanos chegavam e já eram colocados como mestres-de-açúcar, que era a principal função na parte do beneficiamento do açúcar. No ciclo do ouro, os exploradores eram basicamente catadores, encontrando aqui e ali as pepitas. Mas uma ferramenta trazida pelos africanos mudou esse jogo: a bateia, que servia pra tirar o ouro vindo no curso da água. Porque era uma atividade que eles já desempenhavam no continente africano, e que acabaram trazendo pra cá. Tem um alemão, o Barão de Eschwege, ele fundou a primeira siderúrgica do Brasil, em 1812. E quem trabalhava, claro, eram os escravizados. E o Barão se apropriou de um instrumento trazido por esses africanos: o cadinho, que é um tipo de recipiente com formato de pote que é usado pra fundir metais. O alemão fez lá uma pequena adaptação no cadinho e isso potencializou a capacidade de produção dos fornos. Foi uma revolução tecnológica na época. Hoje, tem um monte de livro e de faculdade de Engenharia que homenageia o Barão. Dos africanos que ensinaram isso a ele, não se sabe nem o nome. Projeto Querino, Transcrição do episódio 05: Os Piores Patrões. <https://tinyurl.com/yacpau7w> Acesso em: 28.10.2022. Adaptado.",
+        "contextHTML": "<p>Leia o texto para responder às questões 53 e 54. Os povos africanos que foram trazidos pro Brasil trouxeram consigo suas tecnologias. E isso tá marcado já nas chegadas dos primeiros, lá no século XVI: eram povos que vinham de sociedades que já desenvolviam a pecuária, por exemplo, ou então sistemas agrícolas complexos. Nos engenhos, muitos africanos chegavam e já eram colocados como mestres-de-açúcar, que era a principal função na parte do beneficiamento do açúcar. No ciclo do ouro, os exploradores eram basicamente catadores, encontrando aqui e ali as pepitas. Mas uma ferramenta trazida pelos africanos mudou esse jogo: a bateia, que servia pra tirar o ouro vindo no curso da água. Porque era uma atividade que eles já desempenhavam no continente africano, e que acabaram trazendo pra cá. Tem um alemão, o Barão de Eschwege, ele fundou a primeira siderúrgica do Brasil, em 1812. E quem trabalhava, claro, eram os escravizados. E o Barão se apropriou de um instrumento trazido por esses africanos: o cadinho, que é um tipo de recipiente com formato de pote que é usado pra fundir metais. O alemão fez lá uma pequena adaptação no cadinho e isso potencializou a capacidade de produção dos fornos. Foi uma revolução tecnológica na época. Hoje, tem um monte de livro e de faculdade de Engenharia que homenageia o Barão. Dos africanos que ensinaram isso a ele, não se sabe nem o nome. Projeto Querino, Transcrição do episódio 05: Os Piores Patrões. &lt;https://tinyurl.com/yacpau7w&gt; Acesso em: 28.10.2022. Adaptado.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 53 e 54. Os povos africanos que foram trazidos pro Brasil trouxeram consigo suas tecnologias. E isso tá marcado já nas chegadas dos primeiros, lá no século XVI: eram povos que vinham de sociedades que já desenvolviam a pecuária, por exemplo, ou então sistemas agrícolas complexos. Nos engenhos, muitos africanos chegavam e já eram colocados como mestres-de-açúcar, que era a principal função na parte do beneficiamento do açúcar. No ciclo do ouro, os exploradores eram basicamente catadores, encontrando aqui e ali as pepitas. Mas uma ferramenta trazida pelos africanos mudou esse jogo: a bateia, que servia pra tirar o ouro vindo no curso da água. Porque era uma atividade que eles já desempenhavam no continente africano, e que acabaram trazendo pra cá. Tem um alemão, o Barão de Eschwege, ele fundou a primeira siderúrgica do Brasil, em 1812. E quem trabalhava, claro, eram os escravizados. E o Barão se apropriou de um instrumento trazido por esses africanos: o cadinho, que é um tipo de recipiente com formato de pote que é usado pra fundir metais. O alemão fez lá uma pequena adaptação no cadinho e isso potencializou a capacidade de produção dos fornos. Foi uma revolução tecnológica na época. Hoje, tem um monte de livro e de faculdade de Engenharia que homenageia o Barão. Dos africanos que ensinaram isso a ele, não se sabe nem o nome. Projeto Querino, Transcrição do episódio 05: Os Piores Patrões. &lt;https://tinyurl.com/yacpau7w&gt; Acesso em: 28.10.2022. Adaptado.</p><p>Segundo o texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-54",
+      "problem": "Final do apoio ficou na coluna direita e foi omitido, incluindo referência à transcrição do episódio.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 53 e 54. Os povos africanos que foram trazidos pro Brasil trouxeram consigo suas tecnologias. E isso tá marcado já nas chegadas dos primeiros, lá no século XVI: eram povos que vinham de sociedades que já desenvolviam a pecuária, por exemplo, ou então sistemas agrícolas complexos. Nos engenhos, muitos africanos chegavam e já eram colocados como mestres-de-açúcar, que era a principal função na parte do beneficiamento do açúcar. No ciclo do ouro, os exploradores eram basicamente catadores, encontrando aqui e ali as pepitas. Mas uma ferramenta trazida pelos africanos mudou esse jogo: a bateia, que servia pra tirar o ouro vindo no curso da água. Porque era uma atividade que eles já desempenhavam no continente africano, e que acabaram trazendo pra cá. Tem um alemão, o Barão de Eschwege, ele fundou a primeira siderúrgica do Brasil, em 1812. E quem trabalhava, claro, eram os escravizados. E o Barão se apropriou de um instrumento trazido por esses africanos: o cadinho, que é um tipo de recipiente com formato de pote que é usado pra fundir metais. O alemão fez lá uma pequena adaptação no cadinho e isso potencializou a capacidade de produção dos fornos. Foi uma revolução tecnológica na época. Hoje, tem um monte de livro e de faculdade de Engenharia que homenageia o Barão. Dos africanos que ensinaram isso a ele, não se sabe nem o nome. Projeto Querino, Transcrição do episódio 05: Os Piores Patrões. <https://tinyurl.com/yacpau7w> Acesso em: 28.10.2022. Adaptado.",
+        "contextHTML": "<p>Leia o texto para responder às questões 53 e 54. Os povos africanos que foram trazidos pro Brasil trouxeram consigo suas tecnologias. E isso tá marcado já nas chegadas dos primeiros, lá no século XVI: eram povos que vinham de sociedades que já desenvolviam a pecuária, por exemplo, ou então sistemas agrícolas complexos. Nos engenhos, muitos africanos chegavam e já eram colocados como mestres-de-açúcar, que era a principal função na parte do beneficiamento do açúcar. No ciclo do ouro, os exploradores eram basicamente catadores, encontrando aqui e ali as pepitas. Mas uma ferramenta trazida pelos africanos mudou esse jogo: a bateia, que servia pra tirar o ouro vindo no curso da água. Porque era uma atividade que eles já desempenhavam no continente africano, e que acabaram trazendo pra cá. Tem um alemão, o Barão de Eschwege, ele fundou a primeira siderúrgica do Brasil, em 1812. E quem trabalhava, claro, eram os escravizados. E o Barão se apropriou de um instrumento trazido por esses africanos: o cadinho, que é um tipo de recipiente com formato de pote que é usado pra fundir metais. O alemão fez lá uma pequena adaptação no cadinho e isso potencializou a capacidade de produção dos fornos. Foi uma revolução tecnológica na época. Hoje, tem um monte de livro e de faculdade de Engenharia que homenageia o Barão. Dos africanos que ensinaram isso a ele, não se sabe nem o nome. Projeto Querino, Transcrição do episódio 05: Os Piores Patrões. &lt;https://tinyurl.com/yacpau7w&gt; Acesso em: 28.10.2022. Adaptado.</p>",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 53 e 54. Os povos africanos que foram trazidos pro Brasil trouxeram consigo suas tecnologias. E isso tá marcado já nas chegadas dos primeiros, lá no século XVI: eram povos que vinham de sociedades que já desenvolviam a pecuária, por exemplo, ou então sistemas agrícolas complexos. Nos engenhos, muitos africanos chegavam e já eram colocados como mestres-de-açúcar, que era a principal função na parte do beneficiamento do açúcar. No ciclo do ouro, os exploradores eram basicamente catadores, encontrando aqui e ali as pepitas. Mas uma ferramenta trazida pelos africanos mudou esse jogo: a bateia, que servia pra tirar o ouro vindo no curso da água. Porque era uma atividade que eles já desempenhavam no continente africano, e que acabaram trazendo pra cá. Tem um alemão, o Barão de Eschwege, ele fundou a primeira siderúrgica do Brasil, em 1812. E quem trabalhava, claro, eram os escravizados. E o Barão se apropriou de um instrumento trazido por esses africanos: o cadinho, que é um tipo de recipiente com formato de pote que é usado pra fundir metais. O alemão fez lá uma pequena adaptação no cadinho e isso potencializou a capacidade de produção dos fornos. Foi uma revolução tecnológica na época. Hoje, tem um monte de livro e de faculdade de Engenharia que homenageia o Barão. Dos africanos que ensinaram isso a ele, não se sabe nem o nome. Projeto Querino, Transcrição do episódio 05: Os Piores Patrões. &lt;https://tinyurl.com/yacpau7w&gt; Acesso em: 28.10.2022. Adaptado.</p><p>O texto apresentado, levando em conta seu canal de divulgação e seu gênero, caracteriza-se pelo uso de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-10",
+      "problem": "Potências de dez das alternativas sem expoente tipográfico.",
+      "fix": {
+        "options": [
+          "1,0 × 10³",
+          "1,6 × 10³",
+          "1,9 × 10⁴",
+          "2,1 × 10⁴",
+          "3,2 × 10⁴"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>1,0 × 10³</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>1,6 × 10³</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>1,9 × 10⁴</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>2,1 × 10⁴</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>3,2 × 10⁴</p>"
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "review": {
+    "edition": "2023-1",
+    "questionCount": 54,
+    "officialKeyConflicts": [],
+    "source": "Prova (6).pdf",
+    "notes": "Todos os 54 itens têm explicação específica. Conferidos cálculos, matriz, alternativas tabulares, artigos de duas colunas e apoios interrompidos."
+  }
+}

@@ -1,0 +1,1035 @@
+{
+  "questions": 400,
+  "solutions": 400,
+  "correctedQuestions": 190,
+  "correctedIds": [
+    "fatec-2023-1-10",
+    "fatec-2023-1-14",
+    "fatec-2023-1-17",
+    "fatec-2023-1-19",
+    "fatec-2023-1-2",
+    "fatec-2023-1-20",
+    "fatec-2023-1-21",
+    "fatec-2023-1-23",
+    "fatec-2023-1-28",
+    "fatec-2023-1-29",
+    "fatec-2023-1-32",
+    "fatec-2023-1-33",
+    "fatec-2023-1-36",
+    "fatec-2023-1-38",
+    "fatec-2023-1-4",
+    "fatec-2023-1-41",
+    "fatec-2023-1-42",
+    "fatec-2023-1-43",
+    "fatec-2023-1-44",
+    "fatec-2023-1-45",
+    "fatec-2023-1-46",
+    "fatec-2023-1-49",
+    "fatec-2023-1-53",
+    "fatec-2023-1-54",
+    "fatec-2023-1-8",
+    "fatec-2023-1-9",
+    "fatec-2023-2-1",
+    "fatec-2023-2-10",
+    "fatec-2023-2-12",
+    "fatec-2023-2-13",
+    "fatec-2023-2-19",
+    "fatec-2023-2-2",
+    "fatec-2023-2-25",
+    "fatec-2023-2-26",
+    "fatec-2023-2-3",
+    "fatec-2023-2-31",
+    "fatec-2023-2-32",
+    "fatec-2023-2-33",
+    "fatec-2023-2-35",
+    "fatec-2023-2-36",
+    "fatec-2023-2-37",
+    "fatec-2023-2-39",
+    "fatec-2023-2-40",
+    "fatec-2023-2-41",
+    "fatec-2023-2-43",
+    "fatec-2023-2-45",
+    "fatec-2023-2-46",
+    "fatec-2023-2-48",
+    "fatec-2023-2-49",
+    "fatec-2023-2-51",
+    "fatec-2023-2-53",
+    "fatec-2023-2-54",
+    "fatec-2023-2-9",
+    "fatec-2024-1-1",
+    "fatec-2024-1-10",
+    "fatec-2024-1-11",
+    "fatec-2024-1-12",
+    "fatec-2024-1-13",
+    "fatec-2024-1-14",
+    "fatec-2024-1-15",
+    "fatec-2024-1-16",
+    "fatec-2024-1-17",
+    "fatec-2024-1-18",
+    "fatec-2024-1-19",
+    "fatec-2024-1-2",
+    "fatec-2024-1-20",
+    "fatec-2024-1-21",
+    "fatec-2024-1-22",
+    "fatec-2024-1-23",
+    "fatec-2024-1-24",
+    "fatec-2024-1-25",
+    "fatec-2024-1-26",
+    "fatec-2024-1-27",
+    "fatec-2024-1-28",
+    "fatec-2024-1-3",
+    "fatec-2024-1-30",
+    "fatec-2024-1-31",
+    "fatec-2024-1-32",
+    "fatec-2024-1-33",
+    "fatec-2024-1-35",
+    "fatec-2024-1-36",
+    "fatec-2024-1-37",
+    "fatec-2024-1-38",
+    "fatec-2024-1-39",
+    "fatec-2024-1-4",
+    "fatec-2024-1-40",
+    "fatec-2024-1-41",
+    "fatec-2024-1-42",
+    "fatec-2024-1-43",
+    "fatec-2024-1-44",
+    "fatec-2024-1-45",
+    "fatec-2024-1-46",
+    "fatec-2024-1-47",
+    "fatec-2024-1-48",
+    "fatec-2024-1-49",
+    "fatec-2024-1-5",
+    "fatec-2024-1-50",
+    "fatec-2024-1-51",
+    "fatec-2024-1-52",
+    "fatec-2024-1-53",
+    "fatec-2024-1-7",
+    "fatec-2024-1-8",
+    "fatec-2024-1-9",
+    "fatec-2024-2-11",
+    "fatec-2024-2-12",
+    "fatec-2024-2-13",
+    "fatec-2024-2-14",
+    "fatec-2024-2-15",
+    "fatec-2024-2-16",
+    "fatec-2024-2-17",
+    "fatec-2024-2-18",
+    "fatec-2024-2-19",
+    "fatec-2024-2-2",
+    "fatec-2024-2-22",
+    "fatec-2024-2-23",
+    "fatec-2024-2-24",
+    "fatec-2024-2-26",
+    "fatec-2024-2-27",
+    "fatec-2024-2-28",
+    "fatec-2024-2-29",
+    "fatec-2024-2-3",
+    "fatec-2024-2-30",
+    "fatec-2024-2-33",
+    "fatec-2024-2-34",
+    "fatec-2024-2-37",
+    "fatec-2024-2-40",
+    "fatec-2024-2-42",
+    "fatec-2024-2-43",
+    "fatec-2024-2-45",
+    "fatec-2024-2-46",
+    "fatec-2024-2-47",
+    "fatec-2024-2-49",
+    "fatec-2024-2-5",
+    "fatec-2024-2-50",
+    "fatec-2024-2-51",
+    "fatec-2024-2-52",
+    "fatec-2024-2-6",
+    "fatec-2024-2-7",
+    "fatec-2024-2-8",
+    "fatec-2025-2-13",
+    "fatec-2025-2-16",
+    "fatec-2025-2-17",
+    "fatec-2025-2-21",
+    "fatec-2025-2-28",
+    "fatec-2025-2-29",
+    "fatec-2025-2-30",
+    "fatec-2025-2-32",
+    "fatec-2025-2-33",
+    "fatec-2025-2-37",
+    "fatec-2025-2-41",
+    "fatec-2025-2-44",
+    "fatec-2025-2-45",
+    "fatec-2025-2-46",
+    "fatec-2025-2-47",
+    "fatec-2025-2-48",
+    "fatec-2025-2-49",
+    "fatec-2025-2-55",
+    "fatec-2025-2-59",
+    "fatec-2025-2-63",
+    "fatec-2026-1-1",
+    "fatec-2026-1-10",
+    "fatec-2026-1-29",
+    "fatec-2026-1-30",
+    "fatec-2026-1-32",
+    "fatec-2026-1-33",
+    "fatec-2026-1-36",
+    "fatec-2026-1-37",
+    "fatec-2026-1-41",
+    "fatec-2026-1-42",
+    "fatec-2026-1-46",
+    "fatec-2026-1-47",
+    "fatec-2026-1-48",
+    "fatec-2026-2-10",
+    "fatec-2026-2-11",
+    "fatec-2026-2-12",
+    "fatec-2026-2-13",
+    "fatec-2026-2-14",
+    "fatec-2026-2-15",
+    "fatec-2026-2-25",
+    "fatec-2026-2-27",
+    "fatec-2026-2-36",
+    "fatec-2026-2-38",
+    "fatec-2026-2-46",
+    "fatec-2026-2-51",
+    "fatec-2026-2-55",
+    "fatec-2026-2-56",
+    "fatec-2026-2-57",
+    "fatec-2026-2-58",
+    "fatec-2026-2-59",
+    "fatec-2026-2-6"
+  ],
+  "newFigureCrops": 45,
+  "htmlBlocksNormalized": 0,
+  "missingSolutions": [],
+  "issues": [
+    {
+      "id": "fatec-2023-1-4",
+      "problem": "Enunciado termina com letras de diagramas e alternativas misturam elementos de outras figuras; recortes devem ser independentes."
+    },
+    {
+      "id": "fatec-2023-1-8",
+      "problem": "Cada alternativa inclui a linha anterior da tabela; cabeçalhos I/II aparecem deslocados."
+    },
+    {
+      "id": "fatec-2023-1-9",
+      "problem": "Matriz não está presente no texto nativo; manter os nove valores e sua orientação."
+    },
+    {
+      "id": "fatec-2023-1-17",
+      "problem": "Setas e frações do equilíbrio químico desapareceram; alternativas repetem marcadores e ordem de termos confusa."
+    },
+    {
+      "id": "fatec-2023-1-21",
+      "problem": "Quadro lateral de números atômicos contaminou alternativa B; algumas fórmulas estão sem subscritos."
+    },
+    {
+      "id": "fatec-2023-1-28",
+      "problem": "Apoio interrompido na coluna esquerda; falta a continuação que contém a passagem perguntada."
+    },
+    {
+      "id": "fatec-2023-1-29",
+      "problem": "Apoio interrompido na coluna esquerda; falta a continuação que contém a passagem perguntada."
+    },
+    {
+      "id": "fatec-2023-1-32",
+      "problem": "Equação v = ΔS/Δt e potências de dez estão em ordem vertical ilegível no apoio."
+    },
+    {
+      "id": "fatec-2023-1-33",
+      "problem": "Equação v = ΔS/Δt e potências de dez estão em ordem vertical ilegível no apoio."
+    },
+    {
+      "id": "fatec-2023-1-38",
+      "problem": "Duas colunas do enunciado foram intercaladas e figura/valores contaminaram alternativas B–E."
+    },
+    {
+      "id": "fatec-2023-1-42",
+      "problem": "Alternativa C continua na coluna direita e foi truncada após “têm o”."
+    },
+    {
+      "id": "fatec-2023-1-43",
+      "problem": "Notação da escala perdeu os dois pontos: 1:500 virou “1 500”."
+    },
+    {
+      "id": "fatec-2023-1-44",
+      "problem": "Apoio em inglês alterna linhas das duas colunas e começa com trecho fora de ordem."
+    },
+    {
+      "id": "fatec-2023-1-45",
+      "problem": "Apoio em inglês alterna linhas das duas colunas e começa com trecho fora de ordem."
+    },
+    {
+      "id": "fatec-2023-1-49",
+      "problem": "Enunciado intercalado entre duas colunas altera a sequência do truque."
+    },
+    {
+      "id": "fatec-2023-1-53",
+      "problem": "Final do apoio ficou na coluna direita e foi omitido, incluindo referência à transcrição do episódio."
+    },
+    {
+      "id": "fatec-2023-1-54",
+      "problem": "Final do apoio ficou na coluna direita e foi omitido, incluindo referência à transcrição do episódio."
+    },
+    {
+      "id": "fatec-2023-1-10",
+      "problem": "Potências de dez das alternativas sem expoente tipográfico."
+    },
+    {
+      "id": "fatec-2023-2-2",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-10",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-12",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-13",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-19",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-25",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-26",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-31",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-33",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-35",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-36",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-41",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-43",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-46",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-48",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-51",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-53",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa."
+    },
+    {
+      "id": "fatec-2023-2-1",
+      "problem": "A saudação introdutória ao candidato foi inserida como apoio compartilhado; não integra o enunciado destas perguntas."
+    },
+    {
+      "id": "fatec-2023-2-2",
+      "problem": "A saudação introdutória ao candidato foi inserida como apoio compartilhado; não integra o enunciado destas perguntas."
+    },
+    {
+      "id": "fatec-2023-2-3",
+      "problem": "O comando foi intercalado no primeiro parágrafo por haver duas colunas na página."
+    },
+    {
+      "id": "fatec-2023-2-9",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda."
+    },
+    {
+      "id": "fatec-2023-2-10",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda."
+    },
+    {
+      "id": "fatec-2023-2-48",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda."
+    },
+    {
+      "id": "fatec-2023-2-49",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda."
+    },
+    {
+      "id": "fatec-2023-2-12",
+      "problem": "Continuação em outra página mistura cabeçalhos da tabela e alternativa anterior; recorte da figura inclui rodapé."
+    },
+    {
+      "id": "fatec-2023-2-13",
+      "problem": "Símbolos de desigualdade e unidade Å não foram extraídos; tabela ficou como lista sem colunas."
+    },
+    {
+      "id": "fatec-2023-2-32",
+      "problem": "A tabela à esquerda foi intercalada com enunciado e alternativas à direita, deslocando as alternativas."
+    },
+    {
+      "id": "fatec-2023-2-35",
+      "problem": "Símbolos de lista foram convertidos para a letra r; duas linhas aparecem antes da abertura do enunciado."
+    },
+    {
+      "id": "fatec-2023-2-36",
+      "problem": "Apoio em coluna usa tabelas cujas células ficam soltas no texto; reconstruídas com cabeçalhos e unidades."
+    },
+    {
+      "id": "fatec-2023-2-37",
+      "problem": "Apoio em coluna usa tabelas cujas células ficam soltas no texto; reconstruídas com cabeçalhos e unidades."
+    },
+    {
+      "id": "fatec-2023-2-36",
+      "problem": "Lacunas e células da tabela de alternativas deslocadas, com conteúdo da opção anterior."
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Fórmulas do quadro lateral foram incorporadas às alternativas A–D; remover mistura e exibir dados junto ao enunciado."
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Inconsistência física da fonte: o gabarito B usa 280 como cal, enquanto Calories de rótulo nutricional usualmente significa kcal; manter gabarito e explicar ressalva."
+    },
+    {
+      "id": "fatec-2023-2-41",
+      "problem": "Tabela de elementos químicos misturada às alternativas, tornando-as deslocadas e repetidas."
+    },
+    {
+      "id": "fatec-2023-2-45",
+      "problem": "Comando à direita aparece intercalado no primeiro parágrafo, em vez de após o texto de apoio."
+    },
+    {
+      "id": "fatec-2023-2-51",
+      "problem": "Recortes químicos cortam COOH à direita e mostram títulos das alternativas seguintes; título A vaza para o enunciado."
+    },
+    {
+      "id": "fatec-2023-2-54",
+      "problem": "Recorte da tirinha corta a extremidade direita e parte das falas, impedindo a leitura integral."
+    },
+    {
+      "id": "fatec-2023-2-25",
+      "problem": "A palavra população perdeu a letra inicial no recorte da coluna."
+    },
+    {
+      "id": "fatec-2024-1-4",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-4",
+      "problem": "Fórmulas/instruções em imagens cortadas e tabela duplicada."
+    },
+    {
+      "id": "fatec-2024-1-13",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-14",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-19",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-26",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-47",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-25",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-35",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-40",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-45",
+      "problem": "Alternativas com texto de linha anterior, marcador interno, potência sem expoente ou rodapé misturado."
+    },
+    {
+      "id": "fatec-2024-1-8",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-9",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-10",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-13",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-14",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-15",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-16",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-23",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-24",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-39",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-40",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-41",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-42",
+      "problem": "Apoio textual em imagem, título de outra questão ou fonte minúscula/fragmentada."
+    },
+    {
+      "id": "fatec-2024-1-42",
+      "problem": "Gráficos estavam no enunciado e alternativas mostravam somente T (°C)."
+    },
+    {
+      "id": "fatec-2024-1-18",
+      "problem": "Tirinha dividida em recortes com faixa de título."
+    },
+    {
+      "id": "fatec-2024-1-19",
+      "problem": "Tirinha dividida em recortes com faixa de título."
+    },
+    {
+      "id": "fatec-2024-1-21",
+      "problem": "Intervenção artística aparecia em dois recortes e comando fragmentado."
+    },
+    {
+      "id": "fatec-2024-1-28",
+      "problem": "Estrelas ausentes na camada textual dos quadros."
+    },
+    {
+      "id": "fatec-2024-1-44",
+      "problem": "Escalações em figura repetida e comando deslocado."
+    },
+    {
+      "id": "fatec-2024-1-47",
+      "problem": "Tabela com todas as respostas estava misturada ao enunciado e funções extraídas fora de ordem."
+    },
+    {
+      "id": "fatec-2024-1-51",
+      "problem": "Marcadores romanos e parte do apoio apareciam como imagem."
+    },
+    {
+      "id": "fatec-2024-1-52",
+      "problem": "Marcadores romanos e parte do apoio apareciam como imagem."
+    },
+    {
+      "id": "fatec-2024-1-53",
+      "problem": "Marcadores romanos e parte do apoio apareciam como imagem."
+    },
+    {
+      "id": "fatec-2024-1-33",
+      "problem": "Números de versos não estavam preservados estruturalmente."
+    },
+    {
+      "id": "fatec-2024-1-1",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-2",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-3",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-5",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-11",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-12",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-17",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-20",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-22",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-25",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-27",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-30",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-31",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-35",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-36",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-37",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-38",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-43",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-45",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-46",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-48",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-49",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-1-50",
+      "problem": "Normalização do texto integral para HTML, sem sobrescritos espúrios ou fragmentos em imagem."
+    },
+    {
+      "id": "fatec-2024-2-22",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-23",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-24",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-28",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-43",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-29",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-2",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-3",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-6",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-7",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-8",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-13",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-14",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-26",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-27",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-28",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-29",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-30",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-46",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-47",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-49",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-50",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-51",
+      "problem": "Apoio textual rasterizado/duplicado ou com palavras ausentes na camada HTML."
+    },
+    {
+      "id": "fatec-2024-2-15",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito."
+    },
+    {
+      "id": "fatec-2024-2-16",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito."
+    },
+    {
+      "id": "fatec-2024-2-17",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito."
+    },
+    {
+      "id": "fatec-2024-2-18",
+      "problem": "Apoio com caixa de título rasterizada e q18 com parágrafo inteiro em sobrescrito."
+    },
+    {
+      "id": "fatec-2024-2-12",
+      "problem": "Alternativas corrompidas ou com marcadores internos da extração."
+    },
+    {
+      "id": "fatec-2024-2-33",
+      "problem": "Seta de equilíbrio ausente na equação química."
+    },
+    {
+      "id": "fatec-2024-2-22",
+      "problem": "Marcação I/II solta e imagem da tabela sobrepondo alternativas."
+    },
+    {
+      "id": "fatec-2024-2-43",
+      "problem": "Marcação I/II solta e imagem da tabela sobrepondo alternativas."
+    },
+    {
+      "id": "fatec-2025-2-16",
+      "problem": "Apoio 16–17 ficou fragmentado: manchete convertida em imagem em 16 e ausente em 17."
+    },
+    {
+      "id": "fatec-2025-2-17",
+      "problem": "Apoio 16–17 ficou fragmentado: manchete convertida em imagem em 16 e ausente em 17."
+    },
+    {
+      "id": "fatec-2025-2-21",
+      "problem": "As colunas da tabela de alternativas foram intercaladas; B e C ficaram com texto quase idêntico e o quadro aparece duplicado no enunciado."
+    },
+    {
+      "id": "fatec-2025-2-28",
+      "problem": "Letra da canção em imagem: texto não selecionável, números e destaques dependem da escala da figura."
+    },
+    {
+      "id": "fatec-2025-2-29",
+      "problem": "Letra da canção em imagem: texto não selecionável, números e destaques dependem da escala da figura."
+    },
+    {
+      "id": "fatec-2025-2-30",
+      "problem": "Letra da canção em imagem: texto não selecionável, números e destaques dependem da escala da figura."
+    },
+    {
+      "id": "fatec-2025-2-32",
+      "problem": "Última linha do apoio estava cortada no texto nativo e incorporada ao recorte da figura."
+    },
+    {
+      "id": "fatec-2025-2-33",
+      "problem": "As duas colunas de texto foram lidas alternadamente, quebrando o enunciado em frases sem sentido."
+    },
+    {
+      "id": "fatec-2025-2-37",
+      "problem": "Símbolo de intersecção da alternativa C foi extraído como união deslocada."
+    },
+    {
+      "id": "fatec-2025-2-41",
+      "problem": "O recorte agregado dos cinco gráficos aparece no enunciado e duplica as opções."
+    },
+    {
+      "id": "fatec-2025-2-44",
+      "problem": "Quadro de resultados rasterizado dificulta leitura em tela pequena; disponível em HTML nativo com cabeçalhos."
+    },
+    {
+      "id": "fatec-2025-2-45",
+      "problem": "Quadro de resultados rasterizado dificulta leitura em tela pequena; disponível em HTML nativo com cabeçalhos."
+    },
+    {
+      "id": "fatec-2025-2-46",
+      "problem": "Poema do apoio 46–49 disponível apenas em recorte de imagem, dificultando leitura e seleção."
+    },
+    {
+      "id": "fatec-2025-2-47",
+      "problem": "Poema foi convertido em imagem; em 47 as alternativas ainda absorveram a linha anterior e perderam os sublinhados gramaticalmente necessários."
+    },
+    {
+      "id": "fatec-2025-2-48",
+      "problem": "Poema do apoio 46–49 disponível apenas em recorte de imagem, dificultando leitura e seleção."
+    },
+    {
+      "id": "fatec-2025-2-49",
+      "problem": "Poema do apoio 46–49 disponível apenas em recorte de imagem, dificultando leitura e seleção."
+    },
+    {
+      "id": "fatec-2025-2-13",
+      "problem": "Coeficiente fracionário 25/2 ficou separado no texto plano; equação restaurada em HTML nativo."
+    },
+    {
+      "id": "fatec-2025-2-55",
+      "problem": "Unidade de R ficou isolada em figura antes dos dados, quebrando a leitura da equação."
+    },
+    {
+      "id": "fatec-2025-2-59",
+      "problem": "A definição de fatorial foi duplicada na extração."
+    },
+    {
+      "id": "fatec-2025-2-63",
+      "problem": "O grande recorte dos dois gráficos cobriu linhas do enunciado; faltou “conforme o gráfico 1” na leitura nativa."
+    },
+    {
+      "id": "fatec-2026-1-32",
+      "problem": "Contexto da roda-gigante aparecia como imagem de texto e uma frase nativa truncada/duplicada."
+    },
+    {
+      "id": "fatec-2026-1-33",
+      "problem": "Fórmula h(t) ausente e contexto da roda-gigante substituído por imagem de texto parcialmente cortada."
+    },
+    {
+      "id": "fatec-2026-1-29",
+      "problem": "Texto de apoio continha a própria questão 29 e suas alternativas, misturando itens."
+    },
+    {
+      "id": "fatec-2026-1-30",
+      "problem": "Texto de apoio continha a própria questão 29 e suas alternativas, misturando itens."
+    },
+    {
+      "id": "fatec-2026-1-36",
+      "problem": "A fórmula de crescimento não foi extraída e o enunciado ficou insolúvel sem o valor inicial."
+    },
+    {
+      "id": "fatec-2026-1-37",
+      "problem": "Multiplicador 1/2 desapareceu; posição da figura interrompia a frase e matriz só tinha representação visual."
+    },
+    {
+      "id": "fatec-2026-1-10",
+      "problem": "Símbolos de multiplicação e potências do enunciado ficaram ambíguos no texto extraído."
+    },
+    {
+      "id": "fatec-2026-1-41",
+      "problem": "Figuras das estruturas químicas cortam átomos inferiores. Fórmulas estruturais condensadas equivalentes restauram todos os grupos."
+    },
+    {
+      "id": "fatec-2026-1-42",
+      "problem": "Figuras das estruturas químicas cortam átomos inferiores. Fórmulas estruturais condensadas equivalentes restauram todos os grupos."
+    },
+    {
+      "id": "fatec-2026-1-46",
+      "problem": "Contexto incluía questões 47 e 48 e suas alternativas. Apoio agora limitado ao texto e infográfico corretos."
+    },
+    {
+      "id": "fatec-2026-1-47",
+      "problem": "Contexto incluía questões 47 e 48 e suas alternativas. Apoio agora limitado ao texto e infográfico corretos."
+    },
+    {
+      "id": "fatec-2026-1-48",
+      "problem": "Contexto incluía questões 47 e 48 e suas alternativas. Alternativas gráficas estavam vazias na UI."
+    },
+    {
+      "id": "fatec-2026-1-1",
+      "problem": "Quadro de compatibilidade tinha leitura linear sem correspondência clara entre cabeçalhos e linhas."
+    },
+    {
+      "id": "fatec-2026-2-10",
+      "problem": "Fração e raiz do enunciado foram fragmentadas em pedaços e imagens minúsculas, com leitura em ordem incorreta."
+    },
+    {
+      "id": "fatec-2026-2-12",
+      "problem": "Fator 4/3 está separado do restante da fórmula e entre duas metades da frase. A legenda do diagrama Trionda está cortada: falta “transformam em curvas.” no apoio. O recorte também inclui uma parte da faixa de título."
+    },
+    {
+      "id": "fatec-2026-2-15",
+      "problem": "Lacunas I/II e fórmula de imunidade aparecem fora de ordem e parcialmente como figuras."
+    },
+    {
+      "id": "fatec-2026-2-25",
+      "problem": "Expressão de concentração é um recorte pequeno; substituição por fórmula nativa torna a leitura contínua."
+    },
+    {
+      "id": "fatec-2026-2-27",
+      "problem": "A unidade °C e o início da frase foram colocados em ordem incorreta na extração."
+    },
+    {
+      "id": "fatec-2026-2-36",
+      "problem": "Alternativas foram extraídas com símbolos e rótulos A–E repetidos; sobra um φ no enunciado."
+    },
+    {
+      "id": "fatec-2026-2-38",
+      "problem": "Lei geral dos gases fragmentada em dois recortes e texto com igualdade fora de ordem."
+    },
+    {
+      "id": "fatec-2026-2-56",
+      "problem": "O poema perdeu a separação dos versos, ficando em prosa corrida; o título do apoio virou imagem de faixa cinza."
+    },
+    {
+      "id": "fatec-2026-2-57",
+      "problem": "O poema perdeu a separação dos versos, ficando em prosa corrida; o título do apoio virou imagem de faixa cinza."
+    },
+    {
+      "id": "fatec-2026-2-6",
+      "problem": "Tabela já estava inteira na figura, mas convertida em HTML nativo para evitar perda de legibilidade em tela pequena."
+    },
+    {
+      "id": "fatec-2026-2-14",
+      "problem": "Tabela já estava inteira na figura, mas convertida em HTML nativo para evitar perda de legibilidade em tela pequena."
+    },
+    {
+      "id": "fatec-2026-2-11",
+      "problem": "A legenda do diagrama Trionda está cortada: falta “transformam em curvas.” no apoio. O recorte também inclui uma parte da faixa de título."
+    },
+    {
+      "id": "fatec-2026-2-13",
+      "problem": "A legenda do diagrama Trionda está cortada: falta “transformam em curvas.” no apoio. O recorte também inclui uma parte da faixa de título."
+    },
+    {
+      "id": "fatec-2026-2-51",
+      "problem": "O recorte do mapa inclui a frase inicial e parte da linha seguinte, que fica cortada no rodapé do recorte."
+    },
+    {
+      "id": "fatec-2026-2-44",
+      "problem": "O próprio PDF chama o jogo Brasil–Itália de 1938 de “final”, mas foi semifinal. Não é erro de extração: preservar a transcrição e, se desejado, acrescentar nota editorial separada. Isso não altera a alternativa D.",
+      "sourceIssue": true
+    },
+    {
+      "id": "fatec-2026-2-46",
+      "problem": "ERRO GRAVE: alternativas visuais ficaram vazias (<p></p>) e foram misturadas em uma imagem longa no enunciado. Separar as cinco figuras, preservando P somente na figura de referência."
+    },
+    {
+      "id": "fatec-2026-2-55",
+      "problem": "A primeira instrução ficou dentro da imagem e perdeu-se a ordem entre charge e comando. Separar figura e texto nativo."
+    },
+    {
+      "id": "fatec-2026-2-58",
+      "problem": "Coletânea jornalística foi parcialmente absorvida em uma imagem de caixa, duplicando a primeira manchete e omitindo outros trechos nativos. Reconstrução integral dos dois textos como HTML."
+    },
+    {
+      "id": "fatec-2026-2-59",
+      "problem": "Coletânea jornalística foi parcialmente absorvida em uma imagem de caixa, duplicando a primeira manchete e omitindo outros trechos nativos. Reconstrução integral dos dois textos como HTML."
+    },
+    {
+      "id": "fatec-2024-2-23",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-2-48",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-2-49",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-2-39",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-2-41",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-1-20",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-1-21",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2023-1-43",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário."
+    },
+    {
+      "id": "fatec-2024-1-42",
+      "problem": "Os recortes dos gráficos cortavam o início do título do eixo. Título nativo e esboços completos separados."
+    }
+  ]
+}

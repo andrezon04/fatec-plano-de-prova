@@ -1,0 +1,699 @@
+{
+  "solutions": {
+    "fatec-2025-2-1": {
+      "explanation": "O texto I associa a economia verde à inclusão social, ao bem-estar e ao respeito aos limites ambientais. O extrativismo das quebradeiras de babaçu apresentado no texto II articula renda, identidade de um povo tradicional e preservação dos babaçuais. Portanto, o exemplo concretiza os princípios, em vez de contrariá-los: alternativa C."
+    },
+    "fatec-2025-2-2": {
+      "explanation": "“Portanto” liga a atividade extrativista às consequências para identidade e direitos das quebradeiras, estabelecendo uma conclusão. Pode ser substituído, nesse contexto, por “logo” ou “então”. “Significativamente” é advérbio, e o relativo “que” retoma as mulheres, não o substantivo grupo. Por isso, a análise correta é E."
+    },
+    "fatec-2025-2-3": {
+      "explanation": "Na sequência “salvaguardar a natureza, restaurá-la e investir nela”, as três ações têm a natureza como referente. O pronome oblíquo “a”, ligado a restaurar e transformado em “la” após a retirada do r final, retoma esse substantivo feminino singular. Não retoma a equidade nem a qualidade de vida: alternativa E."
+    },
+    "fatec-2025-2-4": {
+      "explanation": "Um contraexemplo deve apresentar uma situação contrária à destruição ambiental provocada pelos próprios seres humanos descrita no excerto. A alternativa D destaca terraços agrícolas incas que possibilitavam produzir alimentos preservando o ambiente. As demais opções descrevem crises, guerras ou degradação e, portanto, não fornecem esse contraste de uso sustentável."
+    },
+    "fatec-2025-2-5": {
+      "explanation": "A Revolução Verde difundiu sementes melhoradas, mecanização agrícola, irrigação e insumos químicos para elevar a produtividade. O conjunto descrito em D corresponde a essa modernização tecnológica, incluindo seus possíveis custos ambientais e sanitários. Técnicas artesanais e práticas exclusivamente tradicionais não caracterizam a transformação mencionada no enunciado."
+    },
+    "fatec-2025-2-6": {
+      "explanation": "O texto atribui à adubação verde o aumento da fixação biológica de nitrogênio e a recuperação da fertilidade. Também informa que ela pode reduzir o emprego de fertilizantes nitrogenados e pesticidas, diminuindo riscos de poluição. A alternativa D reúne os dois efeitos; as demais trocam os agentes e processos ou contradizem o texto."
+    },
+    "fatec-2025-2-7": {
+      "explanation": "As bactérias Rhizobium transformam o N₂ atmosférico em compostos nitrogenados assimiláveis pelas leguminosas. Em contrapartida, recebem matéria orgânica produzida pela planta na fotossíntese. Essa troca caracteriza a simbiose mencionada. As raízes não absorvem diretamente o gás N₂ para substituir essa ação bacteriana; a descrição correta está em E."
+    },
+    "fatec-2025-2-8": {
+      "explanation": "O Proálcool, criado em 1975, incentivou o álcool combustível obtido de matéria-prima biológica, sobretudo a cana-de-açúcar, como alternativa à dependência do petróleo. Por isso, exemplifica a substituição de recurso fóssil por recurso biológico indicada no texto. As outras instituições ou empresas não correspondem ao programa dos anos 1970 descrito: alternativa C."
+    },
+    "fatec-2025-2-9": {
+      "explanation": "A reação narrada deve incluir CO₂, água e estearato de sódio como reagentes, formando ácido esteárico e bicarbonato de sódio. A alternativa C apresenta precisamente essas espécies e mantém o balanço dos átomos. A e B trocam o dióxido de carbono por fórmulas diferentes; D e E omitem ou deslocam espécies necessárias."
+    },
+    "fatec-2025-2-10": {
+      "explanation": "A árvore captura 75 × 10²³ moléculas de CO₂. Dividindo por 6 × 10²³ moléculas/mol, obtemos 12,5 mol, equivalentes a 12,5 × 44 = 550 g. Como cada camiseta captura 22 g por dia, X = 550 ÷ 22 = 25 camisetas. A alternativa correta é E."
+    },
+    "fatec-2025-2-11": {
+      "explanation": "A rotação trienal alternava o uso das partes do terreno, incluindo um período de repouso ou pousio. Isso favorecia a recuperação da fertilidade, reduzindo o desgaste causado pelo cultivo contínuo e permitindo maior produção. Não mantinha toda a vegetação original intocada nem empregava motores a combustão. A vantagem apresentada corretamente é A."
+    },
+    "fatec-2025-2-12": {
+      "explanation": "O biogás resulta da decomposição de matéria orgânica por micro-organismos, em condições com pouco ou nenhum oxigênio, gerando uma mistura com metano aproveitável como combustível. Resíduos vegetais e animais podem ser utilizados nesse processo. Não se trata de extrair metano de CO₂ nem de eletrólise da água: alternativa A."
+    },
+    "fatec-2025-2-13": {
+      "explanation": "Pelas equações fornecidas, a combustão de 1 mol de metano gera 1 mol de CO₂, enquanto 1 mol de octano gera 8 mol de CO₂. Essa menor emissão por mol de combustível é a comparação usada pela questão para justificar o impacto ambiental. Ambas as combustões liberam energia. A alternativa D expressa o critério pedido."
+    },
+    "fatec-2025-2-14": {
+      "explanation": "Igualando a potência a 630, temos −5v² + 160v − 470 = 630. Reorganizando e dividindo por −5: v² − 32v + 220 = 0, ou (v − 10)(v − 22) = 0. As raízes são 10 e 22 m/s, mas o domínio é de 4 a 16 m/s. Só 10 m/s é admissível: C."
+    },
+    "fatec-2025-2-15": {
+      "explanation": "Primeiro, coloque as duas energias na mesma unidade: 450 MWh = 450 000 kWh. Cada habitante representa consumo de 50 kWh no período considerado. Assim, a população equivalente é 450 000 ÷ 50 = 9 000 pessoas. A conversão correta entre mega e quilo evita um erro de mil vezes: alternativa A."
+    },
+    "fatec-2025-2-16": {
+      "explanation": "Na manchete, “bigger than” significa “maior do que” e forma um comparativo de superioridade. No subtítulo, a estrutura “as much energy as” indica “tanta energia quanto” e estabelece igualdade. Portanto, aparecem um comparativo de superioridade e outro de igualdade, exatamente como afirma a alternativa A."
+    },
+    "fatec-2025-2-17": {
+      "explanation": "O texto associa gerar uma imagem ao carregamento completo do celular. A capacidade de 3 000 mAh corresponde a 3 Ah; multiplicando pela tensão de 5,0 V, a energia é E = 3 × 5 = 15 Wh. Não se deve multiplicar o valor em mAh diretamente sem converter o prefixo mili. Resposta C."
+    },
+    "fatec-2025-2-18": {
+      "explanation": "A esquistossomose é uma parasitose por verme do gênero Schistosoma, com participação de caramujos de água doce no ciclo. Essa é a descrição da alternativa D. A cólera é bacteriana, não viral; leptospirose também é bacteriana. Telas contra insetos não interrompem a transmissão da esquistossomose, que envolve contato com água contaminada."
+    },
+    "fatec-2025-2-19": {
+      "explanation": "A economia circular busca manter materiais e recursos em uso, reduzindo desperdícios por reutilização, reciclagem e regeneração. A alternativa C expressa esse objetivo. Aumentar emissões ou consumo, maximizar impactos negativos e classificar energia solar ou eólica como não renovável contrariam o princípio apresentado."
+    },
+    "fatec-2025-2-20": {
+      "explanation": "O próprio diagrama identifica a economia sustentável como A ∩ B ∩ C ∩ D. A intersecção reúne elementos que pertencem simultaneamente aos conjuntos representados, incluindo bioeconomia, economia de baixo carbono e economia circular. A alternativa E respeita essa leitura; as demais trocam intersecção por inclusão ou afirmam separações inexistentes."
+    },
+    "fatec-2025-2-21": {
+      "explanation": "Rita já escolheu biocombustíveis. Como Caio e Carlos não podem escolher meio ambiente e recursos hídricos, essa área cabe a Rose, que também não quer gestão ambiental. A alternativa C é a única apresentada que respeita todas essas restrições: Rose em recursos hídricos, Carlos em produção agropecuária e Caio em gestão ambiental."
+    },
+    "fatec-2025-2-22": {
+      "explanation": "Resíduos da cadeia da cana-de-açúcar podem ser aproveitados para produzir biogás, convertendo matéria orgânica em uma fonte energética. Esse é o aspecto positivo indicado em E. Contaminação de águas, perda de biodiversidade, poluição por queima e aumento de pragas, citados nas demais opções, são impactos negativos."
+    },
+    "fatec-2025-2-23": {
+      "explanation": "A perda dos instrumentos de trabalho pelos artesãos, a expansão do assalariamento, o ritmo fabril e as condições insalubres das instalações caracterizam a Revolução Industrial. O texto descreve a passagem para uma produção concentrada em fábricas e controlada por proprietários dos meios de produção. Por isso, a resposta é C."
+    },
+    "fatec-2025-2-24": {
+      "explanation": "A questão pede um aspecto negativo, não uma vantagem dos biocombustíveis. A expansão de culturas energéticas pode disputar terras com a produção alimentar, pressionando a oferta e o preço dos alimentos. Essa competição aparece em B. As outras alternativas apresentam benefícios, como renovabilidade, empregos ou redução da dependência de combustíveis fósseis."
+    },
+    "fatec-2025-2-25": {
+      "explanation": "Uma diferença de potencial entre os eletrodos está associada a um campo elétrico. Como os íons de sódio têm carga elétrica, esse campo exerce força sobre eles e pode provocar seu movimento pelo eletrólito. O fenômeno físico pertinente é, portanto, a movimentação de cargas em um campo elétrico: alternativa D."
+    },
+    "fatec-2025-2-26": {
+      "explanation": "A História Ambiental considera a interação entre sociedades e natureza e rejeita a ideia de uma humanidade independente das restrições ecológicas. Isso inclui reconhecer consequências atuais das intervenções passadas. A alternativa C traduz essa relação; as demais retomam justamente a separação entre ação humana e ambiente que o texto critica."
+    },
+    "fatec-2025-2-27": {
+      "explanation": "A charge contrasta o discurso verbal sobre sustentabilidade com uma cena visual de degradação. Esse contraste faz o leitor perceber uma crítica ao que é afirmado, produzindo ironia. Não há mera suavização do problema nem uma personificação de máquinas que explique o humor. A leitura correta é E."
+    },
+    "fatec-2025-2-28": {
+      "explanation": "A sequência utiliza as cinco primeiras consoantes de cada verso, ignorando espaços e vogais. Em “Se tem muita pressão”, elas são S, T, M, M, T. Aplicando a regra a “Que é pra ser gentil”, obtemos Q, P, R, S, R. Portanto, a alternativa A mantém a lógica dos exemplos."
+    },
+    "fatec-2025-2-29": {
+      "explanation": "O código numera o alfabeto a partir de zero: A = 00, B = 01, e assim por diante. A sequência 00–03–20–11–19–14 corresponde a A–D–U–L–T–O, isto é, ADULTO. A palavra está no verso 11, “Pra ser um adulto sem tumulto”. Logo, a alternativa D é correta."
+    },
+    "fatec-2025-2-30": {
+      "explanation": "No verso 11, “pra” equivale a “para” e introduz uma finalidade: “a fim de ser um adulto sem tumulto”. Essa é a análise de E. “Se”, no verso inicial, indica condição; “conforme” não é equivalente adequado à comparação introduzida por “como”. As demais classificações não correspondem ao emprego dos termos na canção."
+    },
+    "fatec-2025-2-31": {
+      "explanation": "O texto define CCS como captar CO₂ em suas fontes de emissão, transportá-lo e armazená-lo em um local subterrâneo profundo adequado. A alternativa B mantém tanto a substância quanto o procedimento descritos. Não se trata de capturar oxigênio, converter monóxido de carbono ou enterrar as próprias instalações emissoras."
+    },
+    "fatec-2025-2-32": {
+      "explanation": "Dos dez alimentos no gráfico, oito são fontes importantes de proteína: carnes bovina, de cordeiro, suína e avina, camarão, peixe, queijo e ovo. Oito é mais da metade de dez. Chocolate amargo e café não tornam todos os itens fontes de fibras ou açúcares. A classificação que corresponde ao conjunto é B."
+    },
+    "fatec-2025-2-33": {
+      "explanation": "O gráfico de barras informa 46,6 kg de CO₂ equivalente por quilograma de chocolate amargo. No gráfico de setores, o desmatamento representa 55,4% desse total. Portanto, a parcela procurada é 46,6 × 0,554 = 25,8164 kg, aproximadamente 25,8 kg. A alternativa A resulta da aplicação do percentual à base correta."
+    },
+    "fatec-2025-2-34": {
+      "explanation": "O texto associa economia à administração de recursos, ecologia às relações entre seres vivos e ambiente, e equidade a oportunidades e decisões justas. A alternativa D reúne esses três eixos. As outras acrescentam elementos não mencionados, como seleção de trabalhadores de alto desempenho, agentes estrangeiros ou órgãos internacionais."
+    },
+    "fatec-2025-2-35": {
+      "explanation": "A probabilidade de adesão é 60%. Entre as aderentes, 80% atingiram a meta, logo 20% não a atingiram. Para ocorrerem conjuntamente adesão e descumprimento, multiplicamos 0,60 × 0,20 = 0,12, isto é, 12%. Usar apenas 20% ignoraria que essa proporção se refere somente ao grupo aderente. Alternativa A."
+    },
+    "fatec-2025-2-36": {
+      "explanation": "No ano de 2025, o expoente do modelo é 2025 − 2016 = 9. Então N(2025) = 70 × 2⁹ = 70 × 512 = 35 840 veículos. O crescimento é exponencial: o número de anos entra no expoente, não como simples fator multiplicando 70. A resposta correta é D."
+    },
+    "fatec-2025-2-37": {
+      "explanation": "Para obter os alimentos que continuam permitidos, é preciso partir dos alimentos consumidos antes, conjunto A, e retirar os que contêm carne, conjunto C. Essa operação é a diferença de conjuntos A − C. União acrescentaria elementos e intersecção selecionaria alimentos com carne, contrariando a mudança descrita. Alternativa E."
+    },
+    "fatec-2025-2-38": {
+      "explanation": "O texto atribui à manutenção da floresta um valor econômico superior ao obtido por formas de exploração destrutiva. Portanto, desmatar significa perder biodiversidade e também destruir riqueza associada à preservação. Essa conclusão aparece em E. O texto não sustenta que converter floresta em soja ou pastagem seja mais rentável."
+    },
+    "fatec-2025-2-39": {
+      "explanation": "A produção cafeeira do Vale do Paraíba enfrentou desgaste dos solos e dificuldades para ampliar a mão de obra escravizada após o fim do tráfico transatlântico. Esses fatores contribuíram para o deslocamento da expansão ao Oeste Paulista. A alternativa A reúne essas condições; a Lei de Terras não distribuiu gratuitamente terras aos camponeses."
+    },
+    "fatec-2025-2-40": {
+      "explanation": "Platina e irídio são metais de transição. Na Tabela Periódica, ambos ficam na sexta linha, isto é, no mesmo período, mas em grupos diferentes: irídio no grupo 9 e platina no grupo 10. A alternativa B distingue corretamente período, que é horizontal, de grupo, que corresponde às colunas."
+    },
+    "fatec-2025-2-41": {
+      "explanation": "A eletrólise descrita é endotérmica, então os produtos devem ficar em nível energético superior ao dos reagentes. O catalisador reduz a energia de ativação, fazendo a curva catalisada apresentar um pico menor, sem mudar os níveis inicial e final nem o ΔH da reação. O gráfico B satisfaz simultaneamente esses requisitos."
+    },
+    "fatec-2025-2-42": {
+      "explanation": "O soro antiofídico fornece anticorpos já produzidos, capazes de atuar sobre componentes do veneno. Isso caracteriza imunização passiva e corresponde à alternativa D. Uma vacina estimula a produção de anticorpos pelo próprio organismo e não substitui esse tratamento imediato; antígenos não são os anticorpos presentes no soro."
+    },
+    "fatec-2025-2-43": {
+      "explanation": "A retirada e o tráfico ilegais de organismos ou recursos biológicos podem reduzir populações naturais, comprometer seu equilíbrio e contribuir para extinções. Assim, prejudicam a biodiversidade nacional, como afirma B. O caráter ilegal também impede classificar a biopirataria como exploração legal ou como uma melhoria genética da fauna."
+    },
+    "fatec-2025-2-44": {
+      "explanation": "Na linha de Elias, aparecem dois empates e duas derrotas, sem nenhuma vitória. Ele tem, portanto, mais empates que vitórias e não venceu nenhum adversário. Os outros participantes conquistaram ao menos uma vitória. A afirmação que reúne corretamente os resultados da tabela é E."
+    },
+    "fatec-2025-2-45": {
+      "explanation": "Alice, Bruno, Carla e Diego tiveram pelo menos uma vitória; somente Elias não venceu. Como a escolha é aleatória entre cinco jogadores e quatro atendem à condição, a probabilidade é 4/5 = 0,8 = 80%. A questão não pergunta a fração de partidas vencidas, mas a fração de jogadores com vitória. Alternativa B."
+    },
+    "fatec-2025-2-46": {
+      "explanation": "Os versos ligam a luta das “senhoras guerreiras” ao custeio da alimentação e, depois, à circulação do produto no país e em outras nações. Assim, o extrativismo sustenta as mulheres e fornece matéria-prima para o comércio e a exportação. Essa articulação aparece em D; não se fala em desperdício ou em importação."
+    },
+    "fatec-2025-2-47": {
+      "explanation": "Em “A natureza traz o fruto, a perfeição”, o grupo “A natureza” é sujeito de “traz”: identifica quem pratica a ação e com quem o verbo concorda. O núcleo sublinhado é “natureza”, por isso C. Nas demais alternativas, os termos destacados não exercem essa função na estrutura apresentada."
+    },
+    "fatec-2025-2-48": {
+      "explanation": "A segunda pessoa do plural corresponde a “vós”. O imperativo afirmativo do verbo ir nessa pessoa é “ide”: “ide à luta”. A forma “vão” está associada a vocês, terceira pessoa do plural, e “vamos” à primeira pessoa do plural. Logo, a forma solicitada é a apresentada em C."
+    },
+    "fatec-2025-2-49": {
+      "explanation": "A natureza recebe uma ação apresentada como atuação de um agente humano: “traz o fruto, a perfeição”. Esse recurso é a personificação, também chamada prosopopeia. Não ocorre uma oposição de ideias, contradição lógica ou suavização de expressão que justifique as outras classificações. A alternativa correta é E."
+    },
+    "fatec-2025-2-50": {
+      "explanation": "A imagem utiliza humor para criticar a falta de preparo e de precaução diante da crise climática. Esse vínculo com uma questão social e ambiental concreta caracteriza a charge indicada em C. O objetivo crítico não é apenas aliviar tensões, reproduzir de modo neutro a cena ou elogiar medidas paliativas."
+    },
+    "fatec-2025-2-51": {
+      "explanation": "Em “despreparado”, o prefixo des- acrescenta à base uma ideia de ausência ou negação de preparo. O mesmo prefixo aparece em “desabrigo”, que expressa falta de abrigo. A simples presença de letras parecidas no início de outra palavra não garante que haja esse mesmo processo de formação. Alternativa D."
+    },
+    "fatec-2025-2-52": {
+      "explanation": "A expressão informa o valor de f no argumento 2 − x. Para calcular f(−1), precisamos fazer 2 − x = −1, obtendo x = 3. Substituindo no lado direito, f(−1) = 3 × 3² = 27. Substituir x = −1 diretamente confundiria x com o argumento da função. Resposta D."
+    },
+    "fatec-2025-2-53": {
+      "explanation": "O volume do cilindro é área da base vezes altura: V = 200 000 × 5 = 1 000 000 m³. Como 1 m³ corresponde a 1 000 litros, o volume é 1 000 000 000 litros. O dado já fornece a área da base, de modo que não é necessário calcular πr². Alternativa E."
+    },
+    "fatec-2025-2-54": {
+      "explanation": "Os cartazes pedem a separação e o reaproveitamento de materiais para os esforços de guerra. A reciclagem permitia obter matérias-primas necessárias à produção de armamentos e outros suprimentos. Por isso, B traduz a finalidade histórica das campanhas; elas não pedem que cada família retenha esses materiais em estoque."
+    },
+    "fatec-2025-2-55": {
+      "explanation": "Converta a massa: 330 milhões de toneladas = 3,30 × 10¹⁴ g. O número de mols é n = m/M = (3,30 × 10¹⁴)/44 = 7,50 × 10¹² mol. Pela equação PV = nRT, V = 7,50 × 10¹² × 0,082 × 300 ≈ 1,845 × 10¹⁴ L. A aproximação corresponde a E."
+    },
+    "fatec-2025-2-56": {
+      "explanation": "“Food miles” designa o percurso dos alimentos entre seu lugar de produção e o consumidor. A campanha apresenta origens de produtos e distâncias de transporte para tornar esse deslocamento perceptível. A alternativa D traduz o conceito; a expressão não significa quantidade de alimentos, viagens turísticas ou diretamente a massa de CO₂ emitida."
+    },
+    "fatec-2025-2-57": {
+      "explanation": "Ao destacar as distâncias percorridas pelos alimentos, a campanha convida o leitor a refletir sobre os impactos do transporte e a preferir produtos locais e da estação. Essa intenção corresponde a A. Incentivar exportações, intercâmbio de sementes ou simplesmente celebrar a oferta globalizada de produtos não é o objetivo persuasivo apresentado."
+    },
+    "fatec-2025-2-58": {
+      "explanation": "As mudas mantêm distância constante, logo suas posições formam uma progressão aritmética. Da primeira posição, 2 m, à terceira, 18 m, há duas diferenças iguais: 2r = 18 − 2 = 16, então r = 8 m. A segunda está a 10 m, de modo que x = 4. A classificação pedida é E."
+    },
+    "fatec-2025-2-59": {
+      "explanation": "SEMENTES tem oito letras, mas E ocorre três vezes e S duas vezes. Como trocas entre letras iguais não geram novas palavras, o total de permutações distintas é 8!/(3! × 2!), e não simplesmente 8!. Esse quociente é a expressão apresentada na alternativa B e vale 3 360."
+    },
+    "fatec-2025-2-60": {
+      "explanation": "Para o concreto, Δθ = Q/(mc) = 75 × 10⁶/(5 000 × 1 000) = 15 °C. O enunciado informa que o telhado verde reduz a temperatura em 5 °C nessa mesma situação. Assim, a variação com a cobertura vegetal é 15 − 5 = 10 °C, correspondente à alternativa D."
+    },
+    "fatec-2025-2-61": {
+      "explanation": "A energia luminosa refletida deixa de entrar no material semicondutor. Ao reduzir a parcela refletida, o revestimento permite maior transmissão da luz para o painel e, nas condições descritas, maior absorção disponível para conversão elétrica. A alternativa A apresenta esse encadeamento; refletir toda a luz teria o efeito contrário."
+    },
+    "fatec-2025-2-62": {
+      "explanation": "O telhado tem área 8 × 5 = 40 m² e cada placa ocupa 1 × 2 = 2 m². Cabem 20 placas sem sobreposição. Elas geram 20 × 1,2 = 24 kWh por dia; em 30 dias, 24 × 30 = 720 kWh. A geometria permite essa disposição no retângulo, portanto a alternativa E é correta."
+    },
+    "fatec-2025-2-63": {
+      "explanation": "No gráfico 2, a posição passa de 50 km para 200 km em 1,5 h. A velocidade é (200 − 50)/1,5 = 100 km/h. Para essa velocidade, o gráfico 1 registra consumo de 12,5 L no teste. Multiplicando pela emissão de 2 kg por litro, obtemos 25 kg de CO₂: alternativa C."
+    },
+    "fatec-2025-2-64": {
+      "explanation": "Projetos de energia limpa e renovável podem reduzir emissões de gases de efeito estufa em relação ao cenário de referência. Essa redução é compatível com a finalidade dos créditos de carbono descrita no enunciado. Ampliar combustíveis fósseis, desmatar ou incentivar emissões segue na direção oposta. A iniciativa adequada é E."
+    }
+  },
+  "issues": [
+    {
+      "id": "fatec-2025-2-16",
+      "problem": "Apoio 16–17 ficou fragmentado: manchete convertida em imagem em 16 e ausente em 17.",
+      "fix": {
+        "contextText": "ARTIFICAL INTELLIGENCE\nAI’s carbon footprint is bigger than you think\nGenerating one image takes as much energy as fully charging your smartphone.\nBy Melissa Heikkilä\nDecember 5, 2023\n<https://tinyurl.com/4es9fs6a> Acesso em: 04.10.2024.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 16 e 17.</strong></p><p><strong>ARTIFICAL INTELLIGENCE</strong></p><p><strong>AI’s carbon footprint is bigger than you think</strong></p><p>Generating one image takes as much energy as fully charging your smartphone.</p><p>By Melissa Heikkilä<br>December 5, 2023</p><p>&lt;https://tinyurl.com/4es9fs6a&gt; Acesso em: 04.10.2024.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>ARTIFICAL INTELLIGENCE</p><p>AI’s carbon footprint is bigger than you think</p><p>Generating one image takes as much energy as fully charging your smartphone.</p><p>By Melissa Heikkilä</p><p>December 5, 2023</p><p>&lt;https://tinyurl.com/4es9fs6a&gt; Acesso em: 04.10.2024.</p><p>O texto apresenta</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-17",
+      "problem": "Apoio 16–17 ficou fragmentado: manchete convertida em imagem em 16 e ausente em 17.",
+      "fix": {
+        "contextText": "ARTIFICAL INTELLIGENCE\nAI’s carbon footprint is bigger than you think\nGenerating one image takes as much energy as fully charging your smartphone.\nBy Melissa Heikkilä\nDecember 5, 2023\n<https://tinyurl.com/4es9fs6a> Acesso em: 04.10.2024.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 16 e 17.</strong></p><p><strong>ARTIFICAL INTELLIGENCE</strong></p><p><strong>AI’s carbon footprint is bigger than you think</strong></p><p>Generating one image takes as much energy as fully charging your smartphone.</p><p>By Melissa Heikkilä<br>December 5, 2023</p><p>&lt;https://tinyurl.com/4es9fs6a&gt; Acesso em: 04.10.2024.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Para o carregamento da bateria de um celular, considere os seguintes dados:</p><p>• o valor médio da carga completa da bateria é de 3 000 mAh; e</p><p>• o potencial elétrico de operação é 5,0 V.</p><p>Com base nesses dados e na informação contida no texto, podemos afirmar corretamente que uma imagem gerada por</p><p>IA Gen consome, aproximadamente, energia equivalente, em Wh, a</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-21",
+      "problem": "As colunas da tabela de alternativas foram intercaladas; B e C ficaram com texto quase idêntico e o quadro aparece duplicado no enunciado.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A economia verde depende de profissionais voltados para o desenvolvimento sustentável. Entre as possíveis áreas de atuação, pode-se citar</p><p><strong>•\t gestão ambiental</strong>, que trabalha na redução de impactos ambientais;</p><p><strong>•\t biocombustíveis</strong>, que desenvolve combustíveis a partir de matéria orgânica de origem vegetal ou animal;</p><p><strong>•\t produção agropecuária</strong>, que pode promover práticas agropecuárias ecológicas; e</p><p><strong>•\t meio ambiente e recursos hídricos</strong>, que asseguram o uso eficiente dos recursos naturais, principalmente água. Quatro estudantes, Rose, Caio, Rita e Carlos, estão decididos a atuar em apenas uma dentre as áreas mencionadas. Sabe-se que:</p><p>•\t cada área será escolhida por apenas um dos estudantes;</p><p>•\t Rose não quer trabalhar com a redução de impactos ambientais;</p><p>•\t Caio e Carlos não querem trabalhar com o uso eficiente de recursos naturais; e</p><p>•\t Rita quer trabalhar com o desenvolvimento de biocombustíveis. Assinale a alternativa que é a única associação correta possível entre área escolhida e o estudante a partir das informações apresentadas.</p>"
+          }
+        ],
+        "options": [
+          "Rose: tecnólogo em biocombustíveis; Carlos: tecnólogo em meio ambiente e recursos hídricos; Caio: tecnólogo em gestão ambiental.",
+          "Rose: tecnólogo em gestão ambiental; Carlos: tecnólogo em meio ambiente e recursos hídricos; Caio: tecnólogo em produção agropecuária.",
+          "Rose: tecnólogo em meio ambiente e recursos hídricos; Carlos: tecnólogo em produção agropecuária; Caio: tecnólogo em gestão ambiental.",
+          "Rose: tecnólogo em biocombustíveis; Carlos: tecnólogo em produção agropecuária; Caio: tecnólogo em meio ambiente e recursos hídricos.",
+          "Rose: tecnólogo em produção agropecuária; Carlos: tecnólogo em gestão ambiental; Caio: tecnólogo em biocombustíveis."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>Rose: tecnólogo em biocombustíveis; Carlos: tecnólogo em meio ambiente e recursos hídricos; Caio: tecnólogo em gestão ambiental.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Rose: tecnólogo em gestão ambiental; Carlos: tecnólogo em meio ambiente e recursos hídricos; Caio: tecnólogo em produção agropecuária.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Rose: tecnólogo em meio ambiente e recursos hídricos; Carlos: tecnólogo em produção agropecuária; Caio: tecnólogo em gestão ambiental.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Rose: tecnólogo em biocombustíveis; Carlos: tecnólogo em produção agropecuária; Caio: tecnólogo em meio ambiente e recursos hídricos.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Rose: tecnólogo em produção agropecuária; Carlos: tecnólogo em gestão ambiental; Caio: tecnólogo em biocombustíveis.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-28",
+      "problem": "Letra da canção em imagem: texto não selecionável, números e destaques dependem da escala da figura.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 28 a 30.</strong></p><p>A canção <em>Sementes</em>, composta por Drik Barbosa, Emicida, Nave e Thiago Jamelão, propõe sensibilizar, conscientizar e mudar o cenário do trabalho infantil por meio da poesia. Acompanhe um trecho.</p><p><span>01. <strong>Se</strong> tem muita pressão</span><br><span>02. Não desenvolve a semente</span><br><span>03. É a mesma coisa com a gente</span><br><span>04. <strong>Que</strong> é pra ser gentil</span><br><span>05. <strong>Como</strong> flor é pra florir</span><br><span>06. Mas sem água, sol e tempo</span><br><span>07. Que botão vai <strong>se</strong> abrir?</span><br><span>08. É muito triste, muito cedo</span><br><span>09. É muito covarde</span><br><span>10. Cortar infâncias pela metade</span><br><span>11. <strong>Pra</strong> ser um adulto sem tumulto</span><br><span>12. Não existe atalho, em resumo</span><br><span>13. Crianças não têm trabalho, não, não, não</span><br></p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Utilizando os 3 primeiros versos da canção, é possível criar as sequências de letras:</p><p>• S, T, M, M, T.</p><p>• N, D, S, N, V.</p><p>• M, S, M, C, S.</p><p>Essas sequências possuem uma determinada lógica de formação.</p><p>Caso a mesma lógica fosse aplicada ao quarto verso da canção, a sequência correspondente seria</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-29",
+      "problem": "Letra da canção em imagem: texto não selecionável, números e destaques dependem da escala da figura.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 28 a 30.</strong></p><p>A canção <em>Sementes</em>, composta por Drik Barbosa, Emicida, Nave e Thiago Jamelão, propõe sensibilizar, conscientizar e mudar o cenário do trabalho infantil por meio da poesia. Acompanhe um trecho.</p><p><span>01. <strong>Se</strong> tem muita pressão</span><br><span>02. Não desenvolve a semente</span><br><span>03. É a mesma coisa com a gente</span><br><span>04. <strong>Que</strong> é pra ser gentil</span><br><span>05. <strong>Como</strong> flor é pra florir</span><br><span>06. Mas sem água, sol e tempo</span><br><span>07. Que botão vai <strong>se</strong> abrir?</span><br><span>08. É muito triste, muito cedo</span><br><span>09. É muito covarde</span><br><span>10. Cortar infâncias pela metade</span><br><span>11. <strong>Pra</strong> ser um adulto sem tumulto</span><br><span>12. Não existe atalho, em resumo</span><br><span>13. Crianças não têm trabalho, não, não, não</span><br></p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Estudantes do curso de Ciências de Dados, durante uma aula, criaram um código para ocultar e proteger informações.</p><p>Ao aplicá-lo à palavra SEMENTES, obtém-se a sequência:</p><p>18 – 04 – 12 – 04 – 13 – 19 – 04 – 18</p><p>Utilizando o mesmo código, assinale a alternativa na qual se apresenta o número do verso em que se encontra a</p><p>palavra representada pela sequência:</p><p>00 – 03 – 20 – 11 – 19 – 14</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-30",
+      "problem": "Letra da canção em imagem: texto não selecionável, números e destaques dependem da escala da figura.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 28 a 30.</strong></p><p>A canção <em>Sementes</em>, composta por Drik Barbosa, Emicida, Nave e Thiago Jamelão, propõe sensibilizar, conscientizar e mudar o cenário do trabalho infantil por meio da poesia. Acompanhe um trecho.</p><p><span>01. <strong>Se</strong> tem muita pressão</span><br><span>02. Não desenvolve a semente</span><br><span>03. É a mesma coisa com a gente</span><br><span>04. <strong>Que</strong> é pra ser gentil</span><br><span>05. <strong>Como</strong> flor é pra florir</span><br><span>06. Mas sem água, sol e tempo</span><br><span>07. Que botão vai <strong>se</strong> abrir?</span><br><span>08. É muito triste, muito cedo</span><br><span>09. É muito covarde</span><br><span>10. Cortar infâncias pela metade</span><br><span>11. <strong>Pra</strong> ser um adulto sem tumulto</span><br><span>12. Não existe atalho, em resumo</span><br><span>13. Crianças não têm trabalho, não, não, não</span><br></p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Sobre os elementos em negrito na canção, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-32",
+      "problem": "Última linha do apoio estava cortada no texto nativo e incorporada ao recorte da figura.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 32 e 33.\nA pegada de carbono mede as emissões de gases de efeito estufa de diversas atividades humanas, expressando-as em quilogramas de dióxido de carbono equivalente (CO₂eq). Ela é, portanto, uma unidade que permite comparar o impacto ambiental de diferentes gases para o aquecimento global.\nO gráfico mostra a pegada de carbono gerada por um quilograma de alimento, ao longo de toda a sua cadeia produtiva, para diferentes tipos de produtos.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 32 e 33.</p><p>A pegada de carbono mede as emissões de gases de efeito estufa de diversas atividades humanas, expressando-as em quilogramas de dióxido de carbono equivalente (CO₂eq). Ela é, portanto, uma unidade que permite comparar o impacto ambiental de diferentes gases para o aquecimento global.</p><p>O gráfico mostra a pegada de carbono gerada por um quilograma de alimento, ao longo de toda a sua cadeia produtiva, para diferentes tipos de produtos.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 12,
+            "rect": [
+              56,
+              297,
+              525,
+              429
+            ],
+            "alt": "Pegada de carbono: carne bovina 99,5; chocolate amargo 46,6; cordeiro 39,7; café 28,5; camarão 26,9; queijo 23,9; peixe 13,6; carne suína 12,3; carne avina 9,9; ovo 4,7 kg de CO₂eq."
+          },
+          {
+            "type": "html",
+            "html": "<p>Em relação aos alimentos referidos no gráfico, assinale a alternativa correta.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-33",
+      "problem": "As duas colunas de texto foram lidas alternadamente, quebrando o enunciado em frases sem sentido.",
+      "fix": {
+        "text": "O gráfico de setor apresenta a participação percentual de diferentes atividades humanas para a composição da pegada de carbono do chocolate amargo fornecida no gráfico de barras.\nConsiderando que a emissão total de CO₂eq para produzir 1 kg de chocolate amargo seja a soma de todas as categorias apresentadas, assinale a alternativa que indica, em kg, a massa aproximada de CO₂eq proveniente do “desmatamento” ao longo da cadeia produtiva do chocolate amargo.",
+        "contextText": "Leia o texto para responder às questões 32 e 33.\nA pegada de carbono mede as emissões de gases de efeito estufa de diversas atividades humanas, expressando-as em quilogramas de dióxido de carbono equivalente (CO₂eq). Ela é, portanto, uma unidade que permite comparar o impacto ambiental de diferentes gases para o aquecimento global.\nO gráfico mostra a pegada de carbono gerada por um quilograma de alimento, ao longo de toda a sua cadeia produtiva, para diferentes tipos de produtos.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia o texto para responder às questões 32 e 33.</p><p>A pegada de carbono mede as emissões de gases de efeito estufa de diversas atividades humanas, expressando-as em quilogramas de dióxido de carbono equivalente (CO₂eq). Ela é, portanto, uma unidade que permite comparar o impacto ambiental de diferentes gases para o aquecimento global.</p><p>O gráfico mostra a pegada de carbono gerada por um quilograma de alimento, ao longo de toda a sua cadeia produtiva, para diferentes tipos de produtos.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 12,
+            "rect": [
+              56,
+              297,
+              525,
+              429
+            ],
+            "alt": "Pegada de carbono: carne bovina 99,5; chocolate amargo 46,6; cordeiro 39,7; café 28,5; camarão 26,9; queijo 23,9; peixe 13,6; carne suína 12,3; carne avina 9,9; ovo 4,7 kg de CO₂eq."
+          },
+          {
+            "type": "html",
+            "html": "<p>O gráfico de setor apresenta a participação percentual de diferentes atividades humanas para a composição da pegada de carbono do chocolate amargo fornecida no gráfico de barras.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 12,
+            "rect": [
+              93,
+              615,
+              223,
+              681
+            ],
+            "alt": "Gráfico de setores: desmatamento 55,4%; cultivo 14,4%; outros 2,6%; perdas 27,6%."
+          },
+          {
+            "type": "html",
+            "html": "<p>Considerando que a emissão total de CO₂eq para produzir 1 kg de chocolate amargo seja a soma de todas as categorias apresentadas, assinale a alternativa que indica, em kg, a massa aproximada de CO₂eq proveniente do “desmatamento” ao longo da cadeia produtiva do chocolate amargo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-37",
+      "problem": "Símbolo de intersecção da alternativa C foi extraído como união deslocada.",
+      "fix": {
+        "options": [
+          "C ∪ A",
+          "C − A",
+          "A ∩ C",
+          "Aᶜ",
+          "A − C"
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>C ∪ A</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>C − A</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>A ∩ C</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>A<sup>c</sup></p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>A − C</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-41",
+      "problem": "O recorte agregado dos cinco gráficos aparece no enunciado e duplica as opções.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto e o esboço da Tabela Periódica para responder às questões 40 e 41.</strong></p><p>O hidrogênio verde, uma fonte de energia limpa e sustentável, é obtido por meio da eletrólise da água. A eletrólise da água é um processo endotérmico em que a água (H<sub>2</sub>O) é decomposta em gás hidrogênio e gás oxigênio. Nesse processo, são utilizados catalisadores feitos com platina ou irídio, elementos raros e caros. Catalisadores são substâncias que aceleram reações químicas por propiciarem que elas se realizem com menor energia de ativação. Uma equipe de cientistas europeus desenvolveu um novo catalisador para otimizar a produção de hidrogênio verde e, com o intuito de expandir sua aplicação para a produção industrial, já solicitou a patente do novo produto.</p>"
+          },
+          {
+            "type": "image",
+            "src": "/assets/exams/2025-2-ctx6-fig-1.webp",
+            "alt": "Figura ou expressão do enunciado original",
+            "width": 1151,
+            "height": 317
+          },
+          {
+            "type": "html",
+            "html": "<p>Baseando-se na reação de eletrólise da água, com e sem catalisador, mencionada no texto, assinale a alternativa que contém o esboço gráfico correto da variação da energia envolvida nesse processo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-44",
+      "problem": "Quadro de resultados rasterizado dificulta leitura em tela pequena; disponível em HTML nativo com cabeçalhos.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 44 e 45.</strong> O Green Game Jam é um evento que desafia estúdios de jogos a incorporarem temas ambientais em seus títulos. Em 2024, os organizadores propuseram reunir os jogadores para agir no mundo real. Suponha que, como parte dessas ações que reuniram os jogadores, houve um campeonato. O quadro a seguir reúne os resultados de algumas partidas disputadas entre 5 competidores que se enfrentaram uma única vez. Cada letra no interior do quadro indica um resultado possível:</p><p>•\t \t<em>E</em> indica um empate entre os jogadores;</p><p><em>•\t \tV</em> indica a vitória do jogador da linha em questão; e</p><p>•\t \t<em>D</em> indica a derrota do jogador da linha correspondente.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<table><caption>Resultados do campeonato: V = vitória, E = empate, D = derrota do jogador da linha</caption><thead><tr><th scope=\"col\">Jogador</th><th scope=\"col\">Alice</th><th scope=\"col\">Bruno</th><th scope=\"col\">Carla</th><th scope=\"col\">Diego</th><th scope=\"col\">Elias</th></tr></thead><tbody><tr><th scope=\"row\">Alice</th><td>—</td><td>D</td><td>E</td><td>V</td><td>E</td></tr><tr><th scope=\"row\">Bruno</th><td>V</td><td>—</td><td>D</td><td>V</td><td>V</td></tr><tr><th scope=\"row\">Carla</th><td>E</td><td>V</td><td>—</td><td>D</td><td>V</td></tr><tr><th scope=\"row\">Diego</th><td>D</td><td>D</td><td>V</td><td>—</td><td>E</td></tr><tr><th scope=\"row\">Elias</th><td>E</td><td>D</td><td>D</td><td>E</td><td>—</td></tr></tbody></table>"
+          },
+          {
+            "type": "html",
+            "html": "<p>As informações descritas no quadro permitem concluir corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-45",
+      "problem": "Quadro de resultados rasterizado dificulta leitura em tela pequena; disponível em HTML nativo com cabeçalhos.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 44 e 45.</strong> O Green Game Jam é um evento que desafia estúdios de jogos a incorporarem temas ambientais em seus títulos. Em 2024, os organizadores propuseram reunir os jogadores para agir no mundo real. Suponha que, como parte dessas ações que reuniram os jogadores, houve um campeonato. O quadro a seguir reúne os resultados de algumas partidas disputadas entre 5 competidores que se enfrentaram uma única vez. Cada letra no interior do quadro indica um resultado possível:</p><p>•\t \t<em>E</em> indica um empate entre os jogadores;</p><p><em>•\t \tV</em> indica a vitória do jogador da linha em questão; e</p><p>•\t \t<em>D</em> indica a derrota do jogador da linha correspondente.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<table><caption>Resultados do campeonato: V = vitória, E = empate, D = derrota do jogador da linha</caption><thead><tr><th scope=\"col\">Jogador</th><th scope=\"col\">Alice</th><th scope=\"col\">Bruno</th><th scope=\"col\">Carla</th><th scope=\"col\">Diego</th><th scope=\"col\">Elias</th></tr></thead><tbody><tr><th scope=\"row\">Alice</th><td>—</td><td>D</td><td>E</td><td>V</td><td>E</td></tr><tr><th scope=\"row\">Bruno</th><td>V</td><td>—</td><td>D</td><td>V</td><td>V</td></tr><tr><th scope=\"row\">Carla</th><td>E</td><td>V</td><td>—</td><td>D</td><td>V</td></tr><tr><th scope=\"row\">Diego</th><td>D</td><td>D</td><td>V</td><td>—</td><td>E</td></tr><tr><th scope=\"row\">Elias</th><td>E</td><td>D</td><td>D</td><td>E</td><td>—</td></tr></tbody></table>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que apresenta corretamente a probabilidade de que um jogador, escolhido aleatoriamente dentre</p><p>os cinco competidores mencionados no texto, tenha vencido, pelo menos, uma partida.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-46",
+      "problem": "Poema do apoio 46–49 disponível apenas em recorte de imagem, dificultando leitura e seleção.",
+      "fix": {
+        "contextText": "Palmeiras! Babaçuais!\nTerra fértil, olha a riqueza no chão.\nFolhas verdes, oh que maravilha.\nA natureza traz o fruto, a perfeição.\nSenhoras guerreiras, vão à luta, custear alimentação\nExportadores das exportações.\nNosso produto assim chegou em outras nações.\nEu vou gargalhar, eu estou feliz!\nNossa matéria-prima circulando no país.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 46 a 49.</strong></p><p>Palmeiras! Babaçuais!<br>Terra fértil, olha a riqueza no chão.<br>Folhas verdes, oh que maravilha.<br>A natureza traz o fruto, a perfeição.<br>Senhoras guerreiras, vão à luta, custear alimentação<br>Exportadores das exportações.<br>Nosso produto assim chegou em outras nações.<br>Eu vou gargalhar, eu estou feliz!<br>Nossa matéria-prima circulando no país.</p><p>SILVA e SILVA, A. <em>O (En)canto das Quebradeiras de Coco Babaçu no Maranhão</em>. UFMA.<br>&lt;https://tinyurl.com/3r6j99a9&gt; Acesso em: 17.10.2024.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>De acordo com o texto, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-47",
+      "problem": "Poema foi convertido em imagem; em 47 as alternativas ainda absorveram a linha anterior e perderam os sublinhados gramaticalmente necessários.",
+      "fix": {
+        "contextText": "Palmeiras! Babaçuais!\nTerra fértil, olha a riqueza no chão.\nFolhas verdes, oh que maravilha.\nA natureza traz o fruto, a perfeição.\nSenhoras guerreiras, vão à luta, custear alimentação\nExportadores das exportações.\nNosso produto assim chegou em outras nações.\nEu vou gargalhar, eu estou feliz!\nNossa matéria-prima circulando no país.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 46 a 49.</strong></p><p>Palmeiras! Babaçuais!<br>Terra fértil, olha a riqueza no chão.<br>Folhas verdes, oh que maravilha.<br>A natureza traz o fruto, a perfeição.<br>Senhoras guerreiras, vão à luta, custear alimentação<br>Exportadores das exportações.<br>Nosso produto assim chegou em outras nações.<br>Eu vou gargalhar, eu estou feliz!<br>Nossa matéria-prima circulando no país.</p><p>SILVA e SILVA, A. <em>O (En)canto das Quebradeiras de Coco Babaçu no Maranhão</em>. UFMA.<br>&lt;https://tinyurl.com/3r6j99a9&gt; Acesso em: 17.10.2024.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>O termo sublinhado exerce a função de sujeito em</p>"
+          }
+        ],
+        "options": [
+          "“Terra fértil, olha a riqueza no chão”.",
+          "“Folhas verdes, oh que maravilha”.",
+          "“A natureza traz o fruto, a perfeição”.",
+          "“Senhoras guerreiras, vão à luta, custear alimentação”.",
+          "“Nosso produto assim chegou em outras nações”."
+        ],
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>“<u>Terra</u> fértil, olha a riqueza no chão”.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>“Folhas verdes, oh que <u>maravilha</u>”.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>“A <u>natureza</u> traz o fruto, a perfeição”.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>“Senhoras guerreiras, vão à luta, custear <u>alimentação</u>”.</p>"
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>“Nosso produto assim chegou em outras <u>nações</u>”.</p>"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-48",
+      "problem": "Poema do apoio 46–49 disponível apenas em recorte de imagem, dificultando leitura e seleção.",
+      "fix": {
+        "contextText": "Palmeiras! Babaçuais!\nTerra fértil, olha a riqueza no chão.\nFolhas verdes, oh que maravilha.\nA natureza traz o fruto, a perfeição.\nSenhoras guerreiras, vão à luta, custear alimentação\nExportadores das exportações.\nNosso produto assim chegou em outras nações.\nEu vou gargalhar, eu estou feliz!\nNossa matéria-prima circulando no país.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 46 a 49.</strong></p><p>Palmeiras! Babaçuais!<br>Terra fértil, olha a riqueza no chão.<br>Folhas verdes, oh que maravilha.<br>A natureza traz o fruto, a perfeição.<br>Senhoras guerreiras, vão à luta, custear alimentação<br>Exportadores das exportações.<br>Nosso produto assim chegou em outras nações.<br>Eu vou gargalhar, eu estou feliz!<br>Nossa matéria-prima circulando no país.</p><p>SILVA e SILVA, A. <em>O (En)canto das Quebradeiras de Coco Babaçu no Maranhão</em>. UFMA.<br>&lt;https://tinyurl.com/3r6j99a9&gt; Acesso em: 17.10.2024.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Transpondo o verbo do verso “Senhoras guerreiras, vão à luta” para o imperativo afirmativo, na segunda pessoa do</p><p>plural, teríamos</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-49",
+      "problem": "Poema do apoio 46–49 disponível apenas em recorte de imagem, dificultando leitura e seleção.",
+      "fix": {
+        "contextText": "Palmeiras! Babaçuais!\nTerra fértil, olha a riqueza no chão.\nFolhas verdes, oh que maravilha.\nA natureza traz o fruto, a perfeição.\nSenhoras guerreiras, vão à luta, custear alimentação\nExportadores das exportações.\nNosso produto assim chegou em outras nações.\nEu vou gargalhar, eu estou feliz!\nNossa matéria-prima circulando no país.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões de 46 a 49.</strong></p><p>Palmeiras! Babaçuais!<br>Terra fértil, olha a riqueza no chão.<br>Folhas verdes, oh que maravilha.<br>A natureza traz o fruto, a perfeição.<br>Senhoras guerreiras, vão à luta, custear alimentação<br>Exportadores das exportações.<br>Nosso produto assim chegou em outras nações.<br>Eu vou gargalhar, eu estou feliz!<br>Nossa matéria-prima circulando no país.</p><p>SILVA e SILVA, A. <em>O (En)canto das Quebradeiras de Coco Babaçu no Maranhão</em>. UFMA.<br>&lt;https://tinyurl.com/3r6j99a9&gt; Acesso em: 17.10.2024.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>No verso “A natureza traz o fruto, a perfeição”, ocorre</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-13",
+      "problem": "Coeficiente fracionário 25/2 ficou separado no texto plano; equação restaurada em HTML nativo.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A gasolina é uma mistura de hidrocarbonetos, dentre eles, o octano (C<sub>8</sub>H<sub>18</sub>).</p><p>Nos motores, a combustão completa do octano produz gás carbônico e água, conforme a equação</p><p>C<sub>8</sub>H<sub>18</sub>(g) + (25/2) O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 9 H<sub>2</sub>O(l) &nbsp; Δ<sub>r</sub>H<sup>0</sup> = −5 471,0 kJ/mol</p><p>Outro combustível que pode ser usado é o metano (CH<sub>4</sub>), um dos componentes do biogás. A combustão completa do metano produz gás carbônico e água, conforme a equação</p><p>CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l) &nbsp; Δ<sub>r</sub>H<sup>0</sup> = −890,0 kJ/mol</p><p>Considerando as informações apresentadas nessas equações, podemos concluir que o uso do metano como combustível, em vez do octano, apresenta menor impacto ambiental, pois a queima</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-55",
+      "problem": "Unidade de R ficou isolada em figura antes dos dados, quebrando a leitura da equação.",
+      "fix": {
+        "text": "O diesel comercializado no Brasil é uma mistura que contém atualmente 14% de biodiesel. Se esse percentual for aumentado para 25%, o Brasil deixará de emitir mais de 330 milhões de toneladas de CO₂ em 10 anos.\n<https://tinyurl.com/yc568vmh> Acesso em: 01.10.2024. Adaptado.\nConsiderando que a pressão é de 1 atm e que a temperatura é 300 K, assinale a alternativa a qual indica o volume aproximado de CO₂, em litros, que deixará de ser emitido pelo Brasil ao realizar a mudança, descrita no texto, na composição do diesel.\nDados: massa molar do CO₂ = 44 g/mol; 1 t = 10⁶ g; equação de estado de um gás: P · V = n · R · T; R = 0,082 atm · L/(K · mol).",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>O diesel comercializado no Brasil é uma mistura que contém atualmente 14% de biodiesel. Se esse percentual for aumentado para 25%, o Brasil deixará de emitir mais de 330 milhões de toneladas de CO₂ em 10 anos.</p><p>&lt;https://tinyurl.com/yc568vmh&gt; Acesso em: 01.10.2024. Adaptado.</p><p>Considerando que a pressão é de 1 atm e que a temperatura é 300 K, assinale a alternativa a qual indica o volume aproximado de CO₂, em litros, que deixará de ser emitido pelo Brasil ao realizar a mudança, descrita no texto, na composição do diesel.</p><p>Dados: massa molar do CO₂ = 44 g/mol; 1 t = 10⁶ g; equação de estado de um gás: P · V = n · R · T; R = 0,082 atm · L/(K · mol).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-59",
+      "problem": "A definição de fatorial foi duplicada na extração.",
+      "fix": {
+        "text": "Sabendo que n! = n · (n − 1) · (n − 2) ... 3 · 2 · 1, com n natural, pode-se afirmar que o número total de permutações distintas formadas com as 8 letras da palavra SEMENTES é dado por",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Sabendo que n! = n · (n − 1) · (n − 2) ... 3 · 2 · 1, com n natural, pode-se afirmar que o número total de permutações distintas formadas com as 8 letras da palavra SEMENTES é dado por</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2025-2-63",
+      "problem": "O grande recorte dos dois gráficos cobriu linhas do enunciado; faltou “conforme o gráfico 1” na leitura nativa.",
+      "fix": {
+        "text": "Uma revista especializada em automóveis publicou um teste feito com um veículo 2.0 abastecido com gasolina em uma viagem planejada. Nesse teste, eles relacionaram diferentes velocidades ao consumo de combustível do veículo, conforme o gráfico 1.\nNo gráfico 2, é possível determinar uma das velocidades aferida do automóvel durante os testes.\nConsiderando que cada litro de gasolina emita cerca de 2 kg de CO₂, assinale a alternativa correta que apresenta a massa CO₂, em kg, emitida pelo veículo nas condições apresentadas.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Uma revista especializada em automóveis publicou um teste feito com um veículo 2.0 abastecido com gasolina em uma viagem planejada. Nesse teste, eles relacionaram diferentes velocidades ao consumo de combustível do veículo, conforme o gráfico 1.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 22,
+            "rect": [
+              196,
+              67,
+              385,
+              229
+            ],
+            "alt": "Gráfico 1: velocidades de 80, 100 e 120 km/h correspondem a consumos de 10, 12,5 e 20 L."
+          },
+          {
+            "type": "html",
+            "html": "<p>No gráfico 2, é possível determinar uma das velocidades aferida do automóvel durante os testes.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 22,
+            "rect": [
+              151,
+              240,
+              430,
+              403
+            ],
+            "alt": "Gráfico 2: posição 50 km em 0 h, 100 km em 0,5 h, 150 km em 1 h e 200 km em 1,5 h."
+          },
+          {
+            "type": "html",
+            "html": "<p>Considerando que cada litro de gasolina emita cerca de 2 kg de CO₂, assinale a alternativa correta que apresenta a massa CO₂, em kg, emitida pelo veículo nas condições apresentadas.</p>"
+          }
+        ]
+      }
+    }
+  ]
+}

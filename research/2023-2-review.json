@@ -1,0 +1,759 @@
+{
+  "solutions": {
+    "fatec-2023-2-1": {
+      "explanation": "O texto relaciona o cozimento à digestão mais fácil e ao aproveitamento mais eficiente da energia dos alimentos. Isso favoreceu o crescimento corporal e cerebral, contribuindo para a evolução humana. A pesquisa não afirma que agricultura e pecuária existissem há 780 mil anos, nem que sapiens e neandertais preferissem alimentos crus."
+    },
+    "fatec-2023-2-2": {
+      "explanation": "Ervas aromáticas e especiarias são alternativas a temperos industrializados com muito sódio e conservantes. A alternativa D está de acordo com a proposta de uma alimentação variada e adequada. As demais apresentam como benéficos produtos e práticas que o texto não recomenda, como alimentação exclusivamente ultraprocessada ou preferência indiscriminada por suplementos."
+    },
+    "fatec-2023-2-3": {
+      "explanation": "O texto informa explicitamente que café, chás escuros e outros alimentos podem inibir a absorção do ferro quando consumidos durante ou logo após as refeições. Assim, B reproduz uma informação do enunciado. A cor vermelha da beterraba não demonstra abundância de ferro; vitamina C favorece a absorção, enquanto o cálcio pode dificultá-la."
+    },
+    "fatec-2023-2-4": {
+      "explanation": "O cálcio participa da formação de ossos e dentes e também atua na contração muscular e na coagulação sanguínea. As outras alternativas trocam as funções dos elementos: iodo integra hormônios tireoidianos; fósforo aparece no ATP e nos ácidos nucleicos; ferro é componente da hemoglobina."
+    },
+    "fatec-2023-2-5": {
+      "explanation": "Use a equivalência fornecida para a questão: 1 kgf/cm² = 1 bar e 1 bar = 100 000 Pa. Logo, 5 kgf/cm² correspondem a 5 × 100 000 = 500 000 Pa, ou 5,0 × 10⁵ Pa. A conversão correta usa o fator 10⁵, não 10⁴ nem 10⁶."
+    },
+    "fatec-2023-2-6": {
+      "explanation": "A passagem afirma que os portugueses trouxeram a produção de queijo ao Brasil Colônia, que o conhecimento chegou à Canastra há dois séculos e que, nas propriedades familiares, as mulheres geralmente produzem o queijo. Esses três pontos aparecem juntos em D. O texto destaca leite sem pasteurização e valorização dos saberes locais, não sua extinção."
+    },
+    "fatec-2023-2-7": {
+      "explanation": "As bactérias consomem o açúcar do leite durante a fabricação e liberam, ao final de seu ciclo, substâncias importantes para o sabor e o aroma do queijo. Isso sustenta E. Leite não pasteurizado conserva micro-organismos naturais; leveduras são fungos heterotróficos; e coalho e pingo não são o mesmo componente."
+    },
+    "fatec-2023-2-8": {
+      "explanation": "Na pecuária extensiva, o rebanho ocupa áreas relativamente grandes e se alimenta principalmente de pastagens, com possibilidade de suplementação mineral. É a descrição da alternativa A. Confinamento e uso mais intenso de tecnologia e de alimentação controlada são características associadas sobretudo ao sistema intensivo."
+    },
+    "fatec-2023-2-9": {
+      "explanation": "O texto define agroforestry como a interação entre agricultura e árvores em diferentes escalas. Sua finalidade inclui produção de alimentos, madeira e outros bens, além da proteção dos ecossistemas. Por isso, E expressa o equilíbrio entre plantações e árvores. As alternativas que excluem necessariamente pecuária ou extração de madeira restringem indevidamente a definição."
+    },
+    "fatec-2023-2-10": {
+      "explanation": "Na construção “to ensure the protection of the natural environment so that it continues to provide resources”, a oração introduzida por “so that” indica o objetivo da proteção: permitir que o ambiente continue fornecendo recursos. Nesse contexto, equivale a “para que” e expressa finalidade, não causa ou oposição."
+    },
+    "fatec-2023-2-11": {
+      "explanation": "O primeiro parágrafo localiza a produção açucareira na Zona da Mata pernambucana e afirma que ela foi construída com trabalho de pessoas negras escravizadas. D reúne essas informações. O texto não situa sua origem depois da abolição nem diz que o açúcar vinha das frutas nativas ou que os doces fossem consumidos apenas uma vez ao ano."
+    },
+    "fatec-2023-2-12": {
+      "explanation": "A embalagem é um tronco de pirâmide de bases quadradas, com lados 10 cm e 20 cm. Na face trapezoidal, a altura é √(13² − 5²) = 12 cm. Cada face lateral tem área (20 + 10) × 12/2 = 180 cm². O total é 4 × 180 + 10² + 20² = 1 220 cm²."
+    },
+    "fatec-2023-2-13": {
+      "explanation": "As frutas mencionadas devem ser realçadas por luz nas faixas de verde, amarelo e vermelho. Pela tabela, o intervalo que abrange essas cores vai de 4 920 Å a 7 800 Å, correspondendo à alternativa C. As demais opções incluem cores fora da seleção ou misturam unidades incompatíveis, como frequência em THz e comprimento de onda em Å."
+    },
+    "fatec-2023-2-14": {
+      "explanation": "O mapa representa a difusão de um produto de origem americana para outras regiões do mundo no contexto da expansão colonial espanhola. Trata-se do cacau, difundido comercialmente a partir do século XVI. As alternativas com arroz, pimenta, café ou gergelim apresentam produtos, origens ou períodos incompatíveis com as rotas mostradas."
+    },
+    "fatec-2023-2-15": {
+      "explanation": "Dos 100 paulistanos, 45 pediram pizza. Entre os que escolhem sua cobertura predileta, 17,7% preferem portuguesa. Assim, N = 100 × 0,45 × 0,177 = 7,965. O inteiro mais próximo é 8. É necessário aplicar as duas porcentagens sucessivamente, e não usar apenas os 17,7% do gráfico."
+    },
+    "fatec-2023-2-16": {
+      "explanation": "Os valores são 24,3%, 17,7%, 14,7%, 14,7% e 28,6%. A média é 100/5 = 20%; a moda é 14,7%, pois se repete; e a mediana é 17,7%, o termo central na lista ordenada. Portanto, somente a afirmação de que a média é maior que a moda está correta."
+    },
+    "fatec-2023-2-17": {
+      "explanation": "A área de um disco é πd²/4. Com π = 3, a diferença é 3 × (35² − 28,5²)/4 = 3 × (1 225 − 812,25)/4 = 309,5625 cm². Arredondando, obtemos 309,56 cm², alternativa E. Os diâmetros precisam ser elevados ao quadrado; subtraí-los diretamente não fornece uma área."
+    },
+    "fatec-2023-2-18": {
+      "explanation": "A sequência é determinada pela letra inicial dos produtos: banana começa com B, coco com C, especiarias com E e flores com F. Falta, na terceira barraca, um produto com D. Entre as opções, somente “doces” atende ao padrão. O tamanho ou o tipo alimentar do produto não determina essa ordenação."
+    },
+    "fatec-2023-2-19": {
+      "explanation": "O acarajé e a religiosidade das filhas-de-santo remetem à presença africana na formação cultural brasileira. Essa presença foi marcada pelo tráfico e pela escravização de pessoas africanas nos períodos colonial e imperial, em diferentes atividades econômicas. Por isso, D é compatível com a história e com as referências culturais apresentadas no texto."
+    },
+    "fatec-2023-2-20": {
+      "explanation": "O consumo diário é 500 + 250 = 750 mL, isto é, 0,75 L. Os 12 litros duram 12/0,75 = 16 dias completos. A segunda-feira inicial é o primeiro dia; o 15º dia também é segunda-feira, e o 16º é terça-feira. O último leite termina no lanche dessa terça-feira."
+    },
+    "fatec-2023-2-21": {
+      "explanation": "Em “contar com a solidariedade de um vizinho para garantir o cortado na mesa”, a preposição “para” introduz a finalidade dessa ajuda. Pode ser substituída por “a fim de garantir”, mantendo o sentido. As demais opções atribuem aos conectivos valores inadequados ou propõem substituições que alteram a relação estabelecida na passagem."
+    },
+    "fatec-2023-2-22": {
+      "explanation": "A narrativa apresenta uma sequência de agravamento: seca das plantações, diminuição das reservas, pesca insuficiente e consumo da palma disputada com o gado. C reconhece essa progressão cronológica da crise. O narrador participa dos acontecimentos, como mostram “seguíamos” e “disputamos”; portanto, não é um observador externo."
+    },
+    "fatec-2023-2-23": {
+      "explanation": "O vegetal é a palma, um cacto adaptado a ambientes secos. Cactáceas apresentam folhas modificadas, geralmente em espinhos, que reduzem a perda de água por transpiração; seus caules podem armazenar água e fazer fotossíntese. Essa adaptação explica B. As outras descrições correspondem a plantas como umbuzeiro, mandioca ou cana, não à palma."
+    },
+    "fatec-2023-2-24": {
+      "explanation": "A charge modifica um elemento reconhecível da bandeira nacional: o lugar da esfera celeste é ocupado por um prato vazio. Essa associação entre símbolo do país e ausência de comida constrói uma crítica à fome no Brasil. Não é uma representação neutra nem uma biografia individual; o efeito depende da combinação entre linguagem verbal e imagem."
+    },
+    "fatec-2023-2-25": {
+      "explanation": "O texto diz que, na região do Baixo Reno, na França, a população chegou a comer animais mortos por doenças, situação associada pelo cronista ao surgimento de pestes epidêmicas. E corresponde a essa informação. Houve chuvas e más colheitas, não estiagem produtiva; 10% de mortos em Flandres equivalem a um décimo, não a um quinto."
+    },
+    "fatec-2023-2-26": {
+      "explanation": "No uso adotado pelo texto da FAO, “hunger” pode ser referido também como “undernourishment”, o que fundamenta C na tradução empregada pela prova. Isso não torna “food insecurity” um sinônimo idêntico: insegurança alimentar envolve falta de acesso regular a alimentos seguros e nutritivos e pode apresentar diferentes graus de gravidade."
+    },
+    "fatec-2023-2-27": {
+      "explanation": "No nível severo, o infográfico afirma que a pessoa ficou sem alimentos e passou um dia inteiro sem comer em algumas ocasiões ao longo do ano. A alternativa C retoma essa descrição. Incerteza sobre conseguir alimentos e comprometimento da variedade ou qualidade também aparecem na escala, mas não definem, sozinhos, o nível mais grave."
+    },
+    "fatec-2023-2-28": {
+      "explanation": "Em “they lack regular access to enough safe and nutritious food”, o verbo “lack” significa não ter, carecer de ou faltar. A frase descreve pessoas às quais falta acesso regular a comida suficiente, segura e nutritiva. Logo, E é a equivalência contextual adequada; “ter”, “trazer” e “manter” inverteriam ou alterariam o sentido."
+    },
+    "fatec-2023-2-29": {
+      "explanation": "Nos provérbios II e IV, a fome torna a comida mais desejável: a demora da comida aumenta a fome, e a mostarda ou o tempero representam o que melhora o sabor. Há, portanto, equivalência de sentido entre os dois enunciados. As outras alternativas generalizam incorretamente a estrutura ou interpretam inadequadamente as metáforas dos provérbios."
+    },
+    "fatec-2023-2-30": {
+      "explanation": "No equilíbrio, qo = qd. Assim, 3p + 50 = −2p + 500, de onde 5p = 450 e p = 90 reais. Substituindo em qualquer equação: q = 3 × 90 + 50 = 320 unidades. B traz preço e quantidade corretos; o preço não pode ser encontrado sem igualar oferta e demanda."
+    },
+    "fatec-2023-2-31": {
+      "explanation": "A fórmula C₈H₁₀N₄O₂ contém quatro elementos diferentes: carbono, hidrogênio, nitrogênio e oxigênio. Na conta proposta pela questão, 9,9 g = 9 900 mg; então, n = 9 900/180 = 55 xícaras. O número 24 seria a soma dos átomos da fórmula, não a quantidade de elementos químicos distintos."
+    },
+    "fatec-2023-2-32": {
+      "explanation": "A fração em massa de cafeína é 11/500 = 0,022. Multiplicando por 100, a porcentagem é 2,2%. Na tabela, esse teor corresponde à Coffea canephora, alternativa D. Não se deve confundir os 11 gramas de cafeína com 11%: a porcentagem precisa usar como referência os 500 gramas da amostra."
+    },
+    "fatec-2023-2-33": {
+      "explanation": "Como pH = −log[H⁺], a amostra A tem pH 4,8 e a amostra B tem pH 4,0. Quanto menor o pH, maior a acidez. A escala mostra o leite com pH aproximadamente 6,0; portanto, A é mais ácida que o leite, mas não mais ácida que o tomate de pH 4,0. Assim, E é correta."
+    },
+    "fatec-2023-2-34": {
+      "explanation": "As algas cultivadas no oceano obtêm nutrientes dissolvidos na água e não exigem o uso de terras férteis, vantagem expressa em C. O texto afirma que crescem rapidamente e fazem fotossíntese. Metais pesados acumulados em ambientes contaminados são um risco, não nutrientes desejáveis nem requisito para a produção de compostos orgânicos."
+    },
+    "fatec-2023-2-35": {
+      "explanation": "Há seis itens que não são grãos: três farináceos, dois doces e um sal. Mesmo retirando primeiro todos esses seis, o sétimo item obrigatoriamente será um dos quatro grãos. Logo, D é garantida. As outras afirmações não são necessárias: é possível, por exemplo, escolher oito itens sem retirar nenhum dos dois doces."
+    },
+    "fatec-2023-2-36": {
+      "explanation": "Os lipídios, identificados na tabela como gorduras, armazenam energia e funcionam como isolante térmico. A porção possui 1,8 g de gorduras, enquanto o valor diário de referência é 65 g. A porcentagem é 1,8/65 × 100 ≈ 2,77%, ou aproximadamente 2,8%. A combinação correta é “Gorduras; 2,8”, alternativa E."
+    },
+    "fatec-2023-2-37": {
+      "explanation": "Some a energia de cada macronutriente da porção: carboidratos, 30 × 4 = 120 kcal; proteínas, 5,4 × 4 = 21,6 kcal; gorduras, 1,8 × 9 = 16,2 kcal. O total é 157,8 kcal, aproximadamente 158 kcal. A massa de cada nutriente deve ser multiplicada por seu fator energético correspondente."
+    },
+    "fatec-2023-2-38": {
+      "explanation": "A frase destacada tem a forma P e Q: promover a produção e destacar o potencial. Pela lei de De Morgan, a negação de uma conjunção é “não P ou não Q”. Basta que uma das duas ações não ocorra para que a afirmação original deixe de ser verdadeira. Essa estrutura aparece na alternativa A."
+    },
+    "fatec-2023-2-39": {
+      "explanation": "A questão foi anulada no gabarito oficial retificado. Por isso, não há uma alternativa válida a ser ensinada como resposta correta. No simulador, o item pode ser lido no caderno histórico, mas deve ficar fora do percentual de acertos e do caderno de erros; a revisão não deve penalizar nenhuma marcação."
+    },
+    "fatec-2023-2-40": {
+      "explanation": "O gabarito oficial indica B, obtida pela operação 280/(227 × 1) ≈ 1,23 °C em Q = mcΔθ. Há, porém, uma ressalva importante: em rótulos nutricionais dos EUA, “Calories” normalmente representa quilocalorias. Convertendo 280 kcal para cal, o resultado seria cerca de 1 233 °C no modelo ideal. A resposta B segue a convenção numérica usada pela prova, cuja unidade é ambígua."
+    },
+    "fatec-2023-2-41": {
+      "explanation": "Para um cátion, o número de elétrons é o número atômico menos a carga positiva. Ca²⁺ tem 20 − 2 = 18 elétrons; K⁺ tem 19 − 1 = 18. Logo, A é verdadeira. O Fe³⁺ tem 56 − 26 = 30 nêutrons, Na⁺ tem 10 elétrons e o número de massa do potássio informado é 40."
+    },
+    "fatec-2023-2-42": {
+      "explanation": "Na liofilização, o alimento é congelado e sua água sólida é retirada por sublimação, isto é, passagem direta do gelo ao vapor. A menor disponibilidade de água favorece a conservação. As demais alternativas trocam nomes e descrições: fumaça caracteriza defumação, e o tratamento rápido com água quente seguido de resfriamento corresponde ao branqueamento."
+    },
+    "fatec-2023-2-43": {
+      "explanation": "A solução com muito sal é hipertônica em relação ao interior do micro-organismo. A água atravessa a membrana por osmose, saindo da célula para o meio mais concentrado. Essa perda de água causa desidratação e dificulta a sobrevivência microbiana. Portanto, A reúne o sentido correto do deslocamento e o nome do processo."
+    },
+    "fatec-2023-2-44": {
+      "explanation": "Preenchendo as linhas com as palavras destacadas do texto — conservantes, osmótico, salmoura, oxidação, desidratação e açúcar —, a coluna forma COMIDA. A tradução geral de comida ou alimento para o inglês é “food”. “Meat” significa carne, “meet” é o verbo encontrar e “sugar” significa açúcar, por isso não correspondem à palavra obtida."
+    },
+    "fatec-2023-2-45": {
+      "explanation": "O trecho afirma que sensores de colheita já monitoram, em tempo real, a produtividade no Brasil e geram mapas que podem apoiar decisões futuras sobre fertilizantes. C reproduz essa informação. As alternativas restantes atribuem usos sem apoio no texto, fazem generalizações regionais inadequadas ou situam sensores eletrônicos no período colonial, o que é anacrônico."
+    },
+    "fatec-2023-2-46": {
+      "explanation": "A calagem consiste na aplicação de calcário ao solo. Seus carbonatos neutralizam a acidez, elevam o pH e podem fornecer cálcio e magnésio. Essa descrição corresponde a E. Herbicidas, cloreto de sódio, cloro e antioxidantes não substituem o corretivo mencionado no enunciado nem caracterizam a técnica de calagem."
+    },
+    "fatec-2023-2-47": {
+      "explanation": "FLOPS expressa quantas operações de ponto flutuante são realizadas por segundo. Trata-se de uma contagem de eventos por unidade de tempo, estrutura dimensional associada à frequência. Não é velocidade de deslocamento, aceleração ou precisão do resultado numérico. O contexto é desempenho computacional, mas a grandeza física pedida é a frequência."
+    },
+    "fatec-2023-2-48": {
+      "explanation": "A unidade kWh mede energia, pois é o produto de potência por tempo. Carga elétrica deve ser expressa em coulomb (C) ou, em aplicações de baterias, ampère-hora (Ah). Assim, o erro está em chamar Q = 20 kWh de carga elétrica, alternativa B. A conversão de 15 minutos para 900 segundos está correta."
+    },
+    "fatec-2023-2-49": {
+      "explanation": "No movimento descrito, a distância é velocidade média multiplicada pelo tempo: Δs = 10 m/s × 900 s = 9 000 m. Convertendo para quilômetros, obtemos 9 km. O erro da unidade da bateria não impede esse cálculo, porque velocidade e tempo foram fornecidos em unidades compatíveis."
+    },
+    "fatec-2023-2-50": {
+      "explanation": "O texto define Ciência e Tecnologia de Alimentos como a área que acompanha processamento, embalagem, aditivos, qualidade e conservação dos produtos consumidos. Por isso, D sintetiza adequadamente sua atuação. O trecho não afirma que essa ciência elimine a fome, substitua o Ministério da Saúde, reduza indústrias ou rivalize com Medicina e Agronomia."
+    },
+    "fatec-2023-2-51": {
+      "explanation": "Egípcios, gregos e romanos pertencem ao recorte da Idade Antiga. Na fórmula do ácido oleico, é preciso contar 18 carbonos, incluir a função ácido carboxílico —COOH e localizar a ligação dupla entre C9 e C10, numerando a partir da carboxila. A alternativa A reúne o período e a estrutura exigidos."
+    },
+    "fatec-2023-2-52": {
+      "explanation": "A região Sul ocupa predominantemente latitudes mais altas que 24° S e apresenta temperaturas médias mais baixas que as regiões tropicais mencionadas no texto. Por isso, é a região brasileira que melhor atende às condições propostas para maturação e colheita de sementes de soja de alta qualidade, alternativa E."
+    },
+    "fatec-2023-2-53": {
+      "explanation": "Alguns morangos são azedos. Nas categorias opostas adotadas pelo problema, esses morangos não são doces. Como toda fruta grande é doce, eles não podem ser grandes; portanto, são pequenos. Isso garante “algum morango é pequeno”, alternativa B. As demais opções invertem implicações ou contradizem diretamente as premissas."
+    },
+    "fatec-2023-2-54": {
+      "explanation": "O personagem interrompe repetidamente a mulher para defender o aproveitamento das cascas de frutas, mencionando fibras, vitaminas e antioxidantes. A irritação dela cria o humor, mas o tema social é o desperdício de alimentos, como afirma E. Esses nutrientes valorizam as cascas, não a ação de descartá-las; e “essa” não foi empregado segundo a norma culta na situação mostrada."
+    }
+  },
+  "issues": [
+    {
+      "id": "fatec-2023-2-2",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "consumir defumados ou embutidos ricos em gorduras e em sódio, pois diminuem a pressão arterial, o\ncolesterol e o risco de alguns tipos de câncer.",
+          "consumir, nas refeições, apenas alimentos industrializados e altamente processados, pois garantem o\naumento da imunidade e a prevenção contra vírus e bactérias.",
+          "preferir suplementos alimentares industrializados de vitaminas ou de proteínas, pois são mais saudáveis\ne não colocam a saúde do corpo em risco, ao contrário da ingestão de alimentos naturais.",
+          "optar por temperos naturais, como ervas aromáticas e especiarias, que contêm vitaminas, minerais e\nantioxidantes, em vez de temperos industrializados, com alto teor de sódio e conservantes.",
+          "optar por alimentos ricos em gorduras trans, que não se depositam em nossas artérias e que foram\ndesenvolvidas pela indústria alimentícia para manter alimentos mais tempo sem estragar."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-10",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "causa.",
+          "contrariedade.",
+          "ênfase.",
+          "exemplificação.",
+          "finalidade."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-12",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "I\nII\n(A)\nprisma",
+          "prisma\n680\n(B)\ntronco de pirâmide",
+          "tronco de pirâmide\n680\n(C)\nprisma",
+          "prisma\n1220\n(D)\ntronco de pirâmide",
+          "tronco de pirâmide\n1220\n(E)\nprisma"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-13",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "operavam na faixa de 384 THz a 659 THz.",
+          "vibravam na faixa de 482 THz a 800 THz.",
+          "oscilavam na faixa de 4 920 a 7 800 .",
+          "estavam na faixa de 3 900 a 5 970 .",
+          "giravam na faixa de 384 THz a 3 900 ."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-19",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "à vinda de povos árabes que, no final do\nséculo XIX, fugiram de perseguições religiosas\ne tornaram-se mascates nas grandes cidades\ne nas fazendas do interior do país.",
+          "à chegada do primeiro grupo de imigrantes\njaponeses, no início do século XX, na fazenda\nSanto Antônio, onde se cultivava feijão para a\nprodução de bolinhos doces e salgados.",
+          "aos\ndeslocamentos\ndos\ntropeiros,\nque\npercorriam as estradas transportando carne\nseca para os moradores das regiões de\nextração de ouro e diamantes em Minas Gerais.",
+          "à escravização de pessoas africanas para a\nprodução de açúcar, a mineração de ouro e\no plantio de café, entre outros, nos períodos\ncolonial e imperial da história do Brasil.",
+          "à intensa imigração de mexicanos, em 1848,\nmotivada pelo Tratado de Guadalupe Hidalgo,\nque trouxe para o Brasil pratos típicos à base\nde feijão, como o taco."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-25",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "a estiagem ocorrida entre 1314 e 1319\npossibilitou o aumento da produção e\npromoveu o desenvolvimento econômico do\ncontinente.",
+          "o início do século XIV marcou o fim dos\nperíodos de más colheitas e as fortes chuvas\nprovocaram\num\naumento\nda\nprodução\nagrícola.",
+          "em Winchester, os efeitos da fome não\nforam sentidos, já que o número de mortos\nmanteve-se o mesmo nos anos de 1310\ne 1317.",
+          "em Flandres, um quinto da população morreu\npor inanição devido ao rápido aumento dos\npreços dos alimentos, principalmente do\ntrigo.",
+          "na França, a falta de alimentos deu origem\na epidemias, já que parte da população se\nalimentou de animais que morreram doentes."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-26",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "a falta de alimentos nutritivos eleva a fome.",
+          "“fome”\ne\n“insegurança\nalimentar”\nsão\nsinônimos.",
+          "“fome” e “desnutrição” definem o mesmo\nconceito.",
+          "a alimentação de baixa caloria leva à\ninsegurança alimentar.",
+          "o comprometimento alimentar implica acesso\ndiário ao alimento."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-31",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "4 e 55.",
+          "4 e 125.",
+          "24 e 55.",
+          "24 e 125.",
+          "24 e 160."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-33",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "B possui pH = 4,0, sendo mais ácida que o limão.",
+          "B possui pH = 4,8, sendo mais ácida que o tomate.",
+          "A possui pH = 4,0, sendo mais ácida que o leite.",
+          "A possui pH = 4,8, sendo mais ácida que o tomate.",
+          "A possui pH = 4,8, sendo mais ácida que o leite."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-35",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "4 itens, 2 pertencerão à categoria grãos.",
+          "5 itens, pelo menos um deles será um farináceo.",
+          "6 itens, teremos produtos de três categorias diferentes.",
+          "7 itens, pelo menos um deles será um grão.",
+          "8 itens, pelo menos um deles será um doce."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-36",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "I\nI I\n(A)\nProteínas\n10,8",
+          "Proteínas\n10,8\n(B)\nCarboidratos\n10,0",
+          "Carboidratos\n10,0\n(C)\nGorduras\n10,8",
+          "Gorduras\n10,8\n(D)\nCarboidratos\n2,8",
+          "Carboidratos\n2,8\n(E)\nGorduras\n2,8"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "1,50\nLembre-se de que:",
+          "1,23\nQ = m . c . ∆θ",
+          "1,00",
+          "CH2O = 1 cal/g . oC\n(D) 0,81",
+          "0,60"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-41",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "A respeito desses cátions, é correto afirmar que\nNa\n11\n23\no número de elétrons do Ca2+ é o mesmo do K+.\n(A)",
+          "o número de elétrons do Ca2+ é o mesmo do K+.\n(A)\nCa\n20\n40\no número de nêutrons do Fe3+ é 29.\n(B)",
+          "o número de nêutrons do Fe3+ é 29.\n(B)\nFe\n26\n56\n(C) o número de elétrons do Na+ é 11.",
+          "Fe\n26\n56\n(C) o número de elétrons do Na+ é 11.\n(D) o número de massa do K+ é 19.\nK\n19",
+          "o número de massa do K+ é 19.\nK\n19\n40\no número atômico do Ca2+ é o mesmo do K+.\n(E)"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-43",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "perdem água por osmose, pois o meio externo é hipertônico.",
+          "perdem água por osmose, pois o meio externo é hipotônico.",
+          "perdem água por difusão, pois o meio externo é hipertônico.",
+          "ganham água por difusão, pois o meio externo é hipotônico.",
+          "ganham água por difusão, pois o meio externo é hipertônico."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-46",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "pulverizar as plantas com herbicidas.",
+          "misturar cloreto de sódio ao adubo.",
+          "aumentar o uso de cloro no solo.",
+          "incorporar antioxidantes à terra.",
+          "adicionar calcário ao solo."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-48",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "ao fato de que motos elétricas não usam\nbaterias elétricas.",
+          "à unidade de medida da carga elétrica da\nbateria.",
+          "ao fato de que a velocidade de uma moto\nelétrica é medida em km/h.",
+          "à conversão da unidade de 15 minutos para\n900 segundos.",
+          "ao fato de entregadores não usarem motos."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-51",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "Idade Antiga\nO\n(A)\nCH3\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH\nCH\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nC\nOH\nO\nIdade Antiga",
+          "O\nIdade Antiga\n(B)\nC\nO\nCH3\nCH\nCH\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nIdade Antiga\nO",
+          "Idade Antiga\nO\n(C)\nC\nOH\nCH3\nCH2\nCH2\nCH2\nCH2\nCH2\nCH\nCH\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nIdade Média\nO",
+          "Idade Média\nO\n(D)\nC\nOH\nCH3\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH\nCH\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nIdade Média",
+          "Idade Média\nO\n(E)\nCH3\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH\nCH\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nCH2\nC\nOH"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-53",
+      "problem": "Rodapé/número de página foi incorporado à última alternativa.",
+      "fix": {
+        "options": [
+          "Alguma fruta azeda é uma manga.",
+          "Algum morango é pequeno.",
+          "Toda fruta grande é um jaca.",
+          "Alguma jabuticaba é azeda.",
+          "Toda manga é grande."
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-1",
+      "problem": "A saudação introdutória ao candidato foi inserida como apoio compartilhado; não integra o enunciado destas perguntas.",
+      "fix": {
+        "contextHTML": "",
+        "contextText": ""
+      }
+    },
+    {
+      "id": "fatec-2023-2-2",
+      "problem": "A saudação introdutória ao candidato foi inserida como apoio compartilhado; não integra o enunciado destas perguntas.",
+      "fix": {
+        "contextHTML": "",
+        "contextText": ""
+      }
+    },
+    {
+      "id": "fatec-2023-2-3",
+      "problem": "O comando foi intercalado no primeiro parágrafo por haver duas colunas na página.",
+      "fix": {
+        "text": "Existe o mito de que a beterraba cura a anemia devido a sua coloração vermelha, que é associada ao sangue. Por isso, muitas pessoas acham que a beterraba contém muito ferro. Isso é um erro.\nAs melhores fontes de ferro de origem vegetal são os vegetais verde-escuros, as leguminosas e os grãos integrais.\nComo a vitamina C potencializa a absorção de ferro no organismo, é aconselhável consumir alimentos com alto teor dessa vitamina junto a alimentos que contêm ferro.\nExistem alimentos como chás escuros, café, refrigerantes à base de cola, chocolate e alimentos ricos em cálcio, como leite e derivados, que inibem a absorção de ferro, portanto deve-se evitar consumi-los durante ou logo após as refeições.\nFonte dos dados: <https://tinyurl.com/4mvxer26> Acesso em: 17.03.2023. Adaptado.\nCom base no texto, é correto afirmar que",
+        "stemHTML": "<p>Existe o mito de que a beterraba cura a anemia devido a sua coloração vermelha, que é associada ao sangue. Por isso, muitas pessoas acham que a beterraba contém muito ferro. Isso é um erro.</p><p>As melhores fontes de ferro de origem vegetal são os vegetais verde-escuros, as leguminosas e os grãos integrais.</p><p>Como a vitamina C potencializa a absorção de ferro no organismo, é aconselhável consumir alimentos com alto teor dessa vitamina junto a alimentos que contêm ferro.</p><p>Existem alimentos como chás escuros, café, refrigerantes à base de cola, chocolate e alimentos ricos em cálcio, como leite e derivados, que inibem a absorção de ferro, portanto deve-se evitar consumi-los durante ou logo após as refeições.</p><p>Fonte dos dados: &lt;https://tinyurl.com/4mvxer26&gt; Acesso em: 17.03.2023. Adaptado.</p><p>Com base no texto, é correto afirmar que</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-9",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 09 e 10.\nAgroforestry is the interaction of agriculture and trees, including the agricultural use of trees. This comprises\ntrees on farms and in agricultural landscapes, farming in forests and along forest margins and tree-crop\nproduction, including cocoa, coffee, rubber and oil palm. Interactions between trees and other components of\nagriculture may be important at a range of scales: in fields (where trees and crops are grown together), on farms\n(where trees may provide fodder for livestock, fuel, food, shelter or income from products including timber) and\nlandscapes (where agricultural and forest land uses combine in determining the provision of ecosystem services).\nAgroforestry is agricultural and forestry systems that try to balance various needs:\n1) to produce trees for timber and other commercial purposes;\n2) to produce a diverse, adequate supply of nutritious foods both to meet global demand and to satisfy\nthe needs of the producers themselves; and\n3) to ensure the protection of the natural environment so that it continues to provide resources\nand environmental services to meet the needs of the present generations and those to come.\n<https://tinyurl.com/pnv4wjx8> Acesso em: 04.03.2023.",
+        "contextHTML": "<p>Leia o texto para responder às questões 09 e 10. Agroforestry is the interaction of agriculture and trees, including the agricultural use of trees. This comprises trees on farms and in agricultural landscapes, farming in forests and along forest margins and tree-crop production, including cocoa, coffee, rubber and oil palm. Interactions between trees and other components of agriculture may be important at a range of scales: in fields (where trees and crops are grown together), on farms (where trees may provide fodder for livestock, fuel, food, shelter or income from products including timber) and landscapes (where agricultural and forest land uses combine in determining the provision of ecosystem services). Agroforestry is agricultural and forestry systems that try to balance various needs: 1) to produce trees for timber and other commercial purposes; 2) to produce a diverse, adequate supply of nutritious foods both to meet global demand and to satisfy the needs of the producers themselves; and 3) to ensure the protection of the natural environment so that it continues to provide resources and environmental services to meet the needs of the present generations and those to come. &lt;https://tinyurl.com/pnv4wjx8&gt; Acesso em: 04.03.2023.</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-10",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 09 e 10.\nAgroforestry is the interaction of agriculture and trees, including the agricultural use of trees. This comprises\ntrees on farms and in agricultural landscapes, farming in forests and along forest margins and tree-crop\nproduction, including cocoa, coffee, rubber and oil palm. Interactions between trees and other components of\nagriculture may be important at a range of scales: in fields (where trees and crops are grown together), on farms\n(where trees may provide fodder for livestock, fuel, food, shelter or income from products including timber) and\nlandscapes (where agricultural and forest land uses combine in determining the provision of ecosystem services).\nAgroforestry is agricultural and forestry systems that try to balance various needs:\n1) to produce trees for timber and other commercial purposes;\n2) to produce a diverse, adequate supply of nutritious foods both to meet global demand and to satisfy\nthe needs of the producers themselves; and\n3) to ensure the protection of the natural environment so that it continues to provide resources\nand environmental services to meet the needs of the present generations and those to come.\n<https://tinyurl.com/pnv4wjx8> Acesso em: 04.03.2023.",
+        "contextHTML": "<p>Leia o texto para responder às questões 09 e 10. Agroforestry is the interaction of agriculture and trees, including the agricultural use of trees. This comprises trees on farms and in agricultural landscapes, farming in forests and along forest margins and tree-crop production, including cocoa, coffee, rubber and oil palm. Interactions between trees and other components of agriculture may be important at a range of scales: in fields (where trees and crops are grown together), on farms (where trees may provide fodder for livestock, fuel, food, shelter or income from products including timber) and landscapes (where agricultural and forest land uses combine in determining the provision of ecosystem services). Agroforestry is agricultural and forestry systems that try to balance various needs: 1) to produce trees for timber and other commercial purposes; 2) to produce a diverse, adequate supply of nutritious foods both to meet global demand and to satisfy the needs of the producers themselves; and 3) to ensure the protection of the natural environment so that it continues to provide resources and environmental services to meet the needs of the present generations and those to come. &lt;https://tinyurl.com/pnv4wjx8&gt; Acesso em: 04.03.2023.</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-48",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 48 e 49.\nPara se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC\nresolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas.\nEle pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida.\nA IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas\nno quadro.\n• Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos\n• Velocidade escalar média da moto elétrica do entregador: v = 10 m/s\n• Carga elétrica da bateria da moto: Q = 20 kWh",
+        "contextHTML": "<p>Leia o texto para responder às questões 48 e 49. Para se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC resolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas. Ele pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida. A IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas no quadro. • Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos • Velocidade escalar média da moto elétrica do entregador: v = 10 m/s • Carga elétrica da bateria da moto: Q = 20 kWh</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-49",
+      "problem": "O apoio compartilhado inclui indevidamente a pergunta e alternativas da coluna esquerda.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 48 e 49.\nPara se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC\nresolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas.\nEle pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida.\nA IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas\nno quadro.\n• Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos\n• Velocidade escalar média da moto elétrica do entregador: v = 10 m/s\n• Carga elétrica da bateria da moto: Q = 20 kWh",
+        "contextHTML": "<p>Leia o texto para responder às questões 48 e 49. Para se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC resolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas. Ele pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida. A IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas no quadro. • Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos • Velocidade escalar média da moto elétrica do entregador: v = 10 m/s • Carga elétrica da bateria da moto: Q = 20 kWh</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-12",
+      "problem": "Continuação em outra página mistura cabeçalhos da tabela e alternativa anterior; recorte da figura inclui rodapé.",
+      "fix": {
+        "text": "No comércio de alimentação, a embalagem compõe a identidade visual do produto. Um exemplo disso é a clássica caixinha de entrega de comida chinesa. A figura apresenta a vista lateral, a vista da parte inferior e a vista da parte superior desse tipo de embalagem.\nLeia o texto e assinale a alternativa cujos termos completam, correta e respectivamente, as lacunas. Com base nas vistas fornecidas, é correto afirmar que a embalagem tem o formato de um ___ (I) ___, e que a área total de material necessário para a confeccionar pode ser estimada em cerca de ___ (II) ___ cm², sem levar em consideração as dobras de fechamento e de colagem.",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>No comércio de alimentação, a embalagem compõe a identidade visual do produto. Um exemplo disso é a clássica caixinha de entrega de comida chinesa. A figura apresenta a vista lateral, a vista da parte inferior e a vista da parte superior desse tipo de embalagem.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 6,
+            "rect": [
+              38.5,
+              512.7,
+              558.7,
+              711.4
+            ],
+            "alt": "Vistas da embalagem: lateral trapezoidal com lado inclinado de 13 cm, fundo quadrado de lado 10 cm e topo quadrado de lado 20 cm"
+          },
+          {
+            "type": "html",
+            "html": "<p>Leia o texto e assinale a alternativa cujos termos completam, correta e respectivamente, as lacunas. Com base nas vistas fornecidas, é correto afirmar que a embalagem tem o formato de um ___ (I) ___, e que a área total de material necessário para a confeccionar pode ser estimada em cerca de ___ (II) ___ cm², sem levar em consideração as dobras de fechamento e de colagem.</p>"
+          }
+        ],
+        "options": [
+          "I: prisma; II: 680 cm²",
+          "I: tronco de pirâmide; II: 680 cm²",
+          "I: prisma; II: 1 220 cm²",
+          "I: tronco de pirâmide; II: 1 220 cm²",
+          "I: prisma; II: 1 280 cm²"
+        ],
+        "optionHTML": [
+          "<p>I: prisma; II: 680 cm²</p>",
+          "<p>I: tronco de pirâmide; II: 680 cm²</p>",
+          "<p>I: prisma; II: 1 220 cm²</p>",
+          "<p>I: tronco de pirâmide; II: 1 220 cm²</p>",
+          "<p>I: prisma; II: 1 280 cm²</p>"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-13",
+      "problem": "Símbolos de desigualdade e unidade Å não foram extraídos; tabela ficou como lista sem colunas.",
+      "fix": {
+        "text": "Três ex-alunas de marketing da FATEC montam um ensaio fotográfico com algumas frutas. Para isso, utilizam uma lâmpada de LED como iluminação de apoio. Essa lâmpada de LED tem um dispositivo eletrônico que permite controlar a emissão de luz em diferentes comprimentos de onda, apresentados em angström (Å), e diferentes frequências, apresentadas em terahertz, conforme apresentado no quadro.\nPara esse ensaio fotográfico, as alunas selecionaram separadamente morangos, bananas e limões maduros. Além disso, elas restringiram a variação de cores da luz da lâmpada de LED para realçar as cores apenas desses alimentos nas imagens produzidas. Assim, podemos afirmar corretamente que, durante a produção das diferentes imagens, a lâmpada emitiu ondas eletromagnéticas que",
+        "stemHTML": "<p>Três ex-alunas de marketing da FATEC montam um ensaio fotográfico com algumas frutas. Para isso, utilizam uma lâmpada de LED como iluminação de apoio. Essa lâmpada de LED tem um dispositivo eletrônico que permite controlar a emissão de luz em diferentes comprimentos de onda, apresentados em angström (Å), e diferentes frequências, apresentadas em terahertz, conforme apresentado no quadro.</p><div class=\"question-data\"><table><thead><tr><th>Cor</th><th>Faixa de comprimento de onda λ (Å)</th><th>Faixa de frequência f (THz)</th></tr></thead><tbody><tr><td>Violeta</td><td>3 900 ≤ λ &lt; 4 500</td><td>769 ≥ f &gt; 665</td></tr><tr><td>Anil</td><td>4 500 ≤ λ &lt; 4 550</td><td>665 ≥ f &gt; 659</td></tr><tr><td>Azul</td><td>4 550 ≤ λ &lt; 4 920</td><td>659 ≥ f &gt; 610</td></tr><tr><td>Verde</td><td>4 920 ≤ λ &lt; 5 770</td><td>610 ≥ f &gt; 520</td></tr><tr><td>Amarelo</td><td>5 770 ≤ λ &lt; 5 970</td><td>520 ≥ f &gt; 503</td></tr><tr><td>Alaranjado</td><td>5 970 ≤ λ &lt; 6 220</td><td>503 ≥ f &gt; 482</td></tr><tr><td>Vermelho</td><td>6 220 ≤ λ ≤ 7 800</td><td>482 ≥ f ≥ 384</td></tr></tbody></table></div><p>Para esse ensaio fotográfico, as alunas selecionaram separadamente morangos, bananas e limões maduros. Além disso, elas restringiram a variação de cores da luz da lâmpada de LED para realçar as cores apenas desses alimentos nas imagens produzidas. Assim, podemos afirmar corretamente que, durante a produção das diferentes imagens, a lâmpada emitiu ondas eletromagnéticas que</p>",
+        "options": [
+          "operavam na faixa de 384 THz a 659 THz.",
+          "vibravam na faixa de 482 THz a 800 THz.",
+          "oscilavam na faixa de 4 920 Å a 7 800 Å.",
+          "estavam na faixa de 3 900 Å a 5 970 Å.",
+          "giravam na faixa de 384 THz a 3 900 Å."
+        ],
+        "optionHTML": [
+          "<p>operavam na faixa de 384 THz a 659 THz.</p>",
+          "<p>vibravam na faixa de 482 THz a 800 THz.</p>",
+          "<p>oscilavam na faixa de 4 920 Å a 7 800 Å.</p>",
+          "<p>estavam na faixa de 3 900 Å a 5 970 Å.</p>",
+          "<p>giravam na faixa de 384 THz a 3 900 Å.</p>"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-32",
+      "problem": "A tabela à esquerda foi intercalada com enunciado e alternativas à direita, deslocando as alternativas.",
+      "fix": {
+        "text": "O quadro relaciona algumas variedades de café à quantidade de cafeína contida em cada uma.\nConsidere que uma variedade de café de massa 500 g foi analisada e apresentou 11 g de cafeína. Com base no quadro fornecido, é correto afirmar que a variedade de café analisada é",
+        "stemHTML": "<p>O quadro relaciona algumas variedades de café à quantidade de cafeína contida em cada uma.</p><div class=\"question-data\"><table><thead><tr><th>Variedade de café</th><th>Quantidade média de cafeína em porcentagem em massa (%)</th></tr></thead><tbody><tr><td>Coffea arabica</td><td>1,1</td></tr><tr><td>Coffea excelsa</td><td>1,9</td></tr><tr><td>Coffea liberica</td><td>2,1</td></tr><tr><td>Coffea canephora</td><td>2,2</td></tr><tr><td>Coffea robusta</td><td>2,4</td></tr></tbody></table></div><p>Considere que uma variedade de café de massa 500 g foi analisada e apresentou 11 g de cafeína. Com base no quadro fornecido, é correto afirmar que a variedade de café analisada é</p>",
+        "options": [
+          "Coffea arabica.",
+          "Coffea excelsa.",
+          "Coffea liberica.",
+          "Coffea canephora.",
+          "Coffea robusta."
+        ],
+        "optionHTML": [
+          "<p>Coffea arabica.</p>",
+          "<p>Coffea excelsa.</p>",
+          "<p>Coffea liberica.</p>",
+          "<p>Coffea canephora.</p>",
+          "<p>Coffea robusta.</p>"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-35",
+      "problem": "Símbolos de lista foram convertidos para a letra r; duas linhas aparecem antes da abertura do enunciado.",
+      "fix": {
+        "text": "Em uma cesta básica, há 10 itens:\n• 4 tipos de grãos (feijão, arroz, milho e lentilha);\n• 3 tipos de farináceos (fubá, farinha de trigo e farinha de mandioca);\n• 2 doces (gelatina e goiabada); e\n• 1 sal.\nÉ correto afirmar que, se uma pessoa retirar, ao acaso e sem olhar, apenas",
+        "stemHTML": "<p>Em uma cesta básica, há 10 itens:</p><p>• 4 tipos de grãos (feijão, arroz, milho e lentilha);</p><p>• 3 tipos de farináceos (fubá, farinha de trigo e farinha de mandioca);</p><p>• 2 doces (gelatina e goiabada); e</p><p>• 1 sal.</p><p>É correto afirmar que, se uma pessoa retirar, ao acaso e sem olhar, apenas</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-36",
+      "problem": "Apoio em coluna usa tabelas cujas células ficam soltas no texto; reconstruídas com cabeçalhos e unidades.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 36 e 37.\nNo Brasil, a Instrução Normativa − IN Nº 95, de 8 de outubro de 2020, estabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados. Estão presentes, nos anexos desta resolução, os valores diários de referência de nutrientes de declaração obrigatória, apresentados parcialmente na tabela 1. Esses valores indicam a quantidade máxima recomendada de ingestão de um determinado nutriente em um dia.\nA tabela 2 apresenta os valores nutricionais de uma porção do milho painço.\nTabela 1: Carboidratos 300 g; Proteínas 50 g; Gorduras Totais 65 g. Tabela 2: Carboidratos 30 g; Proteínas 5,4 g; Gorduras Totais 1,8 g.",
+        "contextHTML": "<p>Leia o texto para responder às questões 36 e 37.</p><p>No Brasil, a Instrução Normativa − IN Nº 95, de 8 de outubro de 2020, estabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados. Estão presentes, nos anexos desta resolução, os valores diários de referência de nutrientes de declaração obrigatória, apresentados parcialmente na tabela 1. Esses valores indicam a quantidade máxima recomendada de ingestão de um determinado nutriente em um dia.</p><p>A tabela 2 apresenta os valores nutricionais de uma porção do milho painço.</p><h3>Tabela 1: Valores diários de referência de nutrientes – IN nº 75</h3><div class=\"question-data\"><table><thead><tr><th>Nutriente</th><th>Quantidade diária</th></tr></thead><tbody><tr><td>Carboidratos</td><td>300 g</td></tr><tr><td>Proteínas</td><td>50 g</td></tr><tr><td>Gorduras Totais</td><td>65 g</td></tr></tbody></table></div><h3>Tabela 2: Milho painço – porção de 45 g</h3><div class=\"question-data\"><table><thead><tr><th>Nutriente</th><th>Quantidade na porção</th></tr></thead><tbody><tr><td>Carboidratos</td><td>30 g</td></tr><tr><td>Proteínas</td><td>5,4 g</td></tr><tr><td>Gorduras Totais</td><td>1,8 g</td></tr></tbody></table></div>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-37",
+      "problem": "Apoio em coluna usa tabelas cujas células ficam soltas no texto; reconstruídas com cabeçalhos e unidades.",
+      "fix": {
+        "contextText": "Leia o texto para responder às questões 36 e 37.\nNo Brasil, a Instrução Normativa − IN Nº 95, de 8 de outubro de 2020, estabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados. Estão presentes, nos anexos desta resolução, os valores diários de referência de nutrientes de declaração obrigatória, apresentados parcialmente na tabela 1. Esses valores indicam a quantidade máxima recomendada de ingestão de um determinado nutriente em um dia.\nA tabela 2 apresenta os valores nutricionais de uma porção do milho painço.\nTabela 1: Carboidratos 300 g; Proteínas 50 g; Gorduras Totais 65 g. Tabela 2: Carboidratos 30 g; Proteínas 5,4 g; Gorduras Totais 1,8 g.",
+        "contextHTML": "<p>Leia o texto para responder às questões 36 e 37.</p><p>No Brasil, a Instrução Normativa − IN Nº 95, de 8 de outubro de 2020, estabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados. Estão presentes, nos anexos desta resolução, os valores diários de referência de nutrientes de declaração obrigatória, apresentados parcialmente na tabela 1. Esses valores indicam a quantidade máxima recomendada de ingestão de um determinado nutriente em um dia.</p><p>A tabela 2 apresenta os valores nutricionais de uma porção do milho painço.</p><h3>Tabela 1: Valores diários de referência de nutrientes – IN nº 75</h3><div class=\"question-data\"><table><thead><tr><th>Nutriente</th><th>Quantidade diária</th></tr></thead><tbody><tr><td>Carboidratos</td><td>300 g</td></tr><tr><td>Proteínas</td><td>50 g</td></tr><tr><td>Gorduras Totais</td><td>65 g</td></tr></tbody></table></div><h3>Tabela 2: Milho painço – porção de 45 g</h3><div class=\"question-data\"><table><thead><tr><th>Nutriente</th><th>Quantidade na porção</th></tr></thead><tbody><tr><td>Carboidratos</td><td>30 g</td></tr><tr><td>Proteínas</td><td>5,4 g</td></tr><tr><td>Gorduras Totais</td><td>1,8 g</td></tr></tbody></table></div>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-36",
+      "problem": "Lacunas e células da tabela de alternativas deslocadas, com conteúdo da opção anterior.",
+      "fix": {
+        "text": "Leia o texto e assinale a alternativa cujos termos completam, correta e respectivamente, as lacunas. Ao consumir uma porção de milho painço, uma pessoa ingere substâncias relacionadas ao armazenamento de energia, ___ (I) ___, que agem como um importante isolante térmico. Nessa porção, elas correspondem a, aproximadamente, ___ (II) ___ % do total diário recomendado.",
+        "stemHTML": "<p>Leia o texto e assinale a alternativa cujos termos completam, correta e respectivamente, as lacunas. Ao consumir uma porção de milho painço, uma pessoa ingere substâncias relacionadas ao armazenamento de energia, ___ (I) ___, que agem como um importante isolante térmico. Nessa porção, elas correspondem a, aproximadamente, ___ (II) ___ % do total diário recomendado.</p>",
+        "options": [
+          "I: Proteínas; II: 10,8%",
+          "I: Carboidratos; II: 10,0%",
+          "I: Gorduras; II: 10,8%",
+          "I: Carboidratos; II: 2,8%",
+          "I: Gorduras; II: 2,8%"
+        ],
+        "optionHTML": [
+          "<p>I: Proteínas; II: 10,8%</p>",
+          "<p>I: Carboidratos; II: 10,0%</p>",
+          "<p>I: Gorduras; II: 10,8%</p>",
+          "<p>I: Carboidratos; II: 2,8%</p>",
+          "<p>I: Gorduras; II: 2,8%</p>"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Fórmulas do quadro lateral foram incorporadas às alternativas A–D; remover mistura e exibir dados junto ao enunciado.",
+      "fix": {
+        "text": "Em uma tabela nutricional, como a apresentada,\na quantidade de energia expressa em calorias é obtida, experimentalmente, utilizando-se um\nrecipiente denominado “calorímetro de combustão”\n(figura).\n\nPara que isso ocorra, uma certa amostra\ndo alimento (ou seja, uma massa) entra em\ncombustão dentro de uma cápsula fechada,\nimersa em um recipiente termicamente isolado, o\nqual contém um termômetro e uma determinada\nmassa de água pura. Durante a combustão há\ntransferência de energia para a água (calor).\nConsequentemente, observa-se a variação de\ntemperatura da água por meio dos dados do calor\nespecífico (c) da água, de sua massa (m), sendo\npossível prever a quantidade (Q) de energia\ntrocada.\nSuponha que, para a construção da tabela\nnutricional\napresentada,\no\nexperimento\nfoi\nmontado utilizando uma massa de água pura que\né igual à massa da porção do alimento da tabela.\nConsiderando as informações descritas e os dados\ncontidos na tabela nutricional, assinale a alternativa\nque apresenta, correta e aproximadamente, a\nvariação de temperatura (∆θ), em oC, observada no\ntermômetro.\nLembre-se de que: Q = m · c · Δθ; c da água = 1 cal/(g · °C).",
+        "stemHTML": "<p>Em uma tabela nutricional, como a apresentada, a quantidade de energia expressa em calorias é obtida, experimentalmente, utilizando-se um recipiente denominado “calorímetro de combustão” (figura).  Para que isso ocorra, uma certa amostra do alimento (ou seja, uma massa) entra em combustão dentro de uma cápsula fechada, imersa em um recipiente termicamente isolado, o qual contém um termômetro e uma determinada massa de água pura. Durante a combustão há transferência de energia para a água (calor). Consequentemente, observa-se a variação de temperatura da água por meio dos dados do calor específico (c) da água, de sua massa (m), sendo possível prever a quantidade (Q) de energia trocada. Suponha que, para a construção da tabela nutricional apresentada, o experimento foi montado utilizando uma massa de água pura que é igual à massa da porção do alimento da tabela. Considerando as informações descritas e os dados contidos na tabela nutricional, assinale a alternativa que apresenta, correta e aproximadamente, a variação de temperatura (∆θ), em oC, observada no termômetro.</p><p>Lembre-se de que: Q = m · c · Δθ; c da água = 1 cal/(g · °C).</p>",
+        "options": [
+          "1,50",
+          "1,23",
+          "1,00",
+          "0,81",
+          "0,60"
+        ],
+        "optionHTML": [
+          "<p>1,50</p>",
+          "<p>1,23</p>",
+          "<p>1,00</p>",
+          "<p>0,81</p>",
+          "<p>0,60</p>"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Inconsistência física da fonte: o gabarito B usa 280 como cal, enquanto Calories de rótulo nutricional usualmente significa kcal; manter gabarito e explicar ressalva.",
+      "fix": {
+        "reviewNote": "Gabarito B reproduz 280/(227×1)=1,23. Com conversão nutricional correta de 280 kcal, teríamos aproximadamente 1 233°C, ausente das alternativas. Não apresentar B como cálculo fisicamente inequívoco."
+      }
+    },
+    {
+      "id": "fatec-2023-2-41",
+      "problem": "Tabela de elementos químicos misturada às alternativas, tornando-as deslocadas e repetidas.",
+      "fix": {
+        "text": "A lasanha apresenta, em sua composição, os cátions sódio (Na⁺), cálcio (Ca²⁺), ferro (Fe³⁺) e potássio (K⁺). Considere os dados da tabela. A respeito desses cátions, é correto afirmar que",
+        "stemHTML": "<p>A lasanha apresenta, em sua composição, os cátions sódio (Na⁺), cálcio (Ca²⁺), ferro (Fe³⁺) e potássio (K⁺). Considere que:</p><div class=\"question-data\"><table><thead><tr><th>Elemento Químico</th><th>Número Atômico (Z)</th><th>Número de massa (A)</th></tr></thead><tbody><tr><td>Na</td><td>11</td><td>23</td></tr><tr><td>Ca</td><td>20</td><td>40</td></tr><tr><td>Fe</td><td>26</td><td>56</td></tr><tr><td>K</td><td>19</td><td>40</td></tr></tbody></table></div><p>A respeito desses cátions, é correto afirmar que</p>",
+        "options": [
+          "o número de elétrons do Ca²⁺ é o mesmo do K⁺.",
+          "o número de nêutrons do Fe³⁺ é 29.",
+          "o número de elétrons do Na⁺ é 11.",
+          "o número de massa do K⁺ é 19.",
+          "o número atômico do Ca²⁺ é o mesmo do K⁺."
+        ],
+        "optionHTML": [
+          "<p>o número de elétrons do Ca²⁺ é o mesmo do K⁺.</p>",
+          "<p>o número de nêutrons do Fe³⁺ é 29.</p>",
+          "<p>o número de elétrons do Na⁺ é 11.</p>",
+          "<p>o número de massa do K⁺ é 19.</p>",
+          "<p>o número atômico do Ca²⁺ é o mesmo do K⁺.</p>"
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-45",
+      "problem": "Comando à direita aparece intercalado no primeiro parágrafo, em vez de após o texto de apoio.",
+      "fix": {
+        "text": "As evoluções tecnológicas estão transformando\na maneira como a agricultura tem sido praticada.\nUm desses exemplos é o uso de sensores digitais.\nPor intermédio deles, pulverizadores podem atingir\nalvos, como, por exemplo, plantas daninhas, evitando\no desperdício de princípio ativo em plantas não alvo.\nO monitoramento de pulverização tratorizada\npor GPS permite a pulverização certeira e evita a\nsobreposição de pulverização na mesma área, e já\né uma realidade na agricultura brasileira.\nJá se usam, no Brasil, sensores de colheita que\nmonitoram a produtividade do que está sendo colhido\nem tempo real, gerando mapas de produtividade.\nEsses mapas podem ser cruzados com mapas de\nanálise de solo, e auxiliar nas tomadas de decisão\nsobre o uso de fertilizantes para as próximas safras.\n<https://tinyurl.com/7r7e47em> Acesso em: 24.03.2023. Adaptado.\nSobre o uso das tecnologias nos processos produtivos agrícolas, é correto afirmar que",
+        "stemHTML": "<p>As evoluções tecnológicas estão transformando a maneira como a agricultura tem sido praticada. Um desses exemplos é o uso de sensores digitais. Por intermédio deles, pulverizadores podem atingir alvos, como, por exemplo, plantas daninhas, evitando o desperdício de princípio ativo em plantas não alvo. O monitoramento de pulverização tratorizada por GPS permite a pulverização certeira e evita a sobreposição de pulverização na mesma área, e já é uma realidade na agricultura brasileira. Já se usam, no Brasil, sensores de colheita que monitoram a produtividade do que está sendo colhido em tempo real, gerando mapas de produtividade. Esses mapas podem ser cruzados com mapas de análise de solo, e auxiliar nas tomadas de decisão sobre o uso de fertilizantes para as próximas safras. &lt;https://tinyurl.com/7r7e47em&gt; Acesso em: 24.03.2023. Adaptado. Sobre o uso das tecnologias nos processos produtivos agrícolas, é correto afirmar que</p>"
+      }
+    },
+    {
+      "id": "fatec-2023-2-51",
+      "problem": "Recortes químicos cortam COOH à direita e mostram títulos das alternativas seguintes; título A vaza para o enunciado.",
+      "fix": {
+        "text": "O azeite de oliva é um óleo extraído da polpa da azeitona, que é um fruto oriundo da oliveira. As oliveiras são\nárvores cultivadas desde aproximadamente 3 500 a.C.. Egípcios, gregos e romanos utilizaram o azeite não\napenas como alimento, mas também como combustível em lamparinas e como oferendas em rituais.\nNo azeite de oliva, encontramos diversos tipos de ácidos graxos insaturados.\nÁcidos graxos insaturados são ácidos carboxílicos de cadeia longa que apresentam ligação dupla (insaturação)\nentre átomos de carbono.\nO principal ácido graxo insaturado encontrado no azeite é o ácido oleico, cuja fórmula estrutural apresenta:\n• 18 átomos de carbono; e\n• uma insaturação entre os carbonos 9 e 10, contados a partir do átomo de carbono que está localizado\nna ponta da cadeia e que está ligado aos átomos de oxigênio.\nCom base no texto, assinale a alternativa que apresenta corretamente o período histórico mencionado no\ntexto e a fórmula estrutural do ácido oleico.",
+        "stemHTML": "<p>O azeite de oliva é um óleo extraído da polpa da azeitona, que é um fruto oriundo da oliveira. As oliveiras são árvores cultivadas desde aproximadamente 3 500 a.C.. Egípcios, gregos e romanos utilizaram o azeite não apenas como alimento, mas também como combustível em lamparinas e como oferendas em rituais. No azeite de oliva, encontramos diversos tipos de ácidos graxos insaturados. Ácidos graxos insaturados são ácidos carboxílicos de cadeia longa que apresentam ligação dupla (insaturação) entre átomos de carbono. O principal ácido graxo insaturado encontrado no azeite é o ácido oleico, cuja fórmula estrutural apresenta: • 18 átomos de carbono; e • uma insaturação entre os carbonos 9 e 10, contados a partir do átomo de carbono que está localizado na ponta da cadeia e que está ligado aos átomos de oxigênio. Com base no texto, assinale a alternativa que apresenta corretamente o período histórico mencionado no texto e a fórmula estrutural do ácido oleico.</p>",
+        "optionContent": [
+          [
+            {
+              "type": "crop",
+              "page": 21,
+              "rect": [
+                63,
+                503,
+                574,
+                546
+              ],
+              "alt": "Alternativa A: período histórico e fórmula estrutural química original"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 21,
+              "rect": [
+                63,
+                547,
+                574,
+                588
+              ],
+              "alt": "Alternativa B: período histórico e fórmula estrutural química original"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 21,
+              "rect": [
+                63,
+                590,
+                522,
+                630
+              ],
+              "alt": "Alternativa C: período histórico e fórmula estrutural química original"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 21,
+              "rect": [
+                63,
+                632,
+                522,
+                672
+              ],
+              "alt": "Alternativa D: período histórico e fórmula estrutural química original"
+            }
+          ],
+          [
+            {
+              "type": "crop",
+              "page": 21,
+              "rect": [
+                63,
+                673,
+                574,
+                720
+              ],
+              "alt": "Alternativa E: período histórico e fórmula estrutural química original"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-54",
+      "problem": "Recorte da tirinha corta a extremidade direita e parte das falas, impedindo a leitura integral.",
+      "fix": {
+        "text": "Leia os quadrinhos.\nAnalisando os quadrinhos, pode concluir-se corretamente que",
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Leia os quadrinhos.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 22,
+            "rect": [
+              297,
+              88,
+              576,
+              440
+            ],
+            "alt": "Tirinha completa sobre aproveitamento de cascas de frutas e desperdício de alimentos"
+          },
+          {
+            "type": "html",
+            "html": "<p>&lt;https://tinyurl.com/5ac5mb46&gt; Acesso em: 10.03.2023. Original colorido.</p><p>Analisando os quadrinhos, pode concluir-se corretamente que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-25",
+      "problem": "A palavra população perdeu a letra inicial no recorte da coluna.",
+      "fix": {
+        "text": "A partir do século XIV, os períodos de\nmás colheitas tornaram-se frequentes\ne longos. As fortes chuvas, em\nquase todas as regiões da Europa,\ndestruíram\nmuitas\nplantações. O\nperíodo mais crítico foi de 1314 a 1319.\nComo consequência, houve um rápido\naumento dos preços dos alimentos,\nprincipalmente do trigo. Assim, o\ntemido fantasma da fome voltou a\nameaçar a ppopulação europeia.\nEm Flandres, cerca de 10 % da população\nmorreu por inanição. Em Winchester,\nna Inglaterra, as mortes ocorridas em\n1317 atingiram o dobro das registradas\nem 1310. Na região do Baixo Reno,\nna França, um cronista relatou que as\npopulações chegaram a se alimentar de\nanimais mortos por doenças, o que teria\ndado origem a pestes epidêmicas.\nARARIBÁ PLUS: História. 4a ed. São Paulo: Moderna,\n2014. p. 99-100. Adaptado.\nSegundo o texto,"
+      }
+    }
+  ]
+}

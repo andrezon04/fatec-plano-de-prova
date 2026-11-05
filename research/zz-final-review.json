@@ -1,0 +1,339 @@
+{
+  "solutions": {},
+  "issues": [
+    {
+      "id": "fatec-2024-2-23",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>A taxa bruta de matrícula é o indicador mais usado em todo o mundo para monitorar o acesso à educação. O gráfico apresentado foi elaborado utilizando uma aproximação linear para os valores dessa taxa de matrícula no ensino superior.</p><p><strong>Taxa bruta de matrícula no ensino superior na América Latina e Caribe de 2000 a 2020</strong></p>"
+          },
+          {
+            "type": "crop",
+            "page": 10,
+            "rect": [
+              30,
+              125,
+              538,
+              313
+            ],
+            "alt": "Gráfico completo: taxa de 23,1% em 2000 a 54,1% em 2020, com aproximação linear."
+          },
+          {
+            "type": "html",
+            "html": "<p class=\"tiny\">Fonte dos dados: &lt;http://tinyurl.com/4w8m89rz&gt;. Acesso em: 12.01.2024.</p><p>De acordo com o gráfico, pode-se concluir, corretamente, que a taxa bruta de matrículas no ensino superior, estimada no ano de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-48",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 48 e 49.</strong></p><p>Para se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC resolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas. Ele pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida.</p><p>A IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas no quadro.</p><ul><li>Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos.</li><li>Velocidade escalar média da moto elétrica do entregador: v = 10 m/s.</li><li>Carga elétrica da bateria da moto: Q = 20 kWh.</li></ul><p>Após receber o exercício, o estudante identifica um erro.</p><p>Analisando os dados, é correto afirmar que o <strong>erro identificado</strong> se refere</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-49",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 48 e 49.</strong></p><p>Para se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC resolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas. Ele pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida.</p><p>A IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas no quadro.</p><ul><li>Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos.</li><li>Velocidade escalar média da moto elétrica do entregador: v = 10 m/s.</li><li>Carga elétrica da bateria da moto: Q = 20 kWh.</li></ul><p>O estudante percebeu que, apesar do erro, poderia ainda utilizar os dados fornecidos pela IA para determinar a distância percorrida pelo entregador.</p><p>Após fazer os cálculos, ele descobriu que, no tempo apresentado, o entregador percorreu, em km, a distância de</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-39",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Considere a imagem de uma embalagem para responder às questões de 39 a 41.</strong></p><p>Sample Label for Frozen Lasagna</p>"
+          },
+          {
+            "type": "crop",
+            "page": 17,
+            "rect": [
+              49,
+              84,
+              285,
+              466
+            ],
+            "alt": "Rótulo original da lasanha: porção de 1 cup (227 g), Calories 280, valores de nutrientes e percentuais diários."
+          },
+          {
+            "type": "html",
+            "html": "<p>Informações da porção: <strong>1 cup (227 g)</strong>; energia indicada no rótulo: <strong>Calories 280</strong>.</p><p>1 — Serving Information; 2 — Calories; 3 — Quick Guide to percent Daily Value (% DV): 5% or less is low; 20% or less is high; 4 — Nutrients.</p><p class=\"tiny\">Fonte: &lt;https://tinyurl.com/bp7b85js&gt;. Acesso em: 04.03.2023.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A partir da leitura da imagem, pode concluir-se corretamente que uma porção desse produto</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-40",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Considere a imagem de uma embalagem para responder às questões de 39 a 41.</strong></p><p>Sample Label for Frozen Lasagna</p>"
+          },
+          {
+            "type": "crop",
+            "page": 17,
+            "rect": [
+              49,
+              84,
+              285,
+              466
+            ],
+            "alt": "Rótulo original da lasanha: porção de 1 cup (227 g), Calories 280, valores de nutrientes e percentuais diários."
+          },
+          {
+            "type": "html",
+            "html": "<p>Informações da porção: <strong>1 cup (227 g)</strong>; energia indicada no rótulo: <strong>Calories 280</strong>.</p><p>1 — Serving Information; 2 — Calories; 3 — Quick Guide to percent Daily Value (% DV): 5% or less is low; 20% or less is high; 4 — Nutrients.</p><p class=\"tiny\">Fonte: &lt;https://tinyurl.com/bp7b85js&gt;. Acesso em: 04.03.2023.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>Em uma tabela nutricional, como a apresentada, a quantidade de energia expressa em calorias é obtida, experimentalmente, utilizando-se um recipiente denominado “calorímetro de combustão” (figura).</p>"
+          },
+          {
+            "type": "crop",
+            "page": 17,
+            "rect": [
+              354,
+              130,
+              537,
+              286
+            ],
+            "alt": "Calorímetro de combustão com amostra, termômetro e recipiente com água pura."
+          },
+          {
+            "type": "html",
+            "html": "<p>Para que isso ocorra, uma certa amostra do alimento (ou seja, uma massa) entra em combustão dentro de uma cápsula fechada, imersa em um recipiente termicamente isolado, o qual contém um termômetro e uma determinada massa de água pura. Durante a combustão há transferência de energia para a água (calor). Consequentemente, observa-se a variação de temperatura da água por meio dos dados do calor específico (c), de sua massa (m), sendo possível prever a quantidade (Q) de energia trocada.</p><p>Suponha que, para a construção da tabela nutricional apresentada, o experimento foi montado utilizando uma massa de água pura que é igual à massa da porção do alimento da tabela.</p><p>Considerando as informações descritas e os dados contidos na tabela nutricional, assinale a alternativa que apresenta, correta e aproximadamente, a variação de temperatura (Δθ), em °C, observada no termômetro.</p><p><strong>Lembre-se de que:</strong> Q = m · c · Δθ; c<sub>H₂O</sub> = 1 cal/(g · °C).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-2-41",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Considere a imagem de uma embalagem para responder às questões de 39 a 41.</strong></p><p>Sample Label for Frozen Lasagna</p>"
+          },
+          {
+            "type": "crop",
+            "page": 17,
+            "rect": [
+              49,
+              84,
+              285,
+              466
+            ],
+            "alt": "Rótulo original da lasanha: porção de 1 cup (227 g), Calories 280, valores de nutrientes e percentuais diários."
+          },
+          {
+            "type": "html",
+            "html": "<p>Informações da porção: <strong>1 cup (227 g)</strong>; energia indicada no rótulo: <strong>Calories 280</strong>.</p><p>1 — Serving Information; 2 — Calories; 3 — Quick Guide to percent Daily Value (% DV): 5% or less is low; 20% or less is high; 4 — Nutrients.</p><p class=\"tiny\">Fonte: &lt;https://tinyurl.com/bp7b85js&gt;. Acesso em: 04.03.2023.</p>"
+          },
+          {
+            "type": "html",
+            "html": "<p>A lasanha apresenta, em sua composição, os cátions sódio (Na⁺), cálcio (Ca²⁺), ferro (Fe³⁺) e potássio (K⁺). Considere que:</p><div class=\"question-data\"><table><thead><tr><th>Elemento Químico</th><th>Número Atômico (Z)</th><th>Número de massa (A)</th></tr></thead><tbody><tr><td>Na</td><td>11</td><td>23</td></tr><tr><td>Ca</td><td>20</td><td>40</td></tr><tr><td>Fe</td><td>26</td><td>56</td></tr><tr><td>K</td><td>19</td><td>40</td></tr></tbody></table></div><p>A respeito desses cátions, é correto afirmar que</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-20",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 20 e 21.</strong></p><p>Platão (428 a.C. – 347 a.C.), filósofo e matemático grego, defendia uma teoria segundo a qual a natureza era composta por sólidos minúsculos, conhecidos hoje pelo nome sólidos platônicos.</p><p>Um sólido platônico, na matemática, é descrito como um poliedro convexo no qual</p><ul><li>todas as faces são formadas por polígonos regulares e congruentes entre si;</li><li>o mesmo número de arestas encontra-se em todos os vértices; e</li><li>os ângulos poliédricos são congruentes entre si.</li></ul><p>Muitos séculos depois, os químicos estabeleceram teorias que lhes permitiram a criação de modelos de geometrias moleculares, algumas das quais estão mostradas na imagem.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 10,
+            "rect": [
+              43,
+              215,
+              552,
+              374
+            ],
+            "alt": "Modelos moleculares linear, trigonal plano, tetraédrico, bipiramidal trigonal e octaédrico."
+          },
+          {
+            "type": "html",
+            "html": "<p>Assinale a alternativa que apresenta geometrias moleculares que coincidem com os poliedros de Platão.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-21",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p><strong>Leia o texto para responder às questões 20 e 21.</strong></p><p>Platão (428 a.C. – 347 a.C.), filósofo e matemático grego, defendia uma teoria segundo a qual a natureza era composta por sólidos minúsculos, conhecidos hoje pelo nome sólidos platônicos.</p><p>Um sólido platônico, na matemática, é descrito como um poliedro convexo no qual</p><ul><li>todas as faces são formadas por polígonos regulares e congruentes entre si;</li><li>o mesmo número de arestas encontra-se em todos os vértices; e</li><li>os ângulos poliédricos são congruentes entre si.</li></ul><p>Muitos séculos depois, os químicos estabeleceram teorias que lhes permitiram a criação de modelos de geometrias moleculares, algumas das quais estão mostradas na imagem.</p>"
+          },
+          {
+            "type": "crop",
+            "page": 10,
+            "rect": [
+              43,
+              215,
+              552,
+              374
+            ],
+            "alt": "Modelos moleculares linear, trigonal plano, tetraédrico, bipiramidal trigonal e octaédrico."
+          },
+          {
+            "type": "html",
+            "html": "<p>Dadas as substâncias: amônia, NH₃; trióxido de enxofre, SO₃; água, H₂O; metano, CH₄ e dióxido de carbono, CO₂.</p><p>Assinale a alternativa que apresenta a molécula com geometria trigonal plana.</p><p>Dados — números atômicos: H = 1; C = 6; N = 7; O = 8; S = 16.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2023-1-43",
+      "problem": "Conferência final do texto e das figuras contra o PDF original e capturas do usuário.",
+      "fix": {
+        "content": [
+          {
+            "type": "html",
+            "html": "<p>Um estudante de Construção Civil da Fatec está executando um desenho técnico, para\num projeto de uma fazenda vertical. Na planta baixa, apresentada na imagem, estão\nespecificadas algumas medidas na escala 1:500 – em que 1 m na medida real corresponde a\n0,2 cm na planta baixa.\nLogo, o perímetro da construção será, em metros, igual a</p>"
+          },
+          {
+            "type": "crop",
+            "page": 18,
+            "rect": [
+              351,
+              577,
+              486,
+              710
+            ],
+            "alt": "Planta baixa da construção, com medidas de 10,5 cm, 24,4 cm e 11,9 cm e ângulos retos indicados."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fatec-2024-1-42",
+      "problem": "Os recortes dos gráficos cortavam o início do título do eixo. Título nativo e esboços completos separados.",
+      "fix": {
+        "optionContent": [
+          [
+            {
+              "type": "html",
+              "html": "<p>Solubilidade de O₂ (mg/L)</p>"
+            },
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                54,
+                616,
+                125,
+                690
+              ],
+              "displayWidth": 180,
+              "alt": "Esboço do gráfico da alternativa A, com temperatura T (°C) no eixo horizontal."
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Solubilidade de O₂ (mg/L)</p>"
+            },
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                162,
+                616,
+                232,
+                690
+              ],
+              "displayWidth": 180,
+              "alt": "Esboço do gráfico da alternativa B, com temperatura T (°C) no eixo horizontal."
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Solubilidade de O₂ (mg/L)</p>"
+            },
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                266,
+                616,
+                337,
+                690
+              ],
+              "displayWidth": 180,
+              "alt": "Esboço do gráfico da alternativa C, com temperatura T (°C) no eixo horizontal."
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Solubilidade de O₂ (mg/L)</p>"
+            },
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                373,
+                616,
+                444,
+                690
+              ],
+              "displayWidth": 180,
+              "alt": "Esboço do gráfico da alternativa D, com temperatura T (°C) no eixo horizontal."
+            }
+          ],
+          [
+            {
+              "type": "html",
+              "html": "<p>Solubilidade de O₂ (mg/L)</p>"
+            },
+            {
+              "type": "crop",
+              "page": 17,
+              "rect": [
+                482,
+                616,
+                554,
+                690
+              ],
+              "displayWidth": 180,
+              "alt": "Esboço do gráfico da alternativa E, com temperatura T (°C) no eixo horizontal."
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

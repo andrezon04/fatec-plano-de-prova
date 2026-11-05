@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#192e2a">
+  <meta name="description" content="Seu espaço pessoal de preparação para a FATEC 2027: questões, tempo e estratégia.">
+  <title>FATEC 2027 · Plano de prova</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23192e2a'/%3E%3Cpath d='M11 29V11h18v5H17v3h10v5H17v5' fill='%23c9f17c'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Pular para o conteúdo</a>
+  <div id="app"></div>
+  <dialog id="confirm-dialog" aria-labelledby="dialog-title"><form method="dialog"><span class="eyebrow">CONFIRMAR AÇÃO</span><h2 id="dialog-title"></h2><p id="dialog-message"></p><div class="button-row"><button value="cancel" class="button secondary">Continuar aqui</button><button value="ok" class="button" id="dialog-ok">Confirmar</button></div></form></dialog>
+  <dialog id="backup-dialog" aria-labelledby="backup-title"><form method="dialog"><div class="section-head"><h2 id="backup-title">Recuperar progresso</h2><button class="button secondary slim" value="close">Fechar</button></div></form><div id="backup-list"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript>Ative o JavaScript para usar o simulador.</noscript>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
