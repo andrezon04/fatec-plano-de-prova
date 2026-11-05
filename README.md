@@ -25,6 +25,13 @@ Simulador de estudos para o vestibular da FATEC com treinos cronometrados, revis
 
 Com Node.js 22.13 ou superior, rode `npm ci` e `npm run dev`. Para executar os testes, use `npm test`. A sincronização depende da identidade fornecida pelo Sites e do binding D1 `DB`.
 
+## Deploy na Vercel
+
+O `vercel.json` configura a versão estática. Ela mantém o progresso no navegador em que você estuda. O histórico do ChatGPT Sites fica no endereço original.
+
+Para testar localmente, execute `node scripts/build-static.mjs` e depois `python -m http.server 8000 --directory out`. Abra [localhost:8000](http://localhost:8000).
+
+
 ## Organização
 
 - `app/` entrega a interface e a API de progresso.
